@@ -1,12 +1,12 @@
 public class Animal {
     String name ;
     String type;
-
+    //Animal constructor
     public Animal(String name, String type) {
         this.name = name;
         this.type = type;
     }
-
+    // method : response to the keeper
     public void r2wakeup() {
         System.out.println(this.name+ "  " +this.type+" wakeup");
     }

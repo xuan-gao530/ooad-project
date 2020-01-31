@@ -4,7 +4,7 @@ import java.io.*;
 public class Main {
     public static void main(String[] args) {
         Animal[] animals = new Animal[18];
-        //animal objects
+        //instantiate the objects
         Hippo Henry = new Hippo("Henry", "Hippo");
         animals[0] = Henry;
         Hippo Harry = new Hippo("Harry", "Hippo");
@@ -43,13 +43,14 @@ public class Main {
         animals[17] = Dove;
         //ZooKeeper: execute each of his responsibilities
         ZooKeeper z = new ZooKeeper(animals);   //attain the animals object
-        FileOutputStream bos = null;
+        FileOutputStream bos = null;            //output the result of println
         try {
             bos = new FileOutputStream("dayatthezoo.out");
         } catch (FileNotFoundException e) {
             e.printStackTrace();
         }
         System.setOut(new PrintStream(bos));
+        // execute responsibilities in order
         z.wakeup();                             //wake up the animals
         z.rollcall();                           //roll call the animals
         z.feed();                               //feed the animals
