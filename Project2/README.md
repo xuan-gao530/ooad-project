@@ -1,4 +1,4 @@
-ooad project2 : Strategy & Observer by Python
+# ooad project2 : Strategy & Observer by Python
 
 -----Names of team members: Lan Sang(lasa9094@colorado.edu), Xuan Gao(xuga2324@colorado.edu)
 
