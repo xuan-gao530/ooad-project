@@ -76,5 +76,6 @@ class ZooAnnouncer(Observer):
         self.display(status)
     def display(self,status):
         print("Hi, this is the Zoo Announcer.  The Zookeeper is about to ",self.status,"the animals")
-
+    def __del__(self):
+        print("delete")
 

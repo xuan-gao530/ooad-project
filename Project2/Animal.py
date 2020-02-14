@@ -159,6 +159,10 @@ if __name__ == "__main__":
     print("Using the setbehavior() to change the feedbehavior to feed with water")
     print(b.r2feed())
 
+    print(" cease observing and deconstruct zooannouncer")
+    z.remove_observer(a)
+    del a
+
 
 
 
