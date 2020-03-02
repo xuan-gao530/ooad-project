@@ -17,7 +17,7 @@ We has 3 parts: cars,customers and store.
 
 1. cars (options)
 type | number | price
-| - | :-: | -: | 
+|-:|-:|-:| 
 Economy | 6 | 50
 Standard| 8 | 60
 Luxury  | 3 | 90
