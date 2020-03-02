@@ -1,0 +1,1648 @@
+"E:\jetb\IntelliJ IDEA Community Edition 2019.3.1\jbr\bin\java.exe" "-javaagent:E:\jetb\IntelliJ IDEA Community Edition 2019.3.1\lib\idea_rt.jar=64862:E:\jetb\IntelliJ IDEA Community Edition 2019.3.1\bin" -Dfile.encoding=UTF-8 -classpath "F:\IdeaProjects\Project3-Carstore system\out\production\carfactory" store.Main
+*********************************************************************************
+At the begining of the day: 1
+Completed rentals record:
+Count: 0
+Cutomer name,rent day,lease,rental car information
+
+Active rentals record:
+Count: 0
+Cutomer name:   rental car type& license
+
+cars left in the store:
+Count: 24
+rental car type& license: [Economy:Economy001, Economy:Economy002, Economy:Economy003, Economy:Economy004, Economy:Economy005, Economy:Economy006, Standard:Standard001, Standard:Standard002, Standard:Standard003, Standard:Standard004, Standard:Standard005, Standard:Standard006, Standard:Standard007, Standard:Standard008, Luxury:Luxury001, Luxury:Luxury002, Luxury:Luxury003, Suv:SUV001, Suv:SUV002, Suv:SUV003, Minivan:Mini001, Minivan:Mini002, Minivan:Mini003, Minivan:Mini004]
+
+The income of the 0 day: 0.0
+
+*********************************************************************************
+At the begining of the day: 2
+Completed rentals record:
+Count: 2
+Cutomer name,rent day,lease,rental car information
+[Casual02, 1, 1, 65.0, Standard:Standard007  +0Child car seat  +0GPS module  +1satellite radio package]
+[Casual05, 1, 1, 120.0, Standard:Standard001  +4Child car seat  +1GPS module  +1satellite radio package]
+
+Active rentals record:
+Count: 6
+Cutomer name:   rental car type& license
+[Regular04, Minivan, Mini003]
+[Regular01, Luxury, Luxury003, Suv, SUV001, Standard, Standard002]
+[Regular02, Minivan, Mini001, Standard, Standard003]
+[Business02, Luxury, Luxury001, Economy, Economy002, Luxury, Luxury002]
+[Regular03, Minivan, Mini002]
+[Casual01, Economy, Economy003]
+
+cars left in the store:
+Count: 13
+rental car type& license: [Economy:Economy001, Economy:Economy004, Economy:Economy005, Economy:Economy006, Standard:Standard004, Standard:Standard005, Standard:Standard006, Standard:Standard008, Suv:SUV002, Suv:SUV003, Minivan:Mini004, Standard:Standard007, Standard:Standard001]
+
+The income of the 1 day: 4360.0
+
+*********************************************************************************
+At the begining of the day: 3
+Completed rentals record:
+Count: 3
+Cutomer name,rent day,lease,rental car information
+[Casual02, 1, 1, 65.0, Standard:Standard007  +0Child car seat  +0GPS module  +1satellite radio package]
+[Casual05, 1, 1, 120.0, Standard:Standard001  +4Child car seat  +1GPS module  +1satellite radio package]
+[Casual01, 1, 2, 130.0, Economy:Economy003  +1Child car seat  +1GPS module  +1satellite radio package]
+
+Active rentals record:
+Count: 7
+Cutomer name:   rental car type& license
+[Regular04, Minivan, Mini003]
+[Regular01, Luxury, Luxury003, Suv, SUV001, Standard, Standard002]
+[Regular02, Minivan, Mini001, Standard, Standard003]
+[Business02, Luxury, Luxury001, Economy, Economy002, Luxury, Luxury002]
+[Regular03, Minivan, Mini002]
+[Regular04, Standard, Standard006]
+[Regular02, Suv, SUV002, Standard, Standard005, Standard, Standard007]
+
+cars left in the store:
+Count: 10
+rental car type& license: [Economy:Economy001, Economy:Economy004, Economy:Economy005, Economy:Economy006, Standard:Standard004, Standard:Standard008, Suv:SUV003, Minivan:Mini004, Standard:Standard001, Economy:Economy003]
+
+The income of the 2 day: 1275.0
+
+*********************************************************************************
+At the begining of the day: 4
+Completed rentals record:
+Count: 4
+Cutomer name,rent day,lease,rental car information
+[Casual02, 1, 1, 65.0, Standard:Standard007  +0Child car seat  +0GPS module  +1satellite radio package]
+[Casual05, 1, 1, 120.0, Standard:Standard001  +4Child car seat  +1GPS module  +1satellite radio package]
+[Casual01, 1, 2, 130.0, Economy:Economy003  +1Child car seat  +1GPS module  +1satellite radio package]
+[Regular02, 1, 3, 400.0, Minivan:Mini001  +0Child car seat  +0GPS module  +1satellite radio package, Standard:Standard003  +0Child car seat  +0GPS module  +1satellite radio package]
+
+Active rentals record:
+Count: 8
+Cutomer name:   rental car type& license
+[Regular04, Minivan, Mini003]
+[Regular01, Luxury, Luxury003, Suv, SUV001, Standard, Standard002]
+[Business02, Luxury, Luxury001, Economy, Economy002, Luxury, Luxury002]
+[Regular03, Minivan, Mini002]
+[Regular04, Standard, Standard006]
+[Regular02, Suv, SUV002, Standard, Standard005, Standard, Standard007]
+[Casual01, Economy, Economy006]
+[Business01, Minivan, Mini004, Economy, Economy001, Economy, Economy005]
+
+cars left in the store:
+Count: 8
+rental car type& license: [Economy:Economy004, Standard:Standard004, Standard:Standard008, Suv:SUV003, Standard:Standard001, Economy:Economy003, Minivan:Mini001, Standard:Standard003]
+
+The income of the 3 day: 1385.0
+
+*********************************************************************************
+At the begining of the day: 5
+Completed rentals record:
+Count: 7
+Cutomer name,rent day,lease,rental car information
+[Casual02, 1, 1, 65.0, Standard:Standard007  +0Child car seat  +0GPS module  +1satellite radio package]
+[Casual05, 1, 1, 120.0, Standard:Standard001  +4Child car seat  +1GPS module  +1satellite radio package]
+[Casual01, 1, 2, 130.0, Economy:Economy003  +1Child car seat  +1GPS module  +1satellite radio package]
+[Regular02, 1, 3, 400.0, Minivan:Mini001  +0Child car seat  +0GPS module  +1satellite radio package, Standard:Standard003  +0Child car seat  +0GPS module  +1satellite radio package]
+[Regular04, 1, 4, 325.0, Minivan:Mini003  +4Child car seat  +0GPS module  +1satellite radio package]
+[Regular04, 2, 3, 215.0, Standard:Standard006  +2Child car seat  +1GPS module  +0satellite radio package]
+[Casual01, 3, 2, 100.0, Economy:Economy006  +0Child car seat  +0GPS module  +0satellite radio package]
+
+Active rentals record:
+Count: 5
+Cutomer name:   rental car type& license
+[Regular01, Luxury, Luxury003, Suv, SUV001, Standard, Standard002]
+[Business02, Luxury, Luxury001, Economy, Economy002, Luxury, Luxury002]
+[Regular03, Minivan, Mini002]
+[Regular02, Suv, SUV002, Standard, Standard005, Standard, Standard007]
+[Business01, Minivan, Mini004, Economy, Economy001, Economy, Economy005]
+
+cars left in the store:
+Count: 11
+rental car type& license: [Economy:Economy004, Standard:Standard004, Standard:Standard008, Suv:SUV003, Standard:Standard001, Economy:Economy003, Minivan:Mini001, Standard:Standard003, Minivan:Mini003, Standard:Standard006, Economy:Economy006]
+
+The income of the 4 day: 0.0
+
+*********************************************************************************
+At the begining of the day: 6
+Completed rentals record:
+Count: 9
+Cutomer name,rent day,lease,rental car information
+[Casual02, 1, 1, 65.0, Standard:Standard007  +0Child car seat  +0GPS module  +1satellite radio package]
+[Casual05, 1, 1, 120.0, Standard:Standard001  +4Child car seat  +1GPS module  +1satellite radio package]
+[Casual01, 1, 2, 130.0, Economy:Economy003  +1Child car seat  +1GPS module  +1satellite radio package]
+[Regular02, 1, 3, 400.0, Minivan:Mini001  +0Child car seat  +0GPS module  +1satellite radio package, Standard:Standard003  +0Child car seat  +0GPS module  +1satellite radio package]
+[Regular04, 1, 4, 325.0, Minivan:Mini003  +4Child car seat  +0GPS module  +1satellite radio package]
+[Regular04, 2, 3, 215.0, Standard:Standard006  +2Child car seat  +1GPS module  +0satellite radio package]
+[Casual01, 3, 2, 100.0, Economy:Economy006  +0Child car seat  +0GPS module  +0satellite radio package]
+[Regular01, 1, 5, 1220.0, Luxury:Luxury003  +0Child car seat  +1GPS module  +0satellite radio package, Suv:SUV001  +1Child car seat  +1GPS module  +0satellite radio package, Standard:Standard002  +3Child car seat  +0GPS module  +0satellite radio package]
+[Regular03, 1, 5, 390.0, Minivan:Mini002  +4Child car seat  +0GPS module  +0satellite radio package]
+
+Active rentals record:
+Count: 4
+Cutomer name:   rental car type& license
+[Business02, Luxury, Luxury001, Economy, Economy002, Luxury, Luxury002]
+[Regular02, Suv, SUV002, Standard, Standard005, Standard, Standard007]
+[Business01, Minivan, Mini004, Economy, Economy001, Economy, Economy005]
+[Regular02, Economy, Economy004, Minivan, Mini001, Suv, SUV003]
+
+cars left in the store:
+Count: 12
+rental car type& license: [Standard:Standard004, Standard:Standard008, Standard:Standard001, Economy:Economy003, Standard:Standard003, Minivan:Mini003, Standard:Standard006, Economy:Economy006, Luxury:Luxury003, Suv:SUV001, Standard:Standard002, Minivan:Mini002]
+
+The income of the 5 day: 1060.0
+
+*********************************************************************************
+At the begining of the day: 7
+Completed rentals record:
+Count: 11
+Cutomer name,rent day,lease,rental car information
+[Casual02, 1, 1, 65.0, Standard:Standard007  +0Child car seat  +0GPS module  +1satellite radio package]
+[Casual05, 1, 1, 120.0, Standard:Standard001  +4Child car seat  +1GPS module  +1satellite radio package]
+[Casual01, 1, 2, 130.0, Economy:Economy003  +1Child car seat  +1GPS module  +1satellite radio package]
+[Regular02, 1, 3, 400.0, Minivan:Mini001  +0Child car seat  +0GPS module  +1satellite radio package, Standard:Standard003  +0Child car seat  +0GPS module  +1satellite radio package]
+[Regular04, 1, 4, 325.0, Minivan:Mini003  +4Child car seat  +0GPS module  +1satellite radio package]
+[Regular04, 2, 3, 215.0, Standard:Standard006  +2Child car seat  +1GPS module  +0satellite radio package]
+[Casual01, 3, 2, 100.0, Economy:Economy006  +0Child car seat  +0GPS module  +0satellite radio package]
+[Regular01, 1, 5, 1220.0, Luxury:Luxury003  +0Child car seat  +1GPS module  +0satellite radio package, Suv:SUV001  +1Child car seat  +1GPS module  +0satellite radio package, Standard:Standard002  +3Child car seat  +0GPS module  +0satellite radio package]
+[Regular03, 1, 5, 390.0, Minivan:Mini002  +4Child car seat  +0GPS module  +0satellite radio package]
+[Regular02, 2, 5, 1060.0, Suv:SUV002  +0Child car seat  +1GPS module  +1satellite radio package, Standard:Standard005  +2Child car seat  +0GPS module  +0satellite radio package, Standard:Standard007  +0Child car seat  +1GPS module  +1satellite radio package]
+[Casual01, 6, 1, 100.0, Suv:SUV001  +0Child car seat  +1GPS module  +1satellite radio package]
+
+Active rentals record:
+Count: 4
+Cutomer name:   rental car type& license
+[Business02, Luxury, Luxury001, Economy, Economy002, Luxury, Luxury002]
+[Business01, Minivan, Mini004, Economy, Economy001, Economy, Economy005]
+[Regular02, Economy, Economy004, Minivan, Mini001, Suv, SUV003]
+[Regular02, Standard, Standard004]
+
+cars left in the store:
+Count: 14
+rental car type& license: [Standard:Standard008, Standard:Standard001, Economy:Economy003, Standard:Standard003, Minivan:Mini003, Standard:Standard006, Economy:Economy006, Luxury:Luxury003, Standard:Standard002, Minivan:Mini002, Suv:SUV002, Standard:Standard005, Standard:Standard007, Suv:SUV001]
+
+The income of the 6 day: 365.0
+
+*********************************************************************************
+At the begining of the day: 8
+Completed rentals record:
+Count: 12
+Cutomer name,rent day,lease,rental car information
+[Casual02, 1, 1, 65.0, Standard:Standard007  +0Child car seat  +0GPS module  +1satellite radio package]
+[Casual05, 1, 1, 120.0, Standard:Standard001  +4Child car seat  +1GPS module  +1satellite radio package]
+[Casual01, 1, 2, 130.0, Economy:Economy003  +1Child car seat  +1GPS module  +1satellite radio package]
+[Regular02, 1, 3, 400.0, Minivan:Mini001  +0Child car seat  +0GPS module  +1satellite radio package, Standard:Standard003  +0Child car seat  +0GPS module  +1satellite radio package]
+[Regular04, 1, 4, 325.0, Minivan:Mini003  +4Child car seat  +0GPS module  +1satellite radio package]
+[Regular04, 2, 3, 215.0, Standard:Standard006  +2Child car seat  +1GPS module  +0satellite radio package]
+[Casual01, 3, 2, 100.0, Economy:Economy006  +0Child car seat  +0GPS module  +0satellite radio package]
+[Regular01, 1, 5, 1220.0, Luxury:Luxury003  +0Child car seat  +1GPS module  +0satellite radio package, Suv:SUV001  +1Child car seat  +1GPS module  +0satellite radio package, Standard:Standard002  +3Child car seat  +0GPS module  +0satellite radio package]
+[Regular03, 1, 5, 390.0, Minivan:Mini002  +4Child car seat  +0GPS module  +0satellite radio package]
+[Regular02, 2, 5, 1060.0, Suv:SUV002  +0Child car seat  +1GPS module  +1satellite radio package, Standard:Standard005  +2Child car seat  +0GPS module  +0satellite radio package, Standard:Standard007  +0Child car seat  +1GPS module  +1satellite radio package]
+[Casual01, 6, 1, 100.0, Suv:SUV001  +0Child car seat  +1GPS module  +1satellite radio package]
+[Business02, 1, 7, 1710.0, Luxury:Luxury001  +1Child car seat  +1GPS module  +0satellite radio package, Economy:Economy002  +4Child car seat  +0GPS module  +0satellite radio package, Luxury:Luxury002  +2Child car seat  +1GPS module  +0satellite radio package]
+
+Active rentals record:
+Count: 6
+Cutomer name:   rental car type& license
+[Business01, Minivan, Mini004, Economy, Economy001, Economy, Economy005]
+[Regular02, Economy, Economy004, Minivan, Mini001, Suv, SUV003]
+[Regular02, Standard, Standard004]
+[Casual05, Standard, Standard002]
+[Casual02, Standard, Standard003]
+[Regular02, Minivan, Mini002, Minivan, Mini003]
+
+cars left in the store:
+Count: 13
+rental car type& license: [Standard:Standard008, Standard:Standard001, Economy:Economy003, Standard:Standard006, Economy:Economy006, Luxury:Luxury003, Suv:SUV002, Standard:Standard005, Standard:Standard007, Suv:SUV001, Luxury:Luxury001, Economy:Economy002, Luxury:Luxury002]
+
+The income of the 7 day: 1140.0
+
+*********************************************************************************
+At the begining of the day: 9
+Completed rentals record:
+Count: 13
+Cutomer name,rent day,lease,rental car information
+[Casual02, 1, 1, 65.0, Standard:Standard007  +0Child car seat  +0GPS module  +1satellite radio package]
+[Casual05, 1, 1, 120.0, Standard:Standard001  +4Child car seat  +1GPS module  +1satellite radio package]
+[Casual01, 1, 2, 130.0, Economy:Economy003  +1Child car seat  +1GPS module  +1satellite radio package]
+[Regular02, 1, 3, 400.0, Minivan:Mini001  +0Child car seat  +0GPS module  +1satellite radio package, Standard:Standard003  +0Child car seat  +0GPS module  +1satellite radio package]
+[Regular04, 1, 4, 325.0, Minivan:Mini003  +4Child car seat  +0GPS module  +1satellite radio package]
+[Regular04, 2, 3, 215.0, Standard:Standard006  +2Child car seat  +1GPS module  +0satellite radio package]
+[Casual01, 3, 2, 100.0, Economy:Economy006  +0Child car seat  +0GPS module  +0satellite radio package]
+[Regular01, 1, 5, 1220.0, Luxury:Luxury003  +0Child car seat  +1GPS module  +0satellite radio package, Suv:SUV001  +1Child car seat  +1GPS module  +0satellite radio package, Standard:Standard002  +3Child car seat  +0GPS module  +0satellite radio package]
+[Regular03, 1, 5, 390.0, Minivan:Mini002  +4Child car seat  +0GPS module  +0satellite radio package]
+[Regular02, 2, 5, 1060.0, Suv:SUV002  +0Child car seat  +1GPS module  +1satellite radio package, Standard:Standard005  +2Child car seat  +0GPS module  +0satellite radio package, Standard:Standard007  +0Child car seat  +1GPS module  +1satellite radio package]
+[Casual01, 6, 1, 100.0, Suv:SUV001  +0Child car seat  +1GPS module  +1satellite radio package]
+[Business02, 1, 7, 1710.0, Luxury:Luxury001  +1Child car seat  +1GPS module  +0satellite radio package, Economy:Economy002  +4Child car seat  +0GPS module  +0satellite radio package, Luxury:Luxury002  +2Child car seat  +1GPS module  +0satellite radio package]
+[Casual05, 8, 1, 95.0, Economy:Economy003  +3Child car seat  +1GPS module  +0satellite radio package]
+
+Active rentals record:
+Count: 9
+Cutomer name:   rental car type& license
+[Business01, Minivan, Mini004, Economy, Economy001, Economy, Economy005]
+[Regular02, Economy, Economy004, Minivan, Mini001, Suv, SUV003]
+[Regular02, Standard, Standard004]
+[Casual05, Standard, Standard002]
+[Casual02, Standard, Standard003]
+[Regular02, Minivan, Mini002, Minivan, Mini003]
+[Business02, Standard, Standard006, Standard, Standard007, Luxury, Luxury003]
+[Casual01, Luxury, Luxury001]
+[Regular02, Standard, Standard008]
+
+cars left in the store:
+Count: 8
+rental car type& license: [Standard:Standard001, Economy:Economy006, Suv:SUV002, Standard:Standard005, Suv:SUV001, Economy:Economy002, Luxury:Luxury002, Economy:Economy003]
+
+The income of the 8 day: 2240.0
+
+*********************************************************************************
+At the begining of the day: 10
+Completed rentals record:
+Count: 20
+Cutomer name,rent day,lease,rental car information
+[Casual02, 1, 1, 65.0, Standard:Standard007  +0Child car seat  +0GPS module  +1satellite radio package]
+[Casual05, 1, 1, 120.0, Standard:Standard001  +4Child car seat  +1GPS module  +1satellite radio package]
+[Casual01, 1, 2, 130.0, Economy:Economy003  +1Child car seat  +1GPS module  +1satellite radio package]
+[Regular02, 1, 3, 400.0, Minivan:Mini001  +0Child car seat  +0GPS module  +1satellite radio package, Standard:Standard003  +0Child car seat  +0GPS module  +1satellite radio package]
+[Regular04, 1, 4, 325.0, Minivan:Mini003  +4Child car seat  +0GPS module  +1satellite radio package]
+[Regular04, 2, 3, 215.0, Standard:Standard006  +2Child car seat  +1GPS module  +0satellite radio package]
+[Casual01, 3, 2, 100.0, Economy:Economy006  +0Child car seat  +0GPS module  +0satellite radio package]
+[Regular01, 1, 5, 1220.0, Luxury:Luxury003  +0Child car seat  +1GPS module  +0satellite radio package, Suv:SUV001  +1Child car seat  +1GPS module  +0satellite radio package, Standard:Standard002  +3Child car seat  +0GPS module  +0satellite radio package]
+[Regular03, 1, 5, 390.0, Minivan:Mini002  +4Child car seat  +0GPS module  +0satellite radio package]
+[Regular02, 2, 5, 1060.0, Suv:SUV002  +0Child car seat  +1GPS module  +1satellite radio package, Standard:Standard005  +2Child car seat  +0GPS module  +0satellite radio package, Standard:Standard007  +0Child car seat  +1GPS module  +1satellite radio package]
+[Casual01, 6, 1, 100.0, Suv:SUV001  +0Child car seat  +1GPS module  +1satellite radio package]
+[Business02, 1, 7, 1710.0, Luxury:Luxury001  +1Child car seat  +1GPS module  +0satellite radio package, Economy:Economy002  +4Child car seat  +0GPS module  +0satellite radio package, Luxury:Luxury002  +2Child car seat  +1GPS module  +0satellite radio package]
+[Casual05, 8, 1, 95.0, Economy:Economy003  +3Child car seat  +1GPS module  +0satellite radio package]
+[Business01, 3, 7, 1285.0, Minivan:Mini004  +2Child car seat  +0GPS module  +1satellite radio package, Economy:Economy001  +3Child car seat  +1GPS module  +0satellite radio package, Economy:Economy005  +1Child car seat  +1GPS module  +0satellite radio package]
+[Regular02, 5, 5, 1060.0, Economy:Economy004  +0Child car seat  +1GPS module  +1satellite radio package, Minivan:Mini001  +0Child car seat  +0GPS module  +0satellite radio package, Suv:SUV003  +4Child car seat  +0GPS module  +0satellite radio package]
+[Regular02, 6, 4, 265.0, Standard:Standard004  +1Child car seat  +1GPS module  +0satellite radio package]
+[Casual05, 7, 3, 215.0, Standard:Standard002  +2Child car seat  +1GPS module  +0satellite radio package]
+[Casual02, 7, 3, 195.0, Standard:Standard003  +0Child car seat  +1GPS module  +0satellite radio package]
+[Casual01, 8, 2, 205.0, Luxury:Luxury001  +1Child car seat  +1GPS module  +0satellite radio package]
+[Casual04, 9, 1, 70.0, Economy:Economy002  +0Child car seat  +1GPS module  +1satellite radio package]
+
+Active rentals record:
+Count: 3
+Cutomer name:   rental car type& license
+[Regular02, Minivan, Mini002, Minivan, Mini003]
+[Business02, Standard, Standard006, Standard, Standard007, Luxury, Luxury003]
+[Regular02, Standard, Standard008]
+
+cars left in the store:
+Count: 18
+rental car type& license: [Standard:Standard001, Economy:Economy006, Suv:SUV002, Standard:Standard005, Suv:SUV001, Luxury:Luxury002, Economy:Economy003, Minivan:Mini004, Economy:Economy001, Economy:Economy005, Economy:Economy004, Minivan:Mini001, Suv:SUV003, Standard:Standard004, Standard:Standard002, Standard:Standard003, Luxury:Luxury001, Economy:Economy002]
+
+The income of the 9 day: 70.0
+
+*********************************************************************************
+At the begining of the day: 11
+Completed rentals record:
+Count: 20
+Cutomer name,rent day,lease,rental car information
+[Casual02, 1, 1, 65.0, Standard:Standard007  +0Child car seat  +0GPS module  +1satellite radio package]
+[Casual05, 1, 1, 120.0, Standard:Standard001  +4Child car seat  +1GPS module  +1satellite radio package]
+[Casual01, 1, 2, 130.0, Economy:Economy003  +1Child car seat  +1GPS module  +1satellite radio package]
+[Regular02, 1, 3, 400.0, Minivan:Mini001  +0Child car seat  +0GPS module  +1satellite radio package, Standard:Standard003  +0Child car seat  +0GPS module  +1satellite radio package]
+[Regular04, 1, 4, 325.0, Minivan:Mini003  +4Child car seat  +0GPS module  +1satellite radio package]
+[Regular04, 2, 3, 215.0, Standard:Standard006  +2Child car seat  +1GPS module  +0satellite radio package]
+[Casual01, 3, 2, 100.0, Economy:Economy006  +0Child car seat  +0GPS module  +0satellite radio package]
+[Regular01, 1, 5, 1220.0, Luxury:Luxury003  +0Child car seat  +1GPS module  +0satellite radio package, Suv:SUV001  +1Child car seat  +1GPS module  +0satellite radio package, Standard:Standard002  +3Child car seat  +0GPS module  +0satellite radio package]
+[Regular03, 1, 5, 390.0, Minivan:Mini002  +4Child car seat  +0GPS module  +0satellite radio package]
+[Regular02, 2, 5, 1060.0, Suv:SUV002  +0Child car seat  +1GPS module  +1satellite radio package, Standard:Standard005  +2Child car seat  +0GPS module  +0satellite radio package, Standard:Standard007  +0Child car seat  +1GPS module  +1satellite radio package]
+[Casual01, 6, 1, 100.0, Suv:SUV001  +0Child car seat  +1GPS module  +1satellite radio package]
+[Business02, 1, 7, 1710.0, Luxury:Luxury001  +1Child car seat  +1GPS module  +0satellite radio package, Economy:Economy002  +4Child car seat  +0GPS module  +0satellite radio package, Luxury:Luxury002  +2Child car seat  +1GPS module  +0satellite radio package]
+[Casual05, 8, 1, 95.0, Economy:Economy003  +3Child car seat  +1GPS module  +0satellite radio package]
+[Business01, 3, 7, 1285.0, Minivan:Mini004  +2Child car seat  +0GPS module  +1satellite radio package, Economy:Economy001  +3Child car seat  +1GPS module  +0satellite radio package, Economy:Economy005  +1Child car seat  +1GPS module  +0satellite radio package]
+[Regular02, 5, 5, 1060.0, Economy:Economy004  +0Child car seat  +1GPS module  +1satellite radio package, Minivan:Mini001  +0Child car seat  +0GPS module  +0satellite radio package, Suv:SUV003  +4Child car seat  +0GPS module  +0satellite radio package]
+[Regular02, 6, 4, 265.0, Standard:Standard004  +1Child car seat  +1GPS module  +0satellite radio package]
+[Casual05, 7, 3, 215.0, Standard:Standard002  +2Child car seat  +1GPS module  +0satellite radio package]
+[Casual02, 7, 3, 195.0, Standard:Standard003  +0Child car seat  +1GPS module  +0satellite radio package]
+[Casual01, 8, 2, 205.0, Luxury:Luxury001  +1Child car seat  +1GPS module  +0satellite radio package]
+[Casual04, 9, 1, 70.0, Economy:Economy002  +0Child car seat  +1GPS module  +1satellite radio package]
+
+Active rentals record:
+Count: 4
+Cutomer name:   rental car type& license
+[Regular02, Minivan, Mini002, Minivan, Mini003]
+[Business02, Standard, Standard006, Standard, Standard007, Luxury, Luxury003]
+[Regular02, Standard, Standard008]
+[Regular02, Economy, Economy001, Luxury, Luxury002, Minivan, Mini004, Luxury, Luxury001, Economy, Economy006, Suv, SUV003, Economy, Economy005]
+
+cars left in the store:
+Count: 11
+rental car type& license: [Standard:Standard001, Suv:SUV002, Standard:Standard005, Suv:SUV001, Economy:Economy003, Economy:Economy004, Minivan:Mini001, Standard:Standard004, Standard:Standard002, Standard:Standard003, Economy:Economy002]
+
+The income of the 10 day: 2620.0
+
+*********************************************************************************
+At the begining of the day: 12
+Completed rentals record:
+Count: 22
+Cutomer name,rent day,lease,rental car information
+[Casual02, 1, 1, 65.0, Standard:Standard007  +0Child car seat  +0GPS module  +1satellite radio package]
+[Casual05, 1, 1, 120.0, Standard:Standard001  +4Child car seat  +1GPS module  +1satellite radio package]
+[Casual01, 1, 2, 130.0, Economy:Economy003  +1Child car seat  +1GPS module  +1satellite radio package]
+[Regular02, 1, 3, 400.0, Minivan:Mini001  +0Child car seat  +0GPS module  +1satellite radio package, Standard:Standard003  +0Child car seat  +0GPS module  +1satellite radio package]
+[Regular04, 1, 4, 325.0, Minivan:Mini003  +4Child car seat  +0GPS module  +1satellite radio package]
+[Regular04, 2, 3, 215.0, Standard:Standard006  +2Child car seat  +1GPS module  +0satellite radio package]
+[Casual01, 3, 2, 100.0, Economy:Economy006  +0Child car seat  +0GPS module  +0satellite radio package]
+[Regular01, 1, 5, 1220.0, Luxury:Luxury003  +0Child car seat  +1GPS module  +0satellite radio package, Suv:SUV001  +1Child car seat  +1GPS module  +0satellite radio package, Standard:Standard002  +3Child car seat  +0GPS module  +0satellite radio package]
+[Regular03, 1, 5, 390.0, Minivan:Mini002  +4Child car seat  +0GPS module  +0satellite radio package]
+[Regular02, 2, 5, 1060.0, Suv:SUV002  +0Child car seat  +1GPS module  +1satellite radio package, Standard:Standard005  +2Child car seat  +0GPS module  +0satellite radio package, Standard:Standard007  +0Child car seat  +1GPS module  +1satellite radio package]
+[Casual01, 6, 1, 100.0, Suv:SUV001  +0Child car seat  +1GPS module  +1satellite radio package]
+[Business02, 1, 7, 1710.0, Luxury:Luxury001  +1Child car seat  +1GPS module  +0satellite radio package, Economy:Economy002  +4Child car seat  +0GPS module  +0satellite radio package, Luxury:Luxury002  +2Child car seat  +1GPS module  +0satellite radio package]
+[Casual05, 8, 1, 95.0, Economy:Economy003  +3Child car seat  +1GPS module  +0satellite radio package]
+[Business01, 3, 7, 1285.0, Minivan:Mini004  +2Child car seat  +0GPS module  +1satellite radio package, Economy:Economy001  +3Child car seat  +1GPS module  +0satellite radio package, Economy:Economy005  +1Child car seat  +1GPS module  +0satellite radio package]
+[Regular02, 5, 5, 1060.0, Economy:Economy004  +0Child car seat  +1GPS module  +1satellite radio package, Minivan:Mini001  +0Child car seat  +0GPS module  +0satellite radio package, Suv:SUV003  +4Child car seat  +0GPS module  +0satellite radio package]
+[Regular02, 6, 4, 265.0, Standard:Standard004  +1Child car seat  +1GPS module  +0satellite radio package]
+[Casual05, 7, 3, 215.0, Standard:Standard002  +2Child car seat  +1GPS module  +0satellite radio package]
+[Casual02, 7, 3, 195.0, Standard:Standard003  +0Child car seat  +1GPS module  +0satellite radio package]
+[Casual01, 8, 2, 205.0, Luxury:Luxury001  +1Child car seat  +1GPS module  +0satellite radio package]
+[Casual04, 9, 1, 70.0, Economy:Economy002  +0Child car seat  +1GPS module  +1satellite radio package]
+[Regular02, 7, 5, 730.0, Minivan:Mini002  +2Child car seat  +0GPS module  +1satellite radio package, Minivan:Mini003  +0Child car seat  +0GPS module  +1satellite radio package]
+[Casual03, 11, 1, 90.0, Economy:Economy002  +2Child car seat  +1GPS module  +1satellite radio package]
+
+Active rentals record:
+Count: 3
+Cutomer name:   rental car type& license
+[Business02, Standard, Standard006, Standard, Standard007, Luxury, Luxury003]
+[Regular02, Standard, Standard008]
+[Regular02, Economy, Economy001, Luxury, Luxury002, Minivan, Mini004, Luxury, Luxury001, Economy, Economy006, Suv, SUV003, Economy, Economy005]
+
+cars left in the store:
+Count: 13
+rental car type& license: [Standard:Standard001, Suv:SUV002, Standard:Standard005, Suv:SUV001, Economy:Economy003, Economy:Economy004, Minivan:Mini001, Standard:Standard004, Standard:Standard002, Standard:Standard003, Minivan:Mini002, Minivan:Mini003, Economy:Economy002]
+
+The income of the 11 day: 90.0
+
+*********************************************************************************
+At the begining of the day: 13
+Completed rentals record:
+Count: 23
+Cutomer name,rent day,lease,rental car information
+[Casual02, 1, 1, 65.0, Standard:Standard007  +0Child car seat  +0GPS module  +1satellite radio package]
+[Casual05, 1, 1, 120.0, Standard:Standard001  +4Child car seat  +1GPS module  +1satellite radio package]
+[Casual01, 1, 2, 130.0, Economy:Economy003  +1Child car seat  +1GPS module  +1satellite radio package]
+[Regular02, 1, 3, 400.0, Minivan:Mini001  +0Child car seat  +0GPS module  +1satellite radio package, Standard:Standard003  +0Child car seat  +0GPS module  +1satellite radio package]
+[Regular04, 1, 4, 325.0, Minivan:Mini003  +4Child car seat  +0GPS module  +1satellite radio package]
+[Regular04, 2, 3, 215.0, Standard:Standard006  +2Child car seat  +1GPS module  +0satellite radio package]
+[Casual01, 3, 2, 100.0, Economy:Economy006  +0Child car seat  +0GPS module  +0satellite radio package]
+[Regular01, 1, 5, 1220.0, Luxury:Luxury003  +0Child car seat  +1GPS module  +0satellite radio package, Suv:SUV001  +1Child car seat  +1GPS module  +0satellite radio package, Standard:Standard002  +3Child car seat  +0GPS module  +0satellite radio package]
+[Regular03, 1, 5, 390.0, Minivan:Mini002  +4Child car seat  +0GPS module  +0satellite radio package]
+[Regular02, 2, 5, 1060.0, Suv:SUV002  +0Child car seat  +1GPS module  +1satellite radio package, Standard:Standard005  +2Child car seat  +0GPS module  +0satellite radio package, Standard:Standard007  +0Child car seat  +1GPS module  +1satellite radio package]
+[Casual01, 6, 1, 100.0, Suv:SUV001  +0Child car seat  +1GPS module  +1satellite radio package]
+[Business02, 1, 7, 1710.0, Luxury:Luxury001  +1Child car seat  +1GPS module  +0satellite radio package, Economy:Economy002  +4Child car seat  +0GPS module  +0satellite radio package, Luxury:Luxury002  +2Child car seat  +1GPS module  +0satellite radio package]
+[Casual05, 8, 1, 95.0, Economy:Economy003  +3Child car seat  +1GPS module  +0satellite radio package]
+[Business01, 3, 7, 1285.0, Minivan:Mini004  +2Child car seat  +0GPS module  +1satellite radio package, Economy:Economy001  +3Child car seat  +1GPS module  +0satellite radio package, Economy:Economy005  +1Child car seat  +1GPS module  +0satellite radio package]
+[Regular02, 5, 5, 1060.0, Economy:Economy004  +0Child car seat  +1GPS module  +1satellite radio package, Minivan:Mini001  +0Child car seat  +0GPS module  +0satellite radio package, Suv:SUV003  +4Child car seat  +0GPS module  +0satellite radio package]
+[Regular02, 6, 4, 265.0, Standard:Standard004  +1Child car seat  +1GPS module  +0satellite radio package]
+[Casual05, 7, 3, 215.0, Standard:Standard002  +2Child car seat  +1GPS module  +0satellite radio package]
+[Casual02, 7, 3, 195.0, Standard:Standard003  +0Child car seat  +1GPS module  +0satellite radio package]
+[Casual01, 8, 2, 205.0, Luxury:Luxury001  +1Child car seat  +1GPS module  +0satellite radio package]
+[Casual04, 9, 1, 70.0, Economy:Economy002  +0Child car seat  +1GPS module  +1satellite radio package]
+[Regular02, 7, 5, 730.0, Minivan:Mini002  +2Child car seat  +0GPS module  +1satellite radio package, Minivan:Mini003  +0Child car seat  +0GPS module  +1satellite radio package]
+[Casual03, 11, 1, 90.0, Economy:Economy002  +2Child car seat  +1GPS module  +1satellite radio package]
+[Regular02, 8, 5, 335.0, Standard:Standard008  +2Child car seat  +1GPS module  +0satellite radio package]
+
+Active rentals record:
+Count: 3
+Cutomer name:   rental car type& license
+[Business02, Standard, Standard006, Standard, Standard007, Luxury, Luxury003]
+[Regular02, Economy, Economy001, Luxury, Luxury002, Minivan, Mini004, Luxury, Luxury001, Economy, Economy006, Suv, SUV003, Economy, Economy005]
+[Regular01, Suv, SUV001, Economy, Economy002]
+
+cars left in the store:
+Count: 12
+rental car type& license: [Standard:Standard001, Suv:SUV002, Standard:Standard005, Economy:Economy003, Economy:Economy004, Minivan:Mini001, Standard:Standard004, Standard:Standard002, Standard:Standard003, Minivan:Mini002, Minivan:Mini003, Standard:Standard008]
+
+The income of the 12 day: 535.0
+
+*********************************************************************************
+At the begining of the day: 14
+Completed rentals record:
+Count: 23
+Cutomer name,rent day,lease,rental car information
+[Casual02, 1, 1, 65.0, Standard:Standard007  +0Child car seat  +0GPS module  +1satellite radio package]
+[Casual05, 1, 1, 120.0, Standard:Standard001  +4Child car seat  +1GPS module  +1satellite radio package]
+[Casual01, 1, 2, 130.0, Economy:Economy003  +1Child car seat  +1GPS module  +1satellite radio package]
+[Regular02, 1, 3, 400.0, Minivan:Mini001  +0Child car seat  +0GPS module  +1satellite radio package, Standard:Standard003  +0Child car seat  +0GPS module  +1satellite radio package]
+[Regular04, 1, 4, 325.0, Minivan:Mini003  +4Child car seat  +0GPS module  +1satellite radio package]
+[Regular04, 2, 3, 215.0, Standard:Standard006  +2Child car seat  +1GPS module  +0satellite radio package]
+[Casual01, 3, 2, 100.0, Economy:Economy006  +0Child car seat  +0GPS module  +0satellite radio package]
+[Regular01, 1, 5, 1220.0, Luxury:Luxury003  +0Child car seat  +1GPS module  +0satellite radio package, Suv:SUV001  +1Child car seat  +1GPS module  +0satellite radio package, Standard:Standard002  +3Child car seat  +0GPS module  +0satellite radio package]
+[Regular03, 1, 5, 390.0, Minivan:Mini002  +4Child car seat  +0GPS module  +0satellite radio package]
+[Regular02, 2, 5, 1060.0, Suv:SUV002  +0Child car seat  +1GPS module  +1satellite radio package, Standard:Standard005  +2Child car seat  +0GPS module  +0satellite radio package, Standard:Standard007  +0Child car seat  +1GPS module  +1satellite radio package]
+[Casual01, 6, 1, 100.0, Suv:SUV001  +0Child car seat  +1GPS module  +1satellite radio package]
+[Business02, 1, 7, 1710.0, Luxury:Luxury001  +1Child car seat  +1GPS module  +0satellite radio package, Economy:Economy002  +4Child car seat  +0GPS module  +0satellite radio package, Luxury:Luxury002  +2Child car seat  +1GPS module  +0satellite radio package]
+[Casual05, 8, 1, 95.0, Economy:Economy003  +3Child car seat  +1GPS module  +0satellite radio package]
+[Business01, 3, 7, 1285.0, Minivan:Mini004  +2Child car seat  +0GPS module  +1satellite radio package, Economy:Economy001  +3Child car seat  +1GPS module  +0satellite radio package, Economy:Economy005  +1Child car seat  +1GPS module  +0satellite radio package]
+[Regular02, 5, 5, 1060.0, Economy:Economy004  +0Child car seat  +1GPS module  +1satellite radio package, Minivan:Mini001  +0Child car seat  +0GPS module  +0satellite radio package, Suv:SUV003  +4Child car seat  +0GPS module  +0satellite radio package]
+[Regular02, 6, 4, 265.0, Standard:Standard004  +1Child car seat  +1GPS module  +0satellite radio package]
+[Casual05, 7, 3, 215.0, Standard:Standard002  +2Child car seat  +1GPS module  +0satellite radio package]
+[Casual02, 7, 3, 195.0, Standard:Standard003  +0Child car seat  +1GPS module  +0satellite radio package]
+[Casual01, 8, 2, 205.0, Luxury:Luxury001  +1Child car seat  +1GPS module  +0satellite radio package]
+[Casual04, 9, 1, 70.0, Economy:Economy002  +0Child car seat  +1GPS module  +1satellite radio package]
+[Regular02, 7, 5, 730.0, Minivan:Mini002  +2Child car seat  +0GPS module  +1satellite radio package, Minivan:Mini003  +0Child car seat  +0GPS module  +1satellite radio package]
+[Casual03, 11, 1, 90.0, Economy:Economy002  +2Child car seat  +1GPS module  +1satellite radio package]
+[Regular02, 8, 5, 335.0, Standard:Standard008  +2Child car seat  +1GPS module  +0satellite radio package]
+
+Active rentals record:
+Count: 4
+Cutomer name:   rental car type& license
+[Business02, Standard, Standard006, Standard, Standard007, Luxury, Luxury003]
+[Regular02, Economy, Economy001, Luxury, Luxury002, Minivan, Mini004, Luxury, Luxury001, Economy, Economy006, Suv, SUV003, Economy, Economy005]
+[Regular01, Suv, SUV001, Economy, Economy002]
+[Casual01, Standard, Standard004]
+
+cars left in the store:
+Count: 11
+rental car type& license: [Standard:Standard001, Suv:SUV002, Standard:Standard005, Economy:Economy003, Economy:Economy004, Minivan:Mini001, Standard:Standard002, Standard:Standard003, Minivan:Mini002, Minivan:Mini003, Standard:Standard008]
+
+The income of the 13 day: 135.0
+
+*********************************************************************************
+At the begining of the day: 15
+Completed rentals record:
+Count: 26
+Cutomer name,rent day,lease,rental car information
+[Casual02, 1, 1, 65.0, Standard:Standard007  +0Child car seat  +0GPS module  +1satellite radio package]
+[Casual05, 1, 1, 120.0, Standard:Standard001  +4Child car seat  +1GPS module  +1satellite radio package]
+[Casual01, 1, 2, 130.0, Economy:Economy003  +1Child car seat  +1GPS module  +1satellite radio package]
+[Regular02, 1, 3, 400.0, Minivan:Mini001  +0Child car seat  +0GPS module  +1satellite radio package, Standard:Standard003  +0Child car seat  +0GPS module  +1satellite radio package]
+[Regular04, 1, 4, 325.0, Minivan:Mini003  +4Child car seat  +0GPS module  +1satellite radio package]
+[Regular04, 2, 3, 215.0, Standard:Standard006  +2Child car seat  +1GPS module  +0satellite radio package]
+[Casual01, 3, 2, 100.0, Economy:Economy006  +0Child car seat  +0GPS module  +0satellite radio package]
+[Regular01, 1, 5, 1220.0, Luxury:Luxury003  +0Child car seat  +1GPS module  +0satellite radio package, Suv:SUV001  +1Child car seat  +1GPS module  +0satellite radio package, Standard:Standard002  +3Child car seat  +0GPS module  +0satellite radio package]
+[Regular03, 1, 5, 390.0, Minivan:Mini002  +4Child car seat  +0GPS module  +0satellite radio package]
+[Regular02, 2, 5, 1060.0, Suv:SUV002  +0Child car seat  +1GPS module  +1satellite radio package, Standard:Standard005  +2Child car seat  +0GPS module  +0satellite radio package, Standard:Standard007  +0Child car seat  +1GPS module  +1satellite radio package]
+[Casual01, 6, 1, 100.0, Suv:SUV001  +0Child car seat  +1GPS module  +1satellite radio package]
+[Business02, 1, 7, 1710.0, Luxury:Luxury001  +1Child car seat  +1GPS module  +0satellite radio package, Economy:Economy002  +4Child car seat  +0GPS module  +0satellite radio package, Luxury:Luxury002  +2Child car seat  +1GPS module  +0satellite radio package]
+[Casual05, 8, 1, 95.0, Economy:Economy003  +3Child car seat  +1GPS module  +0satellite radio package]
+[Business01, 3, 7, 1285.0, Minivan:Mini004  +2Child car seat  +0GPS module  +1satellite radio package, Economy:Economy001  +3Child car seat  +1GPS module  +0satellite radio package, Economy:Economy005  +1Child car seat  +1GPS module  +0satellite radio package]
+[Regular02, 5, 5, 1060.0, Economy:Economy004  +0Child car seat  +1GPS module  +1satellite radio package, Minivan:Mini001  +0Child car seat  +0GPS module  +0satellite radio package, Suv:SUV003  +4Child car seat  +0GPS module  +0satellite radio package]
+[Regular02, 6, 4, 265.0, Standard:Standard004  +1Child car seat  +1GPS module  +0satellite radio package]
+[Casual05, 7, 3, 215.0, Standard:Standard002  +2Child car seat  +1GPS module  +0satellite radio package]
+[Casual02, 7, 3, 195.0, Standard:Standard003  +0Child car seat  +1GPS module  +0satellite radio package]
+[Casual01, 8, 2, 205.0, Luxury:Luxury001  +1Child car seat  +1GPS module  +0satellite radio package]
+[Casual04, 9, 1, 70.0, Economy:Economy002  +0Child car seat  +1GPS module  +1satellite radio package]
+[Regular02, 7, 5, 730.0, Minivan:Mini002  +2Child car seat  +0GPS module  +1satellite radio package, Minivan:Mini003  +0Child car seat  +0GPS module  +1satellite radio package]
+[Casual03, 11, 1, 90.0, Economy:Economy002  +2Child car seat  +1GPS module  +1satellite radio package]
+[Regular02, 8, 5, 335.0, Standard:Standard008  +2Child car seat  +1GPS module  +0satellite radio package]
+[Business02, 8, 7, 1605.0, Standard:Standard006  +4Child car seat  +1GPS module  +0satellite radio package, Standard:Standard007  +2Child car seat  +0GPS module  +1satellite radio package, Luxury:Luxury003  +4Child car seat  +1GPS module  +0satellite radio package]
+[Regular02, 10, 5, 2620.0, Economy:Economy001  +1Child car seat  +1GPS module  +1satellite radio package, Luxury:Luxury002  +0Child car seat  +1GPS module  +1satellite radio package, Minivan:Mini004  +4Child car seat  +1GPS module  +0satellite radio package, Luxury:Luxury001  +0Child car seat  +1GPS module  +1satellite radio package, Economy:Economy006  +1Child car seat  +1GPS module  +0satellite radio package, Suv:SUV003  +0Child car seat  +1GPS module  +1satellite radio package, Economy:Economy005  +3Child car seat  +1GPS module  +1satellite radio package]
+[Casual01, 13, 2, 135.0, Standard:Standard004  +1Child car seat  +0GPS module  +1satellite radio package]
+
+Active rentals record:
+Count: 3
+Cutomer name:   rental car type& license
+[Regular01, Suv, SUV001, Economy, Economy002]
+[Regular02, Economy, Economy003, Standard, Standard005]
+[Regular01, Standard, Standard002]
+
+cars left in the store:
+Count: 19
+rental car type& license: [Standard:Standard001, Suv:SUV002, Economy:Economy004, Minivan:Mini001, Standard:Standard003, Minivan:Mini002, Minivan:Mini003, Standard:Standard008, Standard:Standard006, Standard:Standard007, Luxury:Luxury003, Economy:Economy001, Luxury:Luxury002, Minivan:Mini004, Luxury:Luxury001, Economy:Economy006, Suv:SUV003, Economy:Economy005, Standard:Standard004]
+
+The income of the 14 day: 855.0
+
+*********************************************************************************
+At the begining of the day: 16
+Completed rentals record:
+Count: 27
+Cutomer name,rent day,lease,rental car information
+[Casual02, 1, 1, 65.0, Standard:Standard007  +0Child car seat  +0GPS module  +1satellite radio package]
+[Casual05, 1, 1, 120.0, Standard:Standard001  +4Child car seat  +1GPS module  +1satellite radio package]
+[Casual01, 1, 2, 130.0, Economy:Economy003  +1Child car seat  +1GPS module  +1satellite radio package]
+[Regular02, 1, 3, 400.0, Minivan:Mini001  +0Child car seat  +0GPS module  +1satellite radio package, Standard:Standard003  +0Child car seat  +0GPS module  +1satellite radio package]
+[Regular04, 1, 4, 325.0, Minivan:Mini003  +4Child car seat  +0GPS module  +1satellite radio package]
+[Regular04, 2, 3, 215.0, Standard:Standard006  +2Child car seat  +1GPS module  +0satellite radio package]
+[Casual01, 3, 2, 100.0, Economy:Economy006  +0Child car seat  +0GPS module  +0satellite radio package]
+[Regular01, 1, 5, 1220.0, Luxury:Luxury003  +0Child car seat  +1GPS module  +0satellite radio package, Suv:SUV001  +1Child car seat  +1GPS module  +0satellite radio package, Standard:Standard002  +3Child car seat  +0GPS module  +0satellite radio package]
+[Regular03, 1, 5, 390.0, Minivan:Mini002  +4Child car seat  +0GPS module  +0satellite radio package]
+[Regular02, 2, 5, 1060.0, Suv:SUV002  +0Child car seat  +1GPS module  +1satellite radio package, Standard:Standard005  +2Child car seat  +0GPS module  +0satellite radio package, Standard:Standard007  +0Child car seat  +1GPS module  +1satellite radio package]
+[Casual01, 6, 1, 100.0, Suv:SUV001  +0Child car seat  +1GPS module  +1satellite radio package]
+[Business02, 1, 7, 1710.0, Luxury:Luxury001  +1Child car seat  +1GPS module  +0satellite radio package, Economy:Economy002  +4Child car seat  +0GPS module  +0satellite radio package, Luxury:Luxury002  +2Child car seat  +1GPS module  +0satellite radio package]
+[Casual05, 8, 1, 95.0, Economy:Economy003  +3Child car seat  +1GPS module  +0satellite radio package]
+[Business01, 3, 7, 1285.0, Minivan:Mini004  +2Child car seat  +0GPS module  +1satellite radio package, Economy:Economy001  +3Child car seat  +1GPS module  +0satellite radio package, Economy:Economy005  +1Child car seat  +1GPS module  +0satellite radio package]
+[Regular02, 5, 5, 1060.0, Economy:Economy004  +0Child car seat  +1GPS module  +1satellite radio package, Minivan:Mini001  +0Child car seat  +0GPS module  +0satellite radio package, Suv:SUV003  +4Child car seat  +0GPS module  +0satellite radio package]
+[Regular02, 6, 4, 265.0, Standard:Standard004  +1Child car seat  +1GPS module  +0satellite radio package]
+[Casual05, 7, 3, 215.0, Standard:Standard002  +2Child car seat  +1GPS module  +0satellite radio package]
+[Casual02, 7, 3, 195.0, Standard:Standard003  +0Child car seat  +1GPS module  +0satellite radio package]
+[Casual01, 8, 2, 205.0, Luxury:Luxury001  +1Child car seat  +1GPS module  +0satellite radio package]
+[Casual04, 9, 1, 70.0, Economy:Economy002  +0Child car seat  +1GPS module  +1satellite radio package]
+[Regular02, 7, 5, 730.0, Minivan:Mini002  +2Child car seat  +0GPS module  +1satellite radio package, Minivan:Mini003  +0Child car seat  +0GPS module  +1satellite radio package]
+[Casual03, 11, 1, 90.0, Economy:Economy002  +2Child car seat  +1GPS module  +1satellite radio package]
+[Regular02, 8, 5, 335.0, Standard:Standard008  +2Child car seat  +1GPS module  +0satellite radio package]
+[Business02, 8, 7, 1605.0, Standard:Standard006  +4Child car seat  +1GPS module  +0satellite radio package, Standard:Standard007  +2Child car seat  +0GPS module  +1satellite radio package, Luxury:Luxury003  +4Child car seat  +1GPS module  +0satellite radio package]
+[Regular02, 10, 5, 2620.0, Economy:Economy001  +1Child car seat  +1GPS module  +1satellite radio package, Luxury:Luxury002  +0Child car seat  +1GPS module  +1satellite radio package, Minivan:Mini004  +4Child car seat  +1GPS module  +0satellite radio package, Luxury:Luxury001  +0Child car seat  +1GPS module  +1satellite radio package, Economy:Economy006  +1Child car seat  +1GPS module  +0satellite radio package, Suv:SUV003  +0Child car seat  +1GPS module  +1satellite radio package, Economy:Economy005  +3Child car seat  +1GPS module  +1satellite radio package]
+[Casual01, 13, 2, 135.0, Standard:Standard004  +1Child car seat  +0GPS module  +1satellite radio package]
+[Regular01, 12, 4, 535.0, Suv:SUV001  +1Child car seat  +0GPS module  +0satellite radio package, Economy:Economy002  +0Child car seat  +0GPS module  +1satellite radio package]
+
+Active rentals record:
+Count: 5
+Cutomer name:   rental car type& license
+[Regular02, Economy, Economy003, Standard, Standard005]
+[Regular01, Standard, Standard002]
+[Regular02, Suv, SUV002]
+[Casual04, Minivan, Mini001]
+[Regular01, Standard, Standard006, Standard, Standard001, Luxury, Luxury001, Minivan, Mini004]
+
+cars left in the store:
+Count: 15
+rental car type& license: [Economy:Economy004, Standard:Standard003, Minivan:Mini002, Minivan:Mini003, Standard:Standard008, Standard:Standard007, Luxury:Luxury003, Economy:Economy001, Luxury:Luxury002, Economy:Economy006, Suv:SUV003, Economy:Economy005, Standard:Standard004, Suv:SUV001, Economy:Economy002]
+
+The income of the 15 day: 2180.0
+
+*********************************************************************************
+At the begining of the day: 17
+Completed rentals record:
+Count: 28
+Cutomer name,rent day,lease,rental car information
+[Casual02, 1, 1, 65.0, Standard:Standard007  +0Child car seat  +0GPS module  +1satellite radio package]
+[Casual05, 1, 1, 120.0, Standard:Standard001  +4Child car seat  +1GPS module  +1satellite radio package]
+[Casual01, 1, 2, 130.0, Economy:Economy003  +1Child car seat  +1GPS module  +1satellite radio package]
+[Regular02, 1, 3, 400.0, Minivan:Mini001  +0Child car seat  +0GPS module  +1satellite radio package, Standard:Standard003  +0Child car seat  +0GPS module  +1satellite radio package]
+[Regular04, 1, 4, 325.0, Minivan:Mini003  +4Child car seat  +0GPS module  +1satellite radio package]
+[Regular04, 2, 3, 215.0, Standard:Standard006  +2Child car seat  +1GPS module  +0satellite radio package]
+[Casual01, 3, 2, 100.0, Economy:Economy006  +0Child car seat  +0GPS module  +0satellite radio package]
+[Regular01, 1, 5, 1220.0, Luxury:Luxury003  +0Child car seat  +1GPS module  +0satellite radio package, Suv:SUV001  +1Child car seat  +1GPS module  +0satellite radio package, Standard:Standard002  +3Child car seat  +0GPS module  +0satellite radio package]
+[Regular03, 1, 5, 390.0, Minivan:Mini002  +4Child car seat  +0GPS module  +0satellite radio package]
+[Regular02, 2, 5, 1060.0, Suv:SUV002  +0Child car seat  +1GPS module  +1satellite radio package, Standard:Standard005  +2Child car seat  +0GPS module  +0satellite radio package, Standard:Standard007  +0Child car seat  +1GPS module  +1satellite radio package]
+[Casual01, 6, 1, 100.0, Suv:SUV001  +0Child car seat  +1GPS module  +1satellite radio package]
+[Business02, 1, 7, 1710.0, Luxury:Luxury001  +1Child car seat  +1GPS module  +0satellite radio package, Economy:Economy002  +4Child car seat  +0GPS module  +0satellite radio package, Luxury:Luxury002  +2Child car seat  +1GPS module  +0satellite radio package]
+[Casual05, 8, 1, 95.0, Economy:Economy003  +3Child car seat  +1GPS module  +0satellite radio package]
+[Business01, 3, 7, 1285.0, Minivan:Mini004  +2Child car seat  +0GPS module  +1satellite radio package, Economy:Economy001  +3Child car seat  +1GPS module  +0satellite radio package, Economy:Economy005  +1Child car seat  +1GPS module  +0satellite radio package]
+[Regular02, 5, 5, 1060.0, Economy:Economy004  +0Child car seat  +1GPS module  +1satellite radio package, Minivan:Mini001  +0Child car seat  +0GPS module  +0satellite radio package, Suv:SUV003  +4Child car seat  +0GPS module  +0satellite radio package]
+[Regular02, 6, 4, 265.0, Standard:Standard004  +1Child car seat  +1GPS module  +0satellite radio package]
+[Casual05, 7, 3, 215.0, Standard:Standard002  +2Child car seat  +1GPS module  +0satellite radio package]
+[Casual02, 7, 3, 195.0, Standard:Standard003  +0Child car seat  +1GPS module  +0satellite radio package]
+[Casual01, 8, 2, 205.0, Luxury:Luxury001  +1Child car seat  +1GPS module  +0satellite radio package]
+[Casual04, 9, 1, 70.0, Economy:Economy002  +0Child car seat  +1GPS module  +1satellite radio package]
+[Regular02, 7, 5, 730.0, Minivan:Mini002  +2Child car seat  +0GPS module  +1satellite radio package, Minivan:Mini003  +0Child car seat  +0GPS module  +1satellite radio package]
+[Casual03, 11, 1, 90.0, Economy:Economy002  +2Child car seat  +1GPS module  +1satellite radio package]
+[Regular02, 8, 5, 335.0, Standard:Standard008  +2Child car seat  +1GPS module  +0satellite radio package]
+[Business02, 8, 7, 1605.0, Standard:Standard006  +4Child car seat  +1GPS module  +0satellite radio package, Standard:Standard007  +2Child car seat  +0GPS module  +1satellite radio package, Luxury:Luxury003  +4Child car seat  +1GPS module  +0satellite radio package]
+[Regular02, 10, 5, 2620.0, Economy:Economy001  +1Child car seat  +1GPS module  +1satellite radio package, Luxury:Luxury002  +0Child car seat  +1GPS module  +1satellite radio package, Minivan:Mini004  +4Child car seat  +1GPS module  +0satellite radio package, Luxury:Luxury001  +0Child car seat  +1GPS module  +1satellite radio package, Economy:Economy006  +1Child car seat  +1GPS module  +0satellite radio package, Suv:SUV003  +0Child car seat  +1GPS module  +1satellite radio package, Economy:Economy005  +3Child car seat  +1GPS module  +1satellite radio package]
+[Casual01, 13, 2, 135.0, Standard:Standard004  +1Child car seat  +0GPS module  +1satellite radio package]
+[Regular01, 12, 4, 535.0, Suv:SUV001  +1Child car seat  +0GPS module  +0satellite radio package, Economy:Economy002  +0Child car seat  +0GPS module  +1satellite radio package]
+[Regular01, 14, 3, 205.0, Standard:Standard002  +2Child car seat  +0GPS module  +1satellite radio package]
+
+Active rentals record:
+Count: 6
+Cutomer name:   rental car type& license
+[Regular02, Economy, Economy003, Standard, Standard005]
+[Regular02, Suv, SUV002]
+[Casual04, Minivan, Mini001]
+[Regular01, Standard, Standard006, Standard, Standard001, Luxury, Luxury001, Minivan, Mini004]
+[Regular01, Luxury, Luxury002, Standard, Standard008]
+[Casual05, Suv, SUV003]
+
+cars left in the store:
+Count: 13
+rental car type& license: [Economy:Economy004, Standard:Standard003, Minivan:Mini002, Minivan:Mini003, Standard:Standard007, Luxury:Luxury003, Economy:Economy001, Economy:Economy006, Economy:Economy005, Standard:Standard004, Suv:SUV001, Economy:Economy002, Standard:Standard002]
+
+The income of the 16 day: 860.0
+
+*********************************************************************************
+At the begining of the day: 18
+Completed rentals record:
+Count: 31
+Cutomer name,rent day,lease,rental car information
+[Casual02, 1, 1, 65.0, Standard:Standard007  +0Child car seat  +0GPS module  +1satellite radio package]
+[Casual05, 1, 1, 120.0, Standard:Standard001  +4Child car seat  +1GPS module  +1satellite radio package]
+[Casual01, 1, 2, 130.0, Economy:Economy003  +1Child car seat  +1GPS module  +1satellite radio package]
+[Regular02, 1, 3, 400.0, Minivan:Mini001  +0Child car seat  +0GPS module  +1satellite radio package, Standard:Standard003  +0Child car seat  +0GPS module  +1satellite radio package]
+[Regular04, 1, 4, 325.0, Minivan:Mini003  +4Child car seat  +0GPS module  +1satellite radio package]
+[Regular04, 2, 3, 215.0, Standard:Standard006  +2Child car seat  +1GPS module  +0satellite radio package]
+[Casual01, 3, 2, 100.0, Economy:Economy006  +0Child car seat  +0GPS module  +0satellite radio package]
+[Regular01, 1, 5, 1220.0, Luxury:Luxury003  +0Child car seat  +1GPS module  +0satellite radio package, Suv:SUV001  +1Child car seat  +1GPS module  +0satellite radio package, Standard:Standard002  +3Child car seat  +0GPS module  +0satellite radio package]
+[Regular03, 1, 5, 390.0, Minivan:Mini002  +4Child car seat  +0GPS module  +0satellite radio package]
+[Regular02, 2, 5, 1060.0, Suv:SUV002  +0Child car seat  +1GPS module  +1satellite radio package, Standard:Standard005  +2Child car seat  +0GPS module  +0satellite radio package, Standard:Standard007  +0Child car seat  +1GPS module  +1satellite radio package]
+[Casual01, 6, 1, 100.0, Suv:SUV001  +0Child car seat  +1GPS module  +1satellite radio package]
+[Business02, 1, 7, 1710.0, Luxury:Luxury001  +1Child car seat  +1GPS module  +0satellite radio package, Economy:Economy002  +4Child car seat  +0GPS module  +0satellite radio package, Luxury:Luxury002  +2Child car seat  +1GPS module  +0satellite radio package]
+[Casual05, 8, 1, 95.0, Economy:Economy003  +3Child car seat  +1GPS module  +0satellite radio package]
+[Business01, 3, 7, 1285.0, Minivan:Mini004  +2Child car seat  +0GPS module  +1satellite radio package, Economy:Economy001  +3Child car seat  +1GPS module  +0satellite radio package, Economy:Economy005  +1Child car seat  +1GPS module  +0satellite radio package]
+[Regular02, 5, 5, 1060.0, Economy:Economy004  +0Child car seat  +1GPS module  +1satellite radio package, Minivan:Mini001  +0Child car seat  +0GPS module  +0satellite radio package, Suv:SUV003  +4Child car seat  +0GPS module  +0satellite radio package]
+[Regular02, 6, 4, 265.0, Standard:Standard004  +1Child car seat  +1GPS module  +0satellite radio package]
+[Casual05, 7, 3, 215.0, Standard:Standard002  +2Child car seat  +1GPS module  +0satellite radio package]
+[Casual02, 7, 3, 195.0, Standard:Standard003  +0Child car seat  +1GPS module  +0satellite radio package]
+[Casual01, 8, 2, 205.0, Luxury:Luxury001  +1Child car seat  +1GPS module  +0satellite radio package]
+[Casual04, 9, 1, 70.0, Economy:Economy002  +0Child car seat  +1GPS module  +1satellite radio package]
+[Regular02, 7, 5, 730.0, Minivan:Mini002  +2Child car seat  +0GPS module  +1satellite radio package, Minivan:Mini003  +0Child car seat  +0GPS module  +1satellite radio package]
+[Casual03, 11, 1, 90.0, Economy:Economy002  +2Child car seat  +1GPS module  +1satellite radio package]
+[Regular02, 8, 5, 335.0, Standard:Standard008  +2Child car seat  +1GPS module  +0satellite radio package]
+[Business02, 8, 7, 1605.0, Standard:Standard006  +4Child car seat  +1GPS module  +0satellite radio package, Standard:Standard007  +2Child car seat  +0GPS module  +1satellite radio package, Luxury:Luxury003  +4Child car seat  +1GPS module  +0satellite radio package]
+[Regular02, 10, 5, 2620.0, Economy:Economy001  +1Child car seat  +1GPS module  +1satellite radio package, Luxury:Luxury002  +0Child car seat  +1GPS module  +1satellite radio package, Minivan:Mini004  +4Child car seat  +1GPS module  +0satellite radio package, Luxury:Luxury001  +0Child car seat  +1GPS module  +1satellite radio package, Economy:Economy006  +1Child car seat  +1GPS module  +0satellite radio package, Suv:SUV003  +0Child car seat  +1GPS module  +1satellite radio package, Economy:Economy005  +3Child car seat  +1GPS module  +1satellite radio package]
+[Casual01, 13, 2, 135.0, Standard:Standard004  +1Child car seat  +0GPS module  +1satellite radio package]
+[Regular01, 12, 4, 535.0, Suv:SUV001  +1Child car seat  +0GPS module  +0satellite radio package, Economy:Economy002  +0Child car seat  +0GPS module  +1satellite radio package]
+[Regular01, 14, 3, 205.0, Standard:Standard002  +2Child car seat  +0GPS module  +1satellite radio package]
+[Casual04, 15, 3, 215.0, Minivan:Mini001  +0Child car seat  +0GPS module  +1satellite radio package]
+[Casual05, 16, 2, 210.0, Suv:SUV003  +3Child car seat  +1GPS module  +1satellite radio package]
+[Casual04, 17, 1, 95.0, Standard:Standard002  +3Child car seat  +0GPS module  +1satellite radio package]
+
+Active rentals record:
+Count: 4
+Cutomer name:   rental car type& license
+[Regular02, Economy, Economy003, Standard, Standard005]
+[Regular02, Suv, SUV002]
+[Regular01, Standard, Standard006, Standard, Standard001, Luxury, Luxury001, Minivan, Mini004]
+[Regular01, Luxury, Luxury002, Standard, Standard008]
+
+cars left in the store:
+Count: 15
+rental car type& license: [Economy:Economy004, Standard:Standard003, Minivan:Mini002, Minivan:Mini003, Standard:Standard007, Luxury:Luxury003, Economy:Economy001, Economy:Economy006, Economy:Economy005, Standard:Standard004, Suv:SUV001, Economy:Economy002, Minivan:Mini001, Suv:SUV003, Standard:Standard002]
+
+The income of the 17 day: 95.0
+
+*********************************************************************************
+At the begining of the day: 19
+Completed rentals record:
+Count: 32
+Cutomer name,rent day,lease,rental car information
+[Casual02, 1, 1, 65.0, Standard:Standard007  +0Child car seat  +0GPS module  +1satellite radio package]
+[Casual05, 1, 1, 120.0, Standard:Standard001  +4Child car seat  +1GPS module  +1satellite radio package]
+[Casual01, 1, 2, 130.0, Economy:Economy003  +1Child car seat  +1GPS module  +1satellite radio package]
+[Regular02, 1, 3, 400.0, Minivan:Mini001  +0Child car seat  +0GPS module  +1satellite radio package, Standard:Standard003  +0Child car seat  +0GPS module  +1satellite radio package]
+[Regular04, 1, 4, 325.0, Minivan:Mini003  +4Child car seat  +0GPS module  +1satellite radio package]
+[Regular04, 2, 3, 215.0, Standard:Standard006  +2Child car seat  +1GPS module  +0satellite radio package]
+[Casual01, 3, 2, 100.0, Economy:Economy006  +0Child car seat  +0GPS module  +0satellite radio package]
+[Regular01, 1, 5, 1220.0, Luxury:Luxury003  +0Child car seat  +1GPS module  +0satellite radio package, Suv:SUV001  +1Child car seat  +1GPS module  +0satellite radio package, Standard:Standard002  +3Child car seat  +0GPS module  +0satellite radio package]
+[Regular03, 1, 5, 390.0, Minivan:Mini002  +4Child car seat  +0GPS module  +0satellite radio package]
+[Regular02, 2, 5, 1060.0, Suv:SUV002  +0Child car seat  +1GPS module  +1satellite radio package, Standard:Standard005  +2Child car seat  +0GPS module  +0satellite radio package, Standard:Standard007  +0Child car seat  +1GPS module  +1satellite radio package]
+[Casual01, 6, 1, 100.0, Suv:SUV001  +0Child car seat  +1GPS module  +1satellite radio package]
+[Business02, 1, 7, 1710.0, Luxury:Luxury001  +1Child car seat  +1GPS module  +0satellite radio package, Economy:Economy002  +4Child car seat  +0GPS module  +0satellite radio package, Luxury:Luxury002  +2Child car seat  +1GPS module  +0satellite radio package]
+[Casual05, 8, 1, 95.0, Economy:Economy003  +3Child car seat  +1GPS module  +0satellite radio package]
+[Business01, 3, 7, 1285.0, Minivan:Mini004  +2Child car seat  +0GPS module  +1satellite radio package, Economy:Economy001  +3Child car seat  +1GPS module  +0satellite radio package, Economy:Economy005  +1Child car seat  +1GPS module  +0satellite radio package]
+[Regular02, 5, 5, 1060.0, Economy:Economy004  +0Child car seat  +1GPS module  +1satellite radio package, Minivan:Mini001  +0Child car seat  +0GPS module  +0satellite radio package, Suv:SUV003  +4Child car seat  +0GPS module  +0satellite radio package]
+[Regular02, 6, 4, 265.0, Standard:Standard004  +1Child car seat  +1GPS module  +0satellite radio package]
+[Casual05, 7, 3, 215.0, Standard:Standard002  +2Child car seat  +1GPS module  +0satellite radio package]
+[Casual02, 7, 3, 195.0, Standard:Standard003  +0Child car seat  +1GPS module  +0satellite radio package]
+[Casual01, 8, 2, 205.0, Luxury:Luxury001  +1Child car seat  +1GPS module  +0satellite radio package]
+[Casual04, 9, 1, 70.0, Economy:Economy002  +0Child car seat  +1GPS module  +1satellite radio package]
+[Regular02, 7, 5, 730.0, Minivan:Mini002  +2Child car seat  +0GPS module  +1satellite radio package, Minivan:Mini003  +0Child car seat  +0GPS module  +1satellite radio package]
+[Casual03, 11, 1, 90.0, Economy:Economy002  +2Child car seat  +1GPS module  +1satellite radio package]
+[Regular02, 8, 5, 335.0, Standard:Standard008  +2Child car seat  +1GPS module  +0satellite radio package]
+[Business02, 8, 7, 1605.0, Standard:Standard006  +4Child car seat  +1GPS module  +0satellite radio package, Standard:Standard007  +2Child car seat  +0GPS module  +1satellite radio package, Luxury:Luxury003  +4Child car seat  +1GPS module  +0satellite radio package]
+[Regular02, 10, 5, 2620.0, Economy:Economy001  +1Child car seat  +1GPS module  +1satellite radio package, Luxury:Luxury002  +0Child car seat  +1GPS module  +1satellite radio package, Minivan:Mini004  +4Child car seat  +1GPS module  +0satellite radio package, Luxury:Luxury001  +0Child car seat  +1GPS module  +1satellite radio package, Economy:Economy006  +1Child car seat  +1GPS module  +0satellite radio package, Suv:SUV003  +0Child car seat  +1GPS module  +1satellite radio package, Economy:Economy005  +3Child car seat  +1GPS module  +1satellite radio package]
+[Casual01, 13, 2, 135.0, Standard:Standard004  +1Child car seat  +0GPS module  +1satellite radio package]
+[Regular01, 12, 4, 535.0, Suv:SUV001  +1Child car seat  +0GPS module  +0satellite radio package, Economy:Economy002  +0Child car seat  +0GPS module  +1satellite radio package]
+[Regular01, 14, 3, 205.0, Standard:Standard002  +2Child car seat  +0GPS module  +1satellite radio package]
+[Casual04, 15, 3, 215.0, Minivan:Mini001  +0Child car seat  +0GPS module  +1satellite radio package]
+[Casual05, 16, 2, 210.0, Suv:SUV003  +3Child car seat  +1GPS module  +1satellite radio package]
+[Casual04, 17, 1, 95.0, Standard:Standard002  +3Child car seat  +0GPS module  +1satellite radio package]
+[Regular02, 14, 5, 650.0, Economy:Economy003  +4Child car seat  +0GPS module  +0satellite radio package, Standard:Standard005  +4Child car seat  +1GPS module  +1satellite radio package]
+
+Active rentals record:
+Count: 5
+Cutomer name:   rental car type& license
+[Regular02, Suv, SUV002]
+[Regular01, Standard, Standard006, Standard, Standard001, Luxury, Luxury001, Minivan, Mini004]
+[Regular01, Luxury, Luxury002, Standard, Standard008]
+[Casual05, Standard, Standard007]
+[Casual04, Luxury, Luxury003]
+
+cars left in the store:
+Count: 15
+rental car type& license: [Economy:Economy004, Standard:Standard003, Minivan:Mini002, Minivan:Mini003, Economy:Economy001, Economy:Economy006, Economy:Economy005, Standard:Standard004, Suv:SUV001, Economy:Economy002, Minivan:Mini001, Suv:SUV003, Standard:Standard002, Economy:Economy003, Standard:Standard005]
+
+The income of the 18 day: 370.0
+
+*********************************************************************************
+At the begining of the day: 20
+Completed rentals record:
+Count: 37
+Cutomer name,rent day,lease,rental car information
+[Casual02, 1, 1, 65.0, Standard:Standard007  +0Child car seat  +0GPS module  +1satellite radio package]
+[Casual05, 1, 1, 120.0, Standard:Standard001  +4Child car seat  +1GPS module  +1satellite radio package]
+[Casual01, 1, 2, 130.0, Economy:Economy003  +1Child car seat  +1GPS module  +1satellite radio package]
+[Regular02, 1, 3, 400.0, Minivan:Mini001  +0Child car seat  +0GPS module  +1satellite radio package, Standard:Standard003  +0Child car seat  +0GPS module  +1satellite radio package]
+[Regular04, 1, 4, 325.0, Minivan:Mini003  +4Child car seat  +0GPS module  +1satellite radio package]
+[Regular04, 2, 3, 215.0, Standard:Standard006  +2Child car seat  +1GPS module  +0satellite radio package]
+[Casual01, 3, 2, 100.0, Economy:Economy006  +0Child car seat  +0GPS module  +0satellite radio package]
+[Regular01, 1, 5, 1220.0, Luxury:Luxury003  +0Child car seat  +1GPS module  +0satellite radio package, Suv:SUV001  +1Child car seat  +1GPS module  +0satellite radio package, Standard:Standard002  +3Child car seat  +0GPS module  +0satellite radio package]
+[Regular03, 1, 5, 390.0, Minivan:Mini002  +4Child car seat  +0GPS module  +0satellite radio package]
+[Regular02, 2, 5, 1060.0, Suv:SUV002  +0Child car seat  +1GPS module  +1satellite radio package, Standard:Standard005  +2Child car seat  +0GPS module  +0satellite radio package, Standard:Standard007  +0Child car seat  +1GPS module  +1satellite radio package]
+[Casual01, 6, 1, 100.0, Suv:SUV001  +0Child car seat  +1GPS module  +1satellite radio package]
+[Business02, 1, 7, 1710.0, Luxury:Luxury001  +1Child car seat  +1GPS module  +0satellite radio package, Economy:Economy002  +4Child car seat  +0GPS module  +0satellite radio package, Luxury:Luxury002  +2Child car seat  +1GPS module  +0satellite radio package]
+[Casual05, 8, 1, 95.0, Economy:Economy003  +3Child car seat  +1GPS module  +0satellite radio package]
+[Business01, 3, 7, 1285.0, Minivan:Mini004  +2Child car seat  +0GPS module  +1satellite radio package, Economy:Economy001  +3Child car seat  +1GPS module  +0satellite radio package, Economy:Economy005  +1Child car seat  +1GPS module  +0satellite radio package]
+[Regular02, 5, 5, 1060.0, Economy:Economy004  +0Child car seat  +1GPS module  +1satellite radio package, Minivan:Mini001  +0Child car seat  +0GPS module  +0satellite radio package, Suv:SUV003  +4Child car seat  +0GPS module  +0satellite radio package]
+[Regular02, 6, 4, 265.0, Standard:Standard004  +1Child car seat  +1GPS module  +0satellite radio package]
+[Casual05, 7, 3, 215.0, Standard:Standard002  +2Child car seat  +1GPS module  +0satellite radio package]
+[Casual02, 7, 3, 195.0, Standard:Standard003  +0Child car seat  +1GPS module  +0satellite radio package]
+[Casual01, 8, 2, 205.0, Luxury:Luxury001  +1Child car seat  +1GPS module  +0satellite radio package]
+[Casual04, 9, 1, 70.0, Economy:Economy002  +0Child car seat  +1GPS module  +1satellite radio package]
+[Regular02, 7, 5, 730.0, Minivan:Mini002  +2Child car seat  +0GPS module  +1satellite radio package, Minivan:Mini003  +0Child car seat  +0GPS module  +1satellite radio package]
+[Casual03, 11, 1, 90.0, Economy:Economy002  +2Child car seat  +1GPS module  +1satellite radio package]
+[Regular02, 8, 5, 335.0, Standard:Standard008  +2Child car seat  +1GPS module  +0satellite radio package]
+[Business02, 8, 7, 1605.0, Standard:Standard006  +4Child car seat  +1GPS module  +0satellite radio package, Standard:Standard007  +2Child car seat  +0GPS module  +1satellite radio package, Luxury:Luxury003  +4Child car seat  +1GPS module  +0satellite radio package]
+[Regular02, 10, 5, 2620.0, Economy:Economy001  +1Child car seat  +1GPS module  +1satellite radio package, Luxury:Luxury002  +0Child car seat  +1GPS module  +1satellite radio package, Minivan:Mini004  +4Child car seat  +1GPS module  +0satellite radio package, Luxury:Luxury001  +0Child car seat  +1GPS module  +1satellite radio package, Economy:Economy006  +1Child car seat  +1GPS module  +0satellite radio package, Suv:SUV003  +0Child car seat  +1GPS module  +1satellite radio package, Economy:Economy005  +3Child car seat  +1GPS module  +1satellite radio package]
+[Casual01, 13, 2, 135.0, Standard:Standard004  +1Child car seat  +0GPS module  +1satellite radio package]
+[Regular01, 12, 4, 535.0, Suv:SUV001  +1Child car seat  +0GPS module  +0satellite radio package, Economy:Economy002  +0Child car seat  +0GPS module  +1satellite radio package]
+[Regular01, 14, 3, 205.0, Standard:Standard002  +2Child car seat  +0GPS module  +1satellite radio package]
+[Casual04, 15, 3, 215.0, Minivan:Mini001  +0Child car seat  +0GPS module  +1satellite radio package]
+[Casual05, 16, 2, 210.0, Suv:SUV003  +3Child car seat  +1GPS module  +1satellite radio package]
+[Casual04, 17, 1, 95.0, Standard:Standard002  +3Child car seat  +0GPS module  +1satellite radio package]
+[Regular02, 14, 5, 650.0, Economy:Economy003  +4Child car seat  +0GPS module  +0satellite radio package, Standard:Standard005  +4Child car seat  +1GPS module  +1satellite radio package]
+[Regular02, 15, 5, 450.0, Suv:SUV002  +3Child car seat  +1GPS module  +1satellite radio package]
+[Regular01, 15, 5, 1515.0, Standard:Standard006  +1Child car seat  +1GPS module  +0satellite radio package, Standard:Standard001  +3Child car seat  +1GPS module  +1satellite radio package, Luxury:Luxury001  +0Child car seat  +1GPS module  +1satellite radio package, Minivan:Mini004  +2Child car seat  +0GPS module  +0satellite radio package]
+[Regular01, 16, 4, 650.0, Luxury:Luxury002  +2Child car seat  +0GPS module  +0satellite radio package, Standard:Standard008  +1Child car seat  +1GPS module  +1satellite radio package]
+[Casual05, 18, 2, 135.0, Standard:Standard007  +1Child car seat  +0GPS module  +1satellite radio package]
+[Casual04, 18, 2, 235.0, Luxury:Luxury003  +4Child car seat  +1GPS module  +0satellite radio package]
+
+Active rentals record:
+Count: 0
+Cutomer name:   rental car type& license
+
+cars left in the store:
+Count: 24
+rental car type& license: [Economy:Economy004, Standard:Standard003, Minivan:Mini002, Minivan:Mini003, Economy:Economy001, Economy:Economy006, Economy:Economy005, Standard:Standard004, Suv:SUV001, Economy:Economy002, Minivan:Mini001, Suv:SUV003, Standard:Standard002, Economy:Economy003, Standard:Standard005, Suv:SUV002, Standard:Standard006, Standard:Standard001, Luxury:Luxury001, Minivan:Mini004, Luxury:Luxury002, Standard:Standard008, Standard:Standard007, Luxury:Luxury003]
+
+The income of the 19 day: 0.0
+
+*********************************************************************************
+At the begining of the day: 21
+Completed rentals record:
+Count: 37
+Cutomer name,rent day,lease,rental car information
+[Casual02, 1, 1, 65.0, Standard:Standard007  +0Child car seat  +0GPS module  +1satellite radio package]
+[Casual05, 1, 1, 120.0, Standard:Standard001  +4Child car seat  +1GPS module  +1satellite radio package]
+[Casual01, 1, 2, 130.0, Economy:Economy003  +1Child car seat  +1GPS module  +1satellite radio package]
+[Regular02, 1, 3, 400.0, Minivan:Mini001  +0Child car seat  +0GPS module  +1satellite radio package, Standard:Standard003  +0Child car seat  +0GPS module  +1satellite radio package]
+[Regular04, 1, 4, 325.0, Minivan:Mini003  +4Child car seat  +0GPS module  +1satellite radio package]
+[Regular04, 2, 3, 215.0, Standard:Standard006  +2Child car seat  +1GPS module  +0satellite radio package]
+[Casual01, 3, 2, 100.0, Economy:Economy006  +0Child car seat  +0GPS module  +0satellite radio package]
+[Regular01, 1, 5, 1220.0, Luxury:Luxury003  +0Child car seat  +1GPS module  +0satellite radio package, Suv:SUV001  +1Child car seat  +1GPS module  +0satellite radio package, Standard:Standard002  +3Child car seat  +0GPS module  +0satellite radio package]
+[Regular03, 1, 5, 390.0, Minivan:Mini002  +4Child car seat  +0GPS module  +0satellite radio package]
+[Regular02, 2, 5, 1060.0, Suv:SUV002  +0Child car seat  +1GPS module  +1satellite radio package, Standard:Standard005  +2Child car seat  +0GPS module  +0satellite radio package, Standard:Standard007  +0Child car seat  +1GPS module  +1satellite radio package]
+[Casual01, 6, 1, 100.0, Suv:SUV001  +0Child car seat  +1GPS module  +1satellite radio package]
+[Business02, 1, 7, 1710.0, Luxury:Luxury001  +1Child car seat  +1GPS module  +0satellite radio package, Economy:Economy002  +4Child car seat  +0GPS module  +0satellite radio package, Luxury:Luxury002  +2Child car seat  +1GPS module  +0satellite radio package]
+[Casual05, 8, 1, 95.0, Economy:Economy003  +3Child car seat  +1GPS module  +0satellite radio package]
+[Business01, 3, 7, 1285.0, Minivan:Mini004  +2Child car seat  +0GPS module  +1satellite radio package, Economy:Economy001  +3Child car seat  +1GPS module  +0satellite radio package, Economy:Economy005  +1Child car seat  +1GPS module  +0satellite radio package]
+[Regular02, 5, 5, 1060.0, Economy:Economy004  +0Child car seat  +1GPS module  +1satellite radio package, Minivan:Mini001  +0Child car seat  +0GPS module  +0satellite radio package, Suv:SUV003  +4Child car seat  +0GPS module  +0satellite radio package]
+[Regular02, 6, 4, 265.0, Standard:Standard004  +1Child car seat  +1GPS module  +0satellite radio package]
+[Casual05, 7, 3, 215.0, Standard:Standard002  +2Child car seat  +1GPS module  +0satellite radio package]
+[Casual02, 7, 3, 195.0, Standard:Standard003  +0Child car seat  +1GPS module  +0satellite radio package]
+[Casual01, 8, 2, 205.0, Luxury:Luxury001  +1Child car seat  +1GPS module  +0satellite radio package]
+[Casual04, 9, 1, 70.0, Economy:Economy002  +0Child car seat  +1GPS module  +1satellite radio package]
+[Regular02, 7, 5, 730.0, Minivan:Mini002  +2Child car seat  +0GPS module  +1satellite radio package, Minivan:Mini003  +0Child car seat  +0GPS module  +1satellite radio package]
+[Casual03, 11, 1, 90.0, Economy:Economy002  +2Child car seat  +1GPS module  +1satellite radio package]
+[Regular02, 8, 5, 335.0, Standard:Standard008  +2Child car seat  +1GPS module  +0satellite radio package]
+[Business02, 8, 7, 1605.0, Standard:Standard006  +4Child car seat  +1GPS module  +0satellite radio package, Standard:Standard007  +2Child car seat  +0GPS module  +1satellite radio package, Luxury:Luxury003  +4Child car seat  +1GPS module  +0satellite radio package]
+[Regular02, 10, 5, 2620.0, Economy:Economy001  +1Child car seat  +1GPS module  +1satellite radio package, Luxury:Luxury002  +0Child car seat  +1GPS module  +1satellite radio package, Minivan:Mini004  +4Child car seat  +1GPS module  +0satellite radio package, Luxury:Luxury001  +0Child car seat  +1GPS module  +1satellite radio package, Economy:Economy006  +1Child car seat  +1GPS module  +0satellite radio package, Suv:SUV003  +0Child car seat  +1GPS module  +1satellite radio package, Economy:Economy005  +3Child car seat  +1GPS module  +1satellite radio package]
+[Casual01, 13, 2, 135.0, Standard:Standard004  +1Child car seat  +0GPS module  +1satellite radio package]
+[Regular01, 12, 4, 535.0, Suv:SUV001  +1Child car seat  +0GPS module  +0satellite radio package, Economy:Economy002  +0Child car seat  +0GPS module  +1satellite radio package]
+[Regular01, 14, 3, 205.0, Standard:Standard002  +2Child car seat  +0GPS module  +1satellite radio package]
+[Casual04, 15, 3, 215.0, Minivan:Mini001  +0Child car seat  +0GPS module  +1satellite radio package]
+[Casual05, 16, 2, 210.0, Suv:SUV003  +3Child car seat  +1GPS module  +1satellite radio package]
+[Casual04, 17, 1, 95.0, Standard:Standard002  +3Child car seat  +0GPS module  +1satellite radio package]
+[Regular02, 14, 5, 650.0, Economy:Economy003  +4Child car seat  +0GPS module  +0satellite radio package, Standard:Standard005  +4Child car seat  +1GPS module  +1satellite radio package]
+[Regular02, 15, 5, 450.0, Suv:SUV002  +3Child car seat  +1GPS module  +1satellite radio package]
+[Regular01, 15, 5, 1515.0, Standard:Standard006  +1Child car seat  +1GPS module  +0satellite radio package, Standard:Standard001  +3Child car seat  +1GPS module  +1satellite radio package, Luxury:Luxury001  +0Child car seat  +1GPS module  +1satellite radio package, Minivan:Mini004  +2Child car seat  +0GPS module  +0satellite radio package]
+[Regular01, 16, 4, 650.0, Luxury:Luxury002  +2Child car seat  +0GPS module  +0satellite radio package, Standard:Standard008  +1Child car seat  +1GPS module  +1satellite radio package]
+[Casual05, 18, 2, 135.0, Standard:Standard007  +1Child car seat  +0GPS module  +1satellite radio package]
+[Casual04, 18, 2, 235.0, Luxury:Luxury003  +4Child car seat  +1GPS module  +0satellite radio package]
+
+Active rentals record:
+Count: 2
+Cutomer name:   rental car type& license
+[Regular01, Minivan, Mini003, Luxury, Luxury001]
+[Casual05, Standard, Standard001]
+
+cars left in the store:
+Count: 21
+rental car type& license: [Economy:Economy004, Standard:Standard003, Minivan:Mini002, Economy:Economy001, Economy:Economy006, Economy:Economy005, Standard:Standard004, Suv:SUV001, Economy:Economy002, Minivan:Mini001, Suv:SUV003, Standard:Standard002, Economy:Economy003, Standard:Standard005, Suv:SUV002, Standard:Standard006, Minivan:Mini004, Luxury:Luxury002, Standard:Standard008, Standard:Standard007, Luxury:Luxury003]
+
+The income of the 20 day: 820.0
+
+*********************************************************************************
+At the begining of the day: 22
+Completed rentals record:
+Count: 38
+Cutomer name,rent day,lease,rental car information
+[Casual02, 1, 1, 65.0, Standard:Standard007  +0Child car seat  +0GPS module  +1satellite radio package]
+[Casual05, 1, 1, 120.0, Standard:Standard001  +4Child car seat  +1GPS module  +1satellite radio package]
+[Casual01, 1, 2, 130.0, Economy:Economy003  +1Child car seat  +1GPS module  +1satellite radio package]
+[Regular02, 1, 3, 400.0, Minivan:Mini001  +0Child car seat  +0GPS module  +1satellite radio package, Standard:Standard003  +0Child car seat  +0GPS module  +1satellite radio package]
+[Regular04, 1, 4, 325.0, Minivan:Mini003  +4Child car seat  +0GPS module  +1satellite radio package]
+[Regular04, 2, 3, 215.0, Standard:Standard006  +2Child car seat  +1GPS module  +0satellite radio package]
+[Casual01, 3, 2, 100.0, Economy:Economy006  +0Child car seat  +0GPS module  +0satellite radio package]
+[Regular01, 1, 5, 1220.0, Luxury:Luxury003  +0Child car seat  +1GPS module  +0satellite radio package, Suv:SUV001  +1Child car seat  +1GPS module  +0satellite radio package, Standard:Standard002  +3Child car seat  +0GPS module  +0satellite radio package]
+[Regular03, 1, 5, 390.0, Minivan:Mini002  +4Child car seat  +0GPS module  +0satellite radio package]
+[Regular02, 2, 5, 1060.0, Suv:SUV002  +0Child car seat  +1GPS module  +1satellite radio package, Standard:Standard005  +2Child car seat  +0GPS module  +0satellite radio package, Standard:Standard007  +0Child car seat  +1GPS module  +1satellite radio package]
+[Casual01, 6, 1, 100.0, Suv:SUV001  +0Child car seat  +1GPS module  +1satellite radio package]
+[Business02, 1, 7, 1710.0, Luxury:Luxury001  +1Child car seat  +1GPS module  +0satellite radio package, Economy:Economy002  +4Child car seat  +0GPS module  +0satellite radio package, Luxury:Luxury002  +2Child car seat  +1GPS module  +0satellite radio package]
+[Casual05, 8, 1, 95.0, Economy:Economy003  +3Child car seat  +1GPS module  +0satellite radio package]
+[Business01, 3, 7, 1285.0, Minivan:Mini004  +2Child car seat  +0GPS module  +1satellite radio package, Economy:Economy001  +3Child car seat  +1GPS module  +0satellite radio package, Economy:Economy005  +1Child car seat  +1GPS module  +0satellite radio package]
+[Regular02, 5, 5, 1060.0, Economy:Economy004  +0Child car seat  +1GPS module  +1satellite radio package, Minivan:Mini001  +0Child car seat  +0GPS module  +0satellite radio package, Suv:SUV003  +4Child car seat  +0GPS module  +0satellite radio package]
+[Regular02, 6, 4, 265.0, Standard:Standard004  +1Child car seat  +1GPS module  +0satellite radio package]
+[Casual05, 7, 3, 215.0, Standard:Standard002  +2Child car seat  +1GPS module  +0satellite radio package]
+[Casual02, 7, 3, 195.0, Standard:Standard003  +0Child car seat  +1GPS module  +0satellite radio package]
+[Casual01, 8, 2, 205.0, Luxury:Luxury001  +1Child car seat  +1GPS module  +0satellite radio package]
+[Casual04, 9, 1, 70.0, Economy:Economy002  +0Child car seat  +1GPS module  +1satellite radio package]
+[Regular02, 7, 5, 730.0, Minivan:Mini002  +2Child car seat  +0GPS module  +1satellite radio package, Minivan:Mini003  +0Child car seat  +0GPS module  +1satellite radio package]
+[Casual03, 11, 1, 90.0, Economy:Economy002  +2Child car seat  +1GPS module  +1satellite radio package]
+[Regular02, 8, 5, 335.0, Standard:Standard008  +2Child car seat  +1GPS module  +0satellite radio package]
+[Business02, 8, 7, 1605.0, Standard:Standard006  +4Child car seat  +1GPS module  +0satellite radio package, Standard:Standard007  +2Child car seat  +0GPS module  +1satellite radio package, Luxury:Luxury003  +4Child car seat  +1GPS module  +0satellite radio package]
+[Regular02, 10, 5, 2620.0, Economy:Economy001  +1Child car seat  +1GPS module  +1satellite radio package, Luxury:Luxury002  +0Child car seat  +1GPS module  +1satellite radio package, Minivan:Mini004  +4Child car seat  +1GPS module  +0satellite radio package, Luxury:Luxury001  +0Child car seat  +1GPS module  +1satellite radio package, Economy:Economy006  +1Child car seat  +1GPS module  +0satellite radio package, Suv:SUV003  +0Child car seat  +1GPS module  +1satellite radio package, Economy:Economy005  +3Child car seat  +1GPS module  +1satellite radio package]
+[Casual01, 13, 2, 135.0, Standard:Standard004  +1Child car seat  +0GPS module  +1satellite radio package]
+[Regular01, 12, 4, 535.0, Suv:SUV001  +1Child car seat  +0GPS module  +0satellite radio package, Economy:Economy002  +0Child car seat  +0GPS module  +1satellite radio package]
+[Regular01, 14, 3, 205.0, Standard:Standard002  +2Child car seat  +0GPS module  +1satellite radio package]
+[Casual04, 15, 3, 215.0, Minivan:Mini001  +0Child car seat  +0GPS module  +1satellite radio package]
+[Casual05, 16, 2, 210.0, Suv:SUV003  +3Child car seat  +1GPS module  +1satellite radio package]
+[Casual04, 17, 1, 95.0, Standard:Standard002  +3Child car seat  +0GPS module  +1satellite radio package]
+[Regular02, 14, 5, 650.0, Economy:Economy003  +4Child car seat  +0GPS module  +0satellite radio package, Standard:Standard005  +4Child car seat  +1GPS module  +1satellite radio package]
+[Regular02, 15, 5, 450.0, Suv:SUV002  +3Child car seat  +1GPS module  +1satellite radio package]
+[Regular01, 15, 5, 1515.0, Standard:Standard006  +1Child car seat  +1GPS module  +0satellite radio package, Standard:Standard001  +3Child car seat  +1GPS module  +1satellite radio package, Luxury:Luxury001  +0Child car seat  +1GPS module  +1satellite radio package, Minivan:Mini004  +2Child car seat  +0GPS module  +0satellite radio package]
+[Regular01, 16, 4, 650.0, Luxury:Luxury002  +2Child car seat  +0GPS module  +0satellite radio package, Standard:Standard008  +1Child car seat  +1GPS module  +1satellite radio package]
+[Casual05, 18, 2, 135.0, Standard:Standard007  +1Child car seat  +0GPS module  +1satellite radio package]
+[Casual04, 18, 2, 235.0, Luxury:Luxury003  +4Child car seat  +1GPS module  +0satellite radio package]
+[Casual05, 20, 2, 125.0, Standard:Standard001  +0Child car seat  +0GPS module  +1satellite radio package]
+
+Active rentals record:
+Count: 1
+Cutomer name:   rental car type& license
+[Regular01, Minivan, Mini003, Luxury, Luxury001]
+
+cars left in the store:
+Count: 22
+rental car type& license: [Economy:Economy004, Standard:Standard003, Minivan:Mini002, Economy:Economy001, Economy:Economy006, Economy:Economy005, Standard:Standard004, Suv:SUV001, Economy:Economy002, Minivan:Mini001, Suv:SUV003, Standard:Standard002, Economy:Economy003, Standard:Standard005, Suv:SUV002, Standard:Standard006, Minivan:Mini004, Luxury:Luxury002, Standard:Standard008, Standard:Standard007, Luxury:Luxury003, Standard:Standard001]
+
+The income of the 21 day: 0.0
+
+*********************************************************************************
+At the begining of the day: 23
+Completed rentals record:
+Count: 38
+Cutomer name,rent day,lease,rental car information
+[Casual02, 1, 1, 65.0, Standard:Standard007  +0Child car seat  +0GPS module  +1satellite radio package]
+[Casual05, 1, 1, 120.0, Standard:Standard001  +4Child car seat  +1GPS module  +1satellite radio package]
+[Casual01, 1, 2, 130.0, Economy:Economy003  +1Child car seat  +1GPS module  +1satellite radio package]
+[Regular02, 1, 3, 400.0, Minivan:Mini001  +0Child car seat  +0GPS module  +1satellite radio package, Standard:Standard003  +0Child car seat  +0GPS module  +1satellite radio package]
+[Regular04, 1, 4, 325.0, Minivan:Mini003  +4Child car seat  +0GPS module  +1satellite radio package]
+[Regular04, 2, 3, 215.0, Standard:Standard006  +2Child car seat  +1GPS module  +0satellite radio package]
+[Casual01, 3, 2, 100.0, Economy:Economy006  +0Child car seat  +0GPS module  +0satellite radio package]
+[Regular01, 1, 5, 1220.0, Luxury:Luxury003  +0Child car seat  +1GPS module  +0satellite radio package, Suv:SUV001  +1Child car seat  +1GPS module  +0satellite radio package, Standard:Standard002  +3Child car seat  +0GPS module  +0satellite radio package]
+[Regular03, 1, 5, 390.0, Minivan:Mini002  +4Child car seat  +0GPS module  +0satellite radio package]
+[Regular02, 2, 5, 1060.0, Suv:SUV002  +0Child car seat  +1GPS module  +1satellite radio package, Standard:Standard005  +2Child car seat  +0GPS module  +0satellite radio package, Standard:Standard007  +0Child car seat  +1GPS module  +1satellite radio package]
+[Casual01, 6, 1, 100.0, Suv:SUV001  +0Child car seat  +1GPS module  +1satellite radio package]
+[Business02, 1, 7, 1710.0, Luxury:Luxury001  +1Child car seat  +1GPS module  +0satellite radio package, Economy:Economy002  +4Child car seat  +0GPS module  +0satellite radio package, Luxury:Luxury002  +2Child car seat  +1GPS module  +0satellite radio package]
+[Casual05, 8, 1, 95.0, Economy:Economy003  +3Child car seat  +1GPS module  +0satellite radio package]
+[Business01, 3, 7, 1285.0, Minivan:Mini004  +2Child car seat  +0GPS module  +1satellite radio package, Economy:Economy001  +3Child car seat  +1GPS module  +0satellite radio package, Economy:Economy005  +1Child car seat  +1GPS module  +0satellite radio package]
+[Regular02, 5, 5, 1060.0, Economy:Economy004  +0Child car seat  +1GPS module  +1satellite radio package, Minivan:Mini001  +0Child car seat  +0GPS module  +0satellite radio package, Suv:SUV003  +4Child car seat  +0GPS module  +0satellite radio package]
+[Regular02, 6, 4, 265.0, Standard:Standard004  +1Child car seat  +1GPS module  +0satellite radio package]
+[Casual05, 7, 3, 215.0, Standard:Standard002  +2Child car seat  +1GPS module  +0satellite radio package]
+[Casual02, 7, 3, 195.0, Standard:Standard003  +0Child car seat  +1GPS module  +0satellite radio package]
+[Casual01, 8, 2, 205.0, Luxury:Luxury001  +1Child car seat  +1GPS module  +0satellite radio package]
+[Casual04, 9, 1, 70.0, Economy:Economy002  +0Child car seat  +1GPS module  +1satellite radio package]
+[Regular02, 7, 5, 730.0, Minivan:Mini002  +2Child car seat  +0GPS module  +1satellite radio package, Minivan:Mini003  +0Child car seat  +0GPS module  +1satellite radio package]
+[Casual03, 11, 1, 90.0, Economy:Economy002  +2Child car seat  +1GPS module  +1satellite radio package]
+[Regular02, 8, 5, 335.0, Standard:Standard008  +2Child car seat  +1GPS module  +0satellite radio package]
+[Business02, 8, 7, 1605.0, Standard:Standard006  +4Child car seat  +1GPS module  +0satellite radio package, Standard:Standard007  +2Child car seat  +0GPS module  +1satellite radio package, Luxury:Luxury003  +4Child car seat  +1GPS module  +0satellite radio package]
+[Regular02, 10, 5, 2620.0, Economy:Economy001  +1Child car seat  +1GPS module  +1satellite radio package, Luxury:Luxury002  +0Child car seat  +1GPS module  +1satellite radio package, Minivan:Mini004  +4Child car seat  +1GPS module  +0satellite radio package, Luxury:Luxury001  +0Child car seat  +1GPS module  +1satellite radio package, Economy:Economy006  +1Child car seat  +1GPS module  +0satellite radio package, Suv:SUV003  +0Child car seat  +1GPS module  +1satellite radio package, Economy:Economy005  +3Child car seat  +1GPS module  +1satellite radio package]
+[Casual01, 13, 2, 135.0, Standard:Standard004  +1Child car seat  +0GPS module  +1satellite radio package]
+[Regular01, 12, 4, 535.0, Suv:SUV001  +1Child car seat  +0GPS module  +0satellite radio package, Economy:Economy002  +0Child car seat  +0GPS module  +1satellite radio package]
+[Regular01, 14, 3, 205.0, Standard:Standard002  +2Child car seat  +0GPS module  +1satellite radio package]
+[Casual04, 15, 3, 215.0, Minivan:Mini001  +0Child car seat  +0GPS module  +1satellite radio package]
+[Casual05, 16, 2, 210.0, Suv:SUV003  +3Child car seat  +1GPS module  +1satellite radio package]
+[Casual04, 17, 1, 95.0, Standard:Standard002  +3Child car seat  +0GPS module  +1satellite radio package]
+[Regular02, 14, 5, 650.0, Economy:Economy003  +4Child car seat  +0GPS module  +0satellite radio package, Standard:Standard005  +4Child car seat  +1GPS module  +1satellite radio package]
+[Regular02, 15, 5, 450.0, Suv:SUV002  +3Child car seat  +1GPS module  +1satellite radio package]
+[Regular01, 15, 5, 1515.0, Standard:Standard006  +1Child car seat  +1GPS module  +0satellite radio package, Standard:Standard001  +3Child car seat  +1GPS module  +1satellite radio package, Luxury:Luxury001  +0Child car seat  +1GPS module  +1satellite radio package, Minivan:Mini004  +2Child car seat  +0GPS module  +0satellite radio package]
+[Regular01, 16, 4, 650.0, Luxury:Luxury002  +2Child car seat  +0GPS module  +0satellite radio package, Standard:Standard008  +1Child car seat  +1GPS module  +1satellite radio package]
+[Casual05, 18, 2, 135.0, Standard:Standard007  +1Child car seat  +0GPS module  +1satellite radio package]
+[Casual04, 18, 2, 235.0, Luxury:Luxury003  +4Child car seat  +1GPS module  +0satellite radio package]
+[Casual05, 20, 2, 125.0, Standard:Standard001  +0Child car seat  +0GPS module  +1satellite radio package]
+
+Active rentals record:
+Count: 1
+Cutomer name:   rental car type& license
+[Regular01, Minivan, Mini003, Luxury, Luxury001]
+
+cars left in the store:
+Count: 22
+rental car type& license: [Economy:Economy004, Standard:Standard003, Minivan:Mini002, Economy:Economy001, Economy:Economy006, Economy:Economy005, Standard:Standard004, Suv:SUV001, Economy:Economy002, Minivan:Mini001, Suv:SUV003, Standard:Standard002, Economy:Economy003, Standard:Standard005, Suv:SUV002, Standard:Standard006, Minivan:Mini004, Luxury:Luxury002, Standard:Standard008, Standard:Standard007, Luxury:Luxury003, Standard:Standard001]
+
+The income of the 22 day: 0.0
+
+*********************************************************************************
+At the begining of the day: 24
+Completed rentals record:
+Count: 39
+Cutomer name,rent day,lease,rental car information
+[Casual02, 1, 1, 65.0, Standard:Standard007  +0Child car seat  +0GPS module  +1satellite radio package]
+[Casual05, 1, 1, 120.0, Standard:Standard001  +4Child car seat  +1GPS module  +1satellite radio package]
+[Casual01, 1, 2, 130.0, Economy:Economy003  +1Child car seat  +1GPS module  +1satellite radio package]
+[Regular02, 1, 3, 400.0, Minivan:Mini001  +0Child car seat  +0GPS module  +1satellite radio package, Standard:Standard003  +0Child car seat  +0GPS module  +1satellite radio package]
+[Regular04, 1, 4, 325.0, Minivan:Mini003  +4Child car seat  +0GPS module  +1satellite radio package]
+[Regular04, 2, 3, 215.0, Standard:Standard006  +2Child car seat  +1GPS module  +0satellite radio package]
+[Casual01, 3, 2, 100.0, Economy:Economy006  +0Child car seat  +0GPS module  +0satellite radio package]
+[Regular01, 1, 5, 1220.0, Luxury:Luxury003  +0Child car seat  +1GPS module  +0satellite radio package, Suv:SUV001  +1Child car seat  +1GPS module  +0satellite radio package, Standard:Standard002  +3Child car seat  +0GPS module  +0satellite radio package]
+[Regular03, 1, 5, 390.0, Minivan:Mini002  +4Child car seat  +0GPS module  +0satellite radio package]
+[Regular02, 2, 5, 1060.0, Suv:SUV002  +0Child car seat  +1GPS module  +1satellite radio package, Standard:Standard005  +2Child car seat  +0GPS module  +0satellite radio package, Standard:Standard007  +0Child car seat  +1GPS module  +1satellite radio package]
+[Casual01, 6, 1, 100.0, Suv:SUV001  +0Child car seat  +1GPS module  +1satellite radio package]
+[Business02, 1, 7, 1710.0, Luxury:Luxury001  +1Child car seat  +1GPS module  +0satellite radio package, Economy:Economy002  +4Child car seat  +0GPS module  +0satellite radio package, Luxury:Luxury002  +2Child car seat  +1GPS module  +0satellite radio package]
+[Casual05, 8, 1, 95.0, Economy:Economy003  +3Child car seat  +1GPS module  +0satellite radio package]
+[Business01, 3, 7, 1285.0, Minivan:Mini004  +2Child car seat  +0GPS module  +1satellite radio package, Economy:Economy001  +3Child car seat  +1GPS module  +0satellite radio package, Economy:Economy005  +1Child car seat  +1GPS module  +0satellite radio package]
+[Regular02, 5, 5, 1060.0, Economy:Economy004  +0Child car seat  +1GPS module  +1satellite radio package, Minivan:Mini001  +0Child car seat  +0GPS module  +0satellite radio package, Suv:SUV003  +4Child car seat  +0GPS module  +0satellite radio package]
+[Regular02, 6, 4, 265.0, Standard:Standard004  +1Child car seat  +1GPS module  +0satellite radio package]
+[Casual05, 7, 3, 215.0, Standard:Standard002  +2Child car seat  +1GPS module  +0satellite radio package]
+[Casual02, 7, 3, 195.0, Standard:Standard003  +0Child car seat  +1GPS module  +0satellite radio package]
+[Casual01, 8, 2, 205.0, Luxury:Luxury001  +1Child car seat  +1GPS module  +0satellite radio package]
+[Casual04, 9, 1, 70.0, Economy:Economy002  +0Child car seat  +1GPS module  +1satellite radio package]
+[Regular02, 7, 5, 730.0, Minivan:Mini002  +2Child car seat  +0GPS module  +1satellite radio package, Minivan:Mini003  +0Child car seat  +0GPS module  +1satellite radio package]
+[Casual03, 11, 1, 90.0, Economy:Economy002  +2Child car seat  +1GPS module  +1satellite radio package]
+[Regular02, 8, 5, 335.0, Standard:Standard008  +2Child car seat  +1GPS module  +0satellite radio package]
+[Business02, 8, 7, 1605.0, Standard:Standard006  +4Child car seat  +1GPS module  +0satellite radio package, Standard:Standard007  +2Child car seat  +0GPS module  +1satellite radio package, Luxury:Luxury003  +4Child car seat  +1GPS module  +0satellite radio package]
+[Regular02, 10, 5, 2620.0, Economy:Economy001  +1Child car seat  +1GPS module  +1satellite radio package, Luxury:Luxury002  +0Child car seat  +1GPS module  +1satellite radio package, Minivan:Mini004  +4Child car seat  +1GPS module  +0satellite radio package, Luxury:Luxury001  +0Child car seat  +1GPS module  +1satellite radio package, Economy:Economy006  +1Child car seat  +1GPS module  +0satellite radio package, Suv:SUV003  +0Child car seat  +1GPS module  +1satellite radio package, Economy:Economy005  +3Child car seat  +1GPS module  +1satellite radio package]
+[Casual01, 13, 2, 135.0, Standard:Standard004  +1Child car seat  +0GPS module  +1satellite radio package]
+[Regular01, 12, 4, 535.0, Suv:SUV001  +1Child car seat  +0GPS module  +0satellite radio package, Economy:Economy002  +0Child car seat  +0GPS module  +1satellite radio package]
+[Regular01, 14, 3, 205.0, Standard:Standard002  +2Child car seat  +0GPS module  +1satellite radio package]
+[Casual04, 15, 3, 215.0, Minivan:Mini001  +0Child car seat  +0GPS module  +1satellite radio package]
+[Casual05, 16, 2, 210.0, Suv:SUV003  +3Child car seat  +1GPS module  +1satellite radio package]
+[Casual04, 17, 1, 95.0, Standard:Standard002  +3Child car seat  +0GPS module  +1satellite radio package]
+[Regular02, 14, 5, 650.0, Economy:Economy003  +4Child car seat  +0GPS module  +0satellite radio package, Standard:Standard005  +4Child car seat  +1GPS module  +1satellite radio package]
+[Regular02, 15, 5, 450.0, Suv:SUV002  +3Child car seat  +1GPS module  +1satellite radio package]
+[Regular01, 15, 5, 1515.0, Standard:Standard006  +1Child car seat  +1GPS module  +0satellite radio package, Standard:Standard001  +3Child car seat  +1GPS module  +1satellite radio package, Luxury:Luxury001  +0Child car seat  +1GPS module  +1satellite radio package, Minivan:Mini004  +2Child car seat  +0GPS module  +0satellite radio package]
+[Regular01, 16, 4, 650.0, Luxury:Luxury002  +2Child car seat  +0GPS module  +0satellite radio package, Standard:Standard008  +1Child car seat  +1GPS module  +1satellite radio package]
+[Casual05, 18, 2, 135.0, Standard:Standard007  +1Child car seat  +0GPS module  +1satellite radio package]
+[Casual04, 18, 2, 235.0, Luxury:Luxury003  +4Child car seat  +1GPS module  +0satellite radio package]
+[Casual05, 20, 2, 125.0, Standard:Standard001  +0Child car seat  +0GPS module  +1satellite radio package]
+[Regular01, 20, 4, 695.0, Minivan:Mini003  +1Child car seat  +1GPS module  +1satellite radio package, Luxury:Luxury001  +1Child car seat  +1GPS module  +0satellite radio package]
+
+Active rentals record:
+Count: 1
+Cutomer name:   rental car type& license
+[Regular01, Economy, Economy003]
+
+cars left in the store:
+Count: 23
+rental car type& license: [Economy:Economy004, Standard:Standard003, Minivan:Mini002, Economy:Economy001, Economy:Economy006, Economy:Economy005, Standard:Standard004, Suv:SUV001, Economy:Economy002, Minivan:Mini001, Suv:SUV003, Standard:Standard002, Standard:Standard005, Suv:SUV002, Standard:Standard006, Minivan:Mini004, Luxury:Luxury002, Standard:Standard008, Standard:Standard007, Luxury:Luxury003, Standard:Standard001, Minivan:Mini003, Luxury:Luxury001]
+
+The income of the 23 day: 250.0
+
+*********************************************************************************
+At the begining of the day: 25
+Completed rentals record:
+Count: 39
+Cutomer name,rent day,lease,rental car information
+[Casual02, 1, 1, 65.0, Standard:Standard007  +0Child car seat  +0GPS module  +1satellite radio package]
+[Casual05, 1, 1, 120.0, Standard:Standard001  +4Child car seat  +1GPS module  +1satellite radio package]
+[Casual01, 1, 2, 130.0, Economy:Economy003  +1Child car seat  +1GPS module  +1satellite radio package]
+[Regular02, 1, 3, 400.0, Minivan:Mini001  +0Child car seat  +0GPS module  +1satellite radio package, Standard:Standard003  +0Child car seat  +0GPS module  +1satellite radio package]
+[Regular04, 1, 4, 325.0, Minivan:Mini003  +4Child car seat  +0GPS module  +1satellite radio package]
+[Regular04, 2, 3, 215.0, Standard:Standard006  +2Child car seat  +1GPS module  +0satellite radio package]
+[Casual01, 3, 2, 100.0, Economy:Economy006  +0Child car seat  +0GPS module  +0satellite radio package]
+[Regular01, 1, 5, 1220.0, Luxury:Luxury003  +0Child car seat  +1GPS module  +0satellite radio package, Suv:SUV001  +1Child car seat  +1GPS module  +0satellite radio package, Standard:Standard002  +3Child car seat  +0GPS module  +0satellite radio package]
+[Regular03, 1, 5, 390.0, Minivan:Mini002  +4Child car seat  +0GPS module  +0satellite radio package]
+[Regular02, 2, 5, 1060.0, Suv:SUV002  +0Child car seat  +1GPS module  +1satellite radio package, Standard:Standard005  +2Child car seat  +0GPS module  +0satellite radio package, Standard:Standard007  +0Child car seat  +1GPS module  +1satellite radio package]
+[Casual01, 6, 1, 100.0, Suv:SUV001  +0Child car seat  +1GPS module  +1satellite radio package]
+[Business02, 1, 7, 1710.0, Luxury:Luxury001  +1Child car seat  +1GPS module  +0satellite radio package, Economy:Economy002  +4Child car seat  +0GPS module  +0satellite radio package, Luxury:Luxury002  +2Child car seat  +1GPS module  +0satellite radio package]
+[Casual05, 8, 1, 95.0, Economy:Economy003  +3Child car seat  +1GPS module  +0satellite radio package]
+[Business01, 3, 7, 1285.0, Minivan:Mini004  +2Child car seat  +0GPS module  +1satellite radio package, Economy:Economy001  +3Child car seat  +1GPS module  +0satellite radio package, Economy:Economy005  +1Child car seat  +1GPS module  +0satellite radio package]
+[Regular02, 5, 5, 1060.0, Economy:Economy004  +0Child car seat  +1GPS module  +1satellite radio package, Minivan:Mini001  +0Child car seat  +0GPS module  +0satellite radio package, Suv:SUV003  +4Child car seat  +0GPS module  +0satellite radio package]
+[Regular02, 6, 4, 265.0, Standard:Standard004  +1Child car seat  +1GPS module  +0satellite radio package]
+[Casual05, 7, 3, 215.0, Standard:Standard002  +2Child car seat  +1GPS module  +0satellite radio package]
+[Casual02, 7, 3, 195.0, Standard:Standard003  +0Child car seat  +1GPS module  +0satellite radio package]
+[Casual01, 8, 2, 205.0, Luxury:Luxury001  +1Child car seat  +1GPS module  +0satellite radio package]
+[Casual04, 9, 1, 70.0, Economy:Economy002  +0Child car seat  +1GPS module  +1satellite radio package]
+[Regular02, 7, 5, 730.0, Minivan:Mini002  +2Child car seat  +0GPS module  +1satellite radio package, Minivan:Mini003  +0Child car seat  +0GPS module  +1satellite radio package]
+[Casual03, 11, 1, 90.0, Economy:Economy002  +2Child car seat  +1GPS module  +1satellite radio package]
+[Regular02, 8, 5, 335.0, Standard:Standard008  +2Child car seat  +1GPS module  +0satellite radio package]
+[Business02, 8, 7, 1605.0, Standard:Standard006  +4Child car seat  +1GPS module  +0satellite radio package, Standard:Standard007  +2Child car seat  +0GPS module  +1satellite radio package, Luxury:Luxury003  +4Child car seat  +1GPS module  +0satellite radio package]
+[Regular02, 10, 5, 2620.0, Economy:Economy001  +1Child car seat  +1GPS module  +1satellite radio package, Luxury:Luxury002  +0Child car seat  +1GPS module  +1satellite radio package, Minivan:Mini004  +4Child car seat  +1GPS module  +0satellite radio package, Luxury:Luxury001  +0Child car seat  +1GPS module  +1satellite radio package, Economy:Economy006  +1Child car seat  +1GPS module  +0satellite radio package, Suv:SUV003  +0Child car seat  +1GPS module  +1satellite radio package, Economy:Economy005  +3Child car seat  +1GPS module  +1satellite radio package]
+[Casual01, 13, 2, 135.0, Standard:Standard004  +1Child car seat  +0GPS module  +1satellite radio package]
+[Regular01, 12, 4, 535.0, Suv:SUV001  +1Child car seat  +0GPS module  +0satellite radio package, Economy:Economy002  +0Child car seat  +0GPS module  +1satellite radio package]
+[Regular01, 14, 3, 205.0, Standard:Standard002  +2Child car seat  +0GPS module  +1satellite radio package]
+[Casual04, 15, 3, 215.0, Minivan:Mini001  +0Child car seat  +0GPS module  +1satellite radio package]
+[Casual05, 16, 2, 210.0, Suv:SUV003  +3Child car seat  +1GPS module  +1satellite radio package]
+[Casual04, 17, 1, 95.0, Standard:Standard002  +3Child car seat  +0GPS module  +1satellite radio package]
+[Regular02, 14, 5, 650.0, Economy:Economy003  +4Child car seat  +0GPS module  +0satellite radio package, Standard:Standard005  +4Child car seat  +1GPS module  +1satellite radio package]
+[Regular02, 15, 5, 450.0, Suv:SUV002  +3Child car seat  +1GPS module  +1satellite radio package]
+[Regular01, 15, 5, 1515.0, Standard:Standard006  +1Child car seat  +1GPS module  +0satellite radio package, Standard:Standard001  +3Child car seat  +1GPS module  +1satellite radio package, Luxury:Luxury001  +0Child car seat  +1GPS module  +1satellite radio package, Minivan:Mini004  +2Child car seat  +0GPS module  +0satellite radio package]
+[Regular01, 16, 4, 650.0, Luxury:Luxury002  +2Child car seat  +0GPS module  +0satellite radio package, Standard:Standard008  +1Child car seat  +1GPS module  +1satellite radio package]
+[Casual05, 18, 2, 135.0, Standard:Standard007  +1Child car seat  +0GPS module  +1satellite radio package]
+[Casual04, 18, 2, 235.0, Luxury:Luxury003  +4Child car seat  +1GPS module  +0satellite radio package]
+[Casual05, 20, 2, 125.0, Standard:Standard001  +0Child car seat  +0GPS module  +1satellite radio package]
+[Regular01, 20, 4, 695.0, Minivan:Mini003  +1Child car seat  +1GPS module  +1satellite radio package, Luxury:Luxury001  +1Child car seat  +1GPS module  +0satellite radio package]
+
+Active rentals record:
+Count: 1
+Cutomer name:   rental car type& license
+[Regular01, Economy, Economy003]
+
+cars left in the store:
+Count: 23
+rental car type& license: [Economy:Economy004, Standard:Standard003, Minivan:Mini002, Economy:Economy001, Economy:Economy006, Economy:Economy005, Standard:Standard004, Suv:SUV001, Economy:Economy002, Minivan:Mini001, Suv:SUV003, Standard:Standard002, Standard:Standard005, Suv:SUV002, Standard:Standard006, Minivan:Mini004, Luxury:Luxury002, Standard:Standard008, Standard:Standard007, Luxury:Luxury003, Standard:Standard001, Minivan:Mini003, Luxury:Luxury001]
+
+The income of the 24 day: 0.0
+
+*********************************************************************************
+At the begining of the day: 26
+Completed rentals record:
+Count: 39
+Cutomer name,rent day,lease,rental car information
+[Casual02, 1, 1, 65.0, Standard:Standard007  +0Child car seat  +0GPS module  +1satellite radio package]
+[Casual05, 1, 1, 120.0, Standard:Standard001  +4Child car seat  +1GPS module  +1satellite radio package]
+[Casual01, 1, 2, 130.0, Economy:Economy003  +1Child car seat  +1GPS module  +1satellite radio package]
+[Regular02, 1, 3, 400.0, Minivan:Mini001  +0Child car seat  +0GPS module  +1satellite radio package, Standard:Standard003  +0Child car seat  +0GPS module  +1satellite radio package]
+[Regular04, 1, 4, 325.0, Minivan:Mini003  +4Child car seat  +0GPS module  +1satellite radio package]
+[Regular04, 2, 3, 215.0, Standard:Standard006  +2Child car seat  +1GPS module  +0satellite radio package]
+[Casual01, 3, 2, 100.0, Economy:Economy006  +0Child car seat  +0GPS module  +0satellite radio package]
+[Regular01, 1, 5, 1220.0, Luxury:Luxury003  +0Child car seat  +1GPS module  +0satellite radio package, Suv:SUV001  +1Child car seat  +1GPS module  +0satellite radio package, Standard:Standard002  +3Child car seat  +0GPS module  +0satellite radio package]
+[Regular03, 1, 5, 390.0, Minivan:Mini002  +4Child car seat  +0GPS module  +0satellite radio package]
+[Regular02, 2, 5, 1060.0, Suv:SUV002  +0Child car seat  +1GPS module  +1satellite radio package, Standard:Standard005  +2Child car seat  +0GPS module  +0satellite radio package, Standard:Standard007  +0Child car seat  +1GPS module  +1satellite radio package]
+[Casual01, 6, 1, 100.0, Suv:SUV001  +0Child car seat  +1GPS module  +1satellite radio package]
+[Business02, 1, 7, 1710.0, Luxury:Luxury001  +1Child car seat  +1GPS module  +0satellite radio package, Economy:Economy002  +4Child car seat  +0GPS module  +0satellite radio package, Luxury:Luxury002  +2Child car seat  +1GPS module  +0satellite radio package]
+[Casual05, 8, 1, 95.0, Economy:Economy003  +3Child car seat  +1GPS module  +0satellite radio package]
+[Business01, 3, 7, 1285.0, Minivan:Mini004  +2Child car seat  +0GPS module  +1satellite radio package, Economy:Economy001  +3Child car seat  +1GPS module  +0satellite radio package, Economy:Economy005  +1Child car seat  +1GPS module  +0satellite radio package]
+[Regular02, 5, 5, 1060.0, Economy:Economy004  +0Child car seat  +1GPS module  +1satellite radio package, Minivan:Mini001  +0Child car seat  +0GPS module  +0satellite radio package, Suv:SUV003  +4Child car seat  +0GPS module  +0satellite radio package]
+[Regular02, 6, 4, 265.0, Standard:Standard004  +1Child car seat  +1GPS module  +0satellite radio package]
+[Casual05, 7, 3, 215.0, Standard:Standard002  +2Child car seat  +1GPS module  +0satellite radio package]
+[Casual02, 7, 3, 195.0, Standard:Standard003  +0Child car seat  +1GPS module  +0satellite radio package]
+[Casual01, 8, 2, 205.0, Luxury:Luxury001  +1Child car seat  +1GPS module  +0satellite radio package]
+[Casual04, 9, 1, 70.0, Economy:Economy002  +0Child car seat  +1GPS module  +1satellite radio package]
+[Regular02, 7, 5, 730.0, Minivan:Mini002  +2Child car seat  +0GPS module  +1satellite radio package, Minivan:Mini003  +0Child car seat  +0GPS module  +1satellite radio package]
+[Casual03, 11, 1, 90.0, Economy:Economy002  +2Child car seat  +1GPS module  +1satellite radio package]
+[Regular02, 8, 5, 335.0, Standard:Standard008  +2Child car seat  +1GPS module  +0satellite radio package]
+[Business02, 8, 7, 1605.0, Standard:Standard006  +4Child car seat  +1GPS module  +0satellite radio package, Standard:Standard007  +2Child car seat  +0GPS module  +1satellite radio package, Luxury:Luxury003  +4Child car seat  +1GPS module  +0satellite radio package]
+[Regular02, 10, 5, 2620.0, Economy:Economy001  +1Child car seat  +1GPS module  +1satellite radio package, Luxury:Luxury002  +0Child car seat  +1GPS module  +1satellite radio package, Minivan:Mini004  +4Child car seat  +1GPS module  +0satellite radio package, Luxury:Luxury001  +0Child car seat  +1GPS module  +1satellite radio package, Economy:Economy006  +1Child car seat  +1GPS module  +0satellite radio package, Suv:SUV003  +0Child car seat  +1GPS module  +1satellite radio package, Economy:Economy005  +3Child car seat  +1GPS module  +1satellite radio package]
+[Casual01, 13, 2, 135.0, Standard:Standard004  +1Child car seat  +0GPS module  +1satellite radio package]
+[Regular01, 12, 4, 535.0, Suv:SUV001  +1Child car seat  +0GPS module  +0satellite radio package, Economy:Economy002  +0Child car seat  +0GPS module  +1satellite radio package]
+[Regular01, 14, 3, 205.0, Standard:Standard002  +2Child car seat  +0GPS module  +1satellite radio package]
+[Casual04, 15, 3, 215.0, Minivan:Mini001  +0Child car seat  +0GPS module  +1satellite radio package]
+[Casual05, 16, 2, 210.0, Suv:SUV003  +3Child car seat  +1GPS module  +1satellite radio package]
+[Casual04, 17, 1, 95.0, Standard:Standard002  +3Child car seat  +0GPS module  +1satellite radio package]
+[Regular02, 14, 5, 650.0, Economy:Economy003  +4Child car seat  +0GPS module  +0satellite radio package, Standard:Standard005  +4Child car seat  +1GPS module  +1satellite radio package]
+[Regular02, 15, 5, 450.0, Suv:SUV002  +3Child car seat  +1GPS module  +1satellite radio package]
+[Regular01, 15, 5, 1515.0, Standard:Standard006  +1Child car seat  +1GPS module  +0satellite radio package, Standard:Standard001  +3Child car seat  +1GPS module  +1satellite radio package, Luxury:Luxury001  +0Child car seat  +1GPS module  +1satellite radio package, Minivan:Mini004  +2Child car seat  +0GPS module  +0satellite radio package]
+[Regular01, 16, 4, 650.0, Luxury:Luxury002  +2Child car seat  +0GPS module  +0satellite radio package, Standard:Standard008  +1Child car seat  +1GPS module  +1satellite radio package]
+[Casual05, 18, 2, 135.0, Standard:Standard007  +1Child car seat  +0GPS module  +1satellite radio package]
+[Casual04, 18, 2, 235.0, Luxury:Luxury003  +4Child car seat  +1GPS module  +0satellite radio package]
+[Casual05, 20, 2, 125.0, Standard:Standard001  +0Child car seat  +0GPS module  +1satellite radio package]
+[Regular01, 20, 4, 695.0, Minivan:Mini003  +1Child car seat  +1GPS module  +1satellite radio package, Luxury:Luxury001  +1Child car seat  +1GPS module  +0satellite radio package]
+
+Active rentals record:
+Count: 2
+Cutomer name:   rental car type& license
+[Regular01, Economy, Economy003]
+[Regular01, Standard, Standard004]
+
+cars left in the store:
+Count: 22
+rental car type& license: [Economy:Economy004, Standard:Standard003, Minivan:Mini002, Economy:Economy001, Economy:Economy006, Economy:Economy005, Suv:SUV001, Economy:Economy002, Minivan:Mini001, Suv:SUV003, Standard:Standard002, Standard:Standard005, Suv:SUV002, Standard:Standard006, Minivan:Mini004, Luxury:Luxury002, Standard:Standard008, Standard:Standard007, Luxury:Luxury003, Standard:Standard001, Minivan:Mini003, Luxury:Luxury001]
+
+The income of the 25 day: 200.0
+
+*********************************************************************************
+At the begining of the day: 27
+Completed rentals record:
+Count: 40
+Cutomer name,rent day,lease,rental car information
+[Casual02, 1, 1, 65.0, Standard:Standard007  +0Child car seat  +0GPS module  +1satellite radio package]
+[Casual05, 1, 1, 120.0, Standard:Standard001  +4Child car seat  +1GPS module  +1satellite radio package]
+[Casual01, 1, 2, 130.0, Economy:Economy003  +1Child car seat  +1GPS module  +1satellite radio package]
+[Regular02, 1, 3, 400.0, Minivan:Mini001  +0Child car seat  +0GPS module  +1satellite radio package, Standard:Standard003  +0Child car seat  +0GPS module  +1satellite radio package]
+[Regular04, 1, 4, 325.0, Minivan:Mini003  +4Child car seat  +0GPS module  +1satellite radio package]
+[Regular04, 2, 3, 215.0, Standard:Standard006  +2Child car seat  +1GPS module  +0satellite radio package]
+[Casual01, 3, 2, 100.0, Economy:Economy006  +0Child car seat  +0GPS module  +0satellite radio package]
+[Regular01, 1, 5, 1220.0, Luxury:Luxury003  +0Child car seat  +1GPS module  +0satellite radio package, Suv:SUV001  +1Child car seat  +1GPS module  +0satellite radio package, Standard:Standard002  +3Child car seat  +0GPS module  +0satellite radio package]
+[Regular03, 1, 5, 390.0, Minivan:Mini002  +4Child car seat  +0GPS module  +0satellite radio package]
+[Regular02, 2, 5, 1060.0, Suv:SUV002  +0Child car seat  +1GPS module  +1satellite radio package, Standard:Standard005  +2Child car seat  +0GPS module  +0satellite radio package, Standard:Standard007  +0Child car seat  +1GPS module  +1satellite radio package]
+[Casual01, 6, 1, 100.0, Suv:SUV001  +0Child car seat  +1GPS module  +1satellite radio package]
+[Business02, 1, 7, 1710.0, Luxury:Luxury001  +1Child car seat  +1GPS module  +0satellite radio package, Economy:Economy002  +4Child car seat  +0GPS module  +0satellite radio package, Luxury:Luxury002  +2Child car seat  +1GPS module  +0satellite radio package]
+[Casual05, 8, 1, 95.0, Economy:Economy003  +3Child car seat  +1GPS module  +0satellite radio package]
+[Business01, 3, 7, 1285.0, Minivan:Mini004  +2Child car seat  +0GPS module  +1satellite radio package, Economy:Economy001  +3Child car seat  +1GPS module  +0satellite radio package, Economy:Economy005  +1Child car seat  +1GPS module  +0satellite radio package]
+[Regular02, 5, 5, 1060.0, Economy:Economy004  +0Child car seat  +1GPS module  +1satellite radio package, Minivan:Mini001  +0Child car seat  +0GPS module  +0satellite radio package, Suv:SUV003  +4Child car seat  +0GPS module  +0satellite radio package]
+[Regular02, 6, 4, 265.0, Standard:Standard004  +1Child car seat  +1GPS module  +0satellite radio package]
+[Casual05, 7, 3, 215.0, Standard:Standard002  +2Child car seat  +1GPS module  +0satellite radio package]
+[Casual02, 7, 3, 195.0, Standard:Standard003  +0Child car seat  +1GPS module  +0satellite radio package]
+[Casual01, 8, 2, 205.0, Luxury:Luxury001  +1Child car seat  +1GPS module  +0satellite radio package]
+[Casual04, 9, 1, 70.0, Economy:Economy002  +0Child car seat  +1GPS module  +1satellite radio package]
+[Regular02, 7, 5, 730.0, Minivan:Mini002  +2Child car seat  +0GPS module  +1satellite radio package, Minivan:Mini003  +0Child car seat  +0GPS module  +1satellite radio package]
+[Casual03, 11, 1, 90.0, Economy:Economy002  +2Child car seat  +1GPS module  +1satellite radio package]
+[Regular02, 8, 5, 335.0, Standard:Standard008  +2Child car seat  +1GPS module  +0satellite radio package]
+[Business02, 8, 7, 1605.0, Standard:Standard006  +4Child car seat  +1GPS module  +0satellite radio package, Standard:Standard007  +2Child car seat  +0GPS module  +1satellite radio package, Luxury:Luxury003  +4Child car seat  +1GPS module  +0satellite radio package]
+[Regular02, 10, 5, 2620.0, Economy:Economy001  +1Child car seat  +1GPS module  +1satellite radio package, Luxury:Luxury002  +0Child car seat  +1GPS module  +1satellite radio package, Minivan:Mini004  +4Child car seat  +1GPS module  +0satellite radio package, Luxury:Luxury001  +0Child car seat  +1GPS module  +1satellite radio package, Economy:Economy006  +1Child car seat  +1GPS module  +0satellite radio package, Suv:SUV003  +0Child car seat  +1GPS module  +1satellite radio package, Economy:Economy005  +3Child car seat  +1GPS module  +1satellite radio package]
+[Casual01, 13, 2, 135.0, Standard:Standard004  +1Child car seat  +0GPS module  +1satellite radio package]
+[Regular01, 12, 4, 535.0, Suv:SUV001  +1Child car seat  +0GPS module  +0satellite radio package, Economy:Economy002  +0Child car seat  +0GPS module  +1satellite radio package]
+[Regular01, 14, 3, 205.0, Standard:Standard002  +2Child car seat  +0GPS module  +1satellite radio package]
+[Casual04, 15, 3, 215.0, Minivan:Mini001  +0Child car seat  +0GPS module  +1satellite radio package]
+[Casual05, 16, 2, 210.0, Suv:SUV003  +3Child car seat  +1GPS module  +1satellite radio package]
+[Casual04, 17, 1, 95.0, Standard:Standard002  +3Child car seat  +0GPS module  +1satellite radio package]
+[Regular02, 14, 5, 650.0, Economy:Economy003  +4Child car seat  +0GPS module  +0satellite radio package, Standard:Standard005  +4Child car seat  +1GPS module  +1satellite radio package]
+[Regular02, 15, 5, 450.0, Suv:SUV002  +3Child car seat  +1GPS module  +1satellite radio package]
+[Regular01, 15, 5, 1515.0, Standard:Standard006  +1Child car seat  +1GPS module  +0satellite radio package, Standard:Standard001  +3Child car seat  +1GPS module  +1satellite radio package, Luxury:Luxury001  +0Child car seat  +1GPS module  +1satellite radio package, Minivan:Mini004  +2Child car seat  +0GPS module  +0satellite radio package]
+[Regular01, 16, 4, 650.0, Luxury:Luxury002  +2Child car seat  +0GPS module  +0satellite radio package, Standard:Standard008  +1Child car seat  +1GPS module  +1satellite radio package]
+[Casual05, 18, 2, 135.0, Standard:Standard007  +1Child car seat  +0GPS module  +1satellite radio package]
+[Casual04, 18, 2, 235.0, Luxury:Luxury003  +4Child car seat  +1GPS module  +0satellite radio package]
+[Casual05, 20, 2, 125.0, Standard:Standard001  +0Child car seat  +0GPS module  +1satellite radio package]
+[Regular01, 20, 4, 695.0, Minivan:Mini003  +1Child car seat  +1GPS module  +1satellite radio package, Luxury:Luxury001  +1Child car seat  +1GPS module  +0satellite radio package]
+[Regular01, 23, 4, 250.0, Economy:Economy003  +3Child car seat  +1GPS module  +1satellite radio package]
+
+Active rentals record:
+Count: 2
+Cutomer name:   rental car type& license
+[Regular01, Standard, Standard004]
+[Casual05, Standard, Standard002]
+
+cars left in the store:
+Count: 22
+rental car type& license: [Economy:Economy004, Standard:Standard003, Minivan:Mini002, Economy:Economy001, Economy:Economy006, Economy:Economy005, Suv:SUV001, Economy:Economy002, Minivan:Mini001, Suv:SUV003, Standard:Standard005, Suv:SUV002, Standard:Standard006, Minivan:Mini004, Luxury:Luxury002, Standard:Standard008, Standard:Standard007, Luxury:Luxury003, Standard:Standard001, Minivan:Mini003, Luxury:Luxury001, Economy:Economy003]
+
+The income of the 26 day: 125.0
+
+*********************************************************************************
+At the begining of the day: 28
+Completed rentals record:
+Count: 43
+Cutomer name,rent day,lease,rental car information
+[Casual02, 1, 1, 65.0, Standard:Standard007  +0Child car seat  +0GPS module  +1satellite radio package]
+[Casual05, 1, 1, 120.0, Standard:Standard001  +4Child car seat  +1GPS module  +1satellite radio package]
+[Casual01, 1, 2, 130.0, Economy:Economy003  +1Child car seat  +1GPS module  +1satellite radio package]
+[Regular02, 1, 3, 400.0, Minivan:Mini001  +0Child car seat  +0GPS module  +1satellite radio package, Standard:Standard003  +0Child car seat  +0GPS module  +1satellite radio package]
+[Regular04, 1, 4, 325.0, Minivan:Mini003  +4Child car seat  +0GPS module  +1satellite radio package]
+[Regular04, 2, 3, 215.0, Standard:Standard006  +2Child car seat  +1GPS module  +0satellite radio package]
+[Casual01, 3, 2, 100.0, Economy:Economy006  +0Child car seat  +0GPS module  +0satellite radio package]
+[Regular01, 1, 5, 1220.0, Luxury:Luxury003  +0Child car seat  +1GPS module  +0satellite radio package, Suv:SUV001  +1Child car seat  +1GPS module  +0satellite radio package, Standard:Standard002  +3Child car seat  +0GPS module  +0satellite radio package]
+[Regular03, 1, 5, 390.0, Minivan:Mini002  +4Child car seat  +0GPS module  +0satellite radio package]
+[Regular02, 2, 5, 1060.0, Suv:SUV002  +0Child car seat  +1GPS module  +1satellite radio package, Standard:Standard005  +2Child car seat  +0GPS module  +0satellite radio package, Standard:Standard007  +0Child car seat  +1GPS module  +1satellite radio package]
+[Casual01, 6, 1, 100.0, Suv:SUV001  +0Child car seat  +1GPS module  +1satellite radio package]
+[Business02, 1, 7, 1710.0, Luxury:Luxury001  +1Child car seat  +1GPS module  +0satellite radio package, Economy:Economy002  +4Child car seat  +0GPS module  +0satellite radio package, Luxury:Luxury002  +2Child car seat  +1GPS module  +0satellite radio package]
+[Casual05, 8, 1, 95.0, Economy:Economy003  +3Child car seat  +1GPS module  +0satellite radio package]
+[Business01, 3, 7, 1285.0, Minivan:Mini004  +2Child car seat  +0GPS module  +1satellite radio package, Economy:Economy001  +3Child car seat  +1GPS module  +0satellite radio package, Economy:Economy005  +1Child car seat  +1GPS module  +0satellite radio package]
+[Regular02, 5, 5, 1060.0, Economy:Economy004  +0Child car seat  +1GPS module  +1satellite radio package, Minivan:Mini001  +0Child car seat  +0GPS module  +0satellite radio package, Suv:SUV003  +4Child car seat  +0GPS module  +0satellite radio package]
+[Regular02, 6, 4, 265.0, Standard:Standard004  +1Child car seat  +1GPS module  +0satellite radio package]
+[Casual05, 7, 3, 215.0, Standard:Standard002  +2Child car seat  +1GPS module  +0satellite radio package]
+[Casual02, 7, 3, 195.0, Standard:Standard003  +0Child car seat  +1GPS module  +0satellite radio package]
+[Casual01, 8, 2, 205.0, Luxury:Luxury001  +1Child car seat  +1GPS module  +0satellite radio package]
+[Casual04, 9, 1, 70.0, Economy:Economy002  +0Child car seat  +1GPS module  +1satellite radio package]
+[Regular02, 7, 5, 730.0, Minivan:Mini002  +2Child car seat  +0GPS module  +1satellite radio package, Minivan:Mini003  +0Child car seat  +0GPS module  +1satellite radio package]
+[Casual03, 11, 1, 90.0, Economy:Economy002  +2Child car seat  +1GPS module  +1satellite radio package]
+[Regular02, 8, 5, 335.0, Standard:Standard008  +2Child car seat  +1GPS module  +0satellite radio package]
+[Business02, 8, 7, 1605.0, Standard:Standard006  +4Child car seat  +1GPS module  +0satellite radio package, Standard:Standard007  +2Child car seat  +0GPS module  +1satellite radio package, Luxury:Luxury003  +4Child car seat  +1GPS module  +0satellite radio package]
+[Regular02, 10, 5, 2620.0, Economy:Economy001  +1Child car seat  +1GPS module  +1satellite radio package, Luxury:Luxury002  +0Child car seat  +1GPS module  +1satellite radio package, Minivan:Mini004  +4Child car seat  +1GPS module  +0satellite radio package, Luxury:Luxury001  +0Child car seat  +1GPS module  +1satellite radio package, Economy:Economy006  +1Child car seat  +1GPS module  +0satellite radio package, Suv:SUV003  +0Child car seat  +1GPS module  +1satellite radio package, Economy:Economy005  +3Child car seat  +1GPS module  +1satellite radio package]
+[Casual01, 13, 2, 135.0, Standard:Standard004  +1Child car seat  +0GPS module  +1satellite radio package]
+[Regular01, 12, 4, 535.0, Suv:SUV001  +1Child car seat  +0GPS module  +0satellite radio package, Economy:Economy002  +0Child car seat  +0GPS module  +1satellite radio package]
+[Regular01, 14, 3, 205.0, Standard:Standard002  +2Child car seat  +0GPS module  +1satellite radio package]
+[Casual04, 15, 3, 215.0, Minivan:Mini001  +0Child car seat  +0GPS module  +1satellite radio package]
+[Casual05, 16, 2, 210.0, Suv:SUV003  +3Child car seat  +1GPS module  +1satellite radio package]
+[Casual04, 17, 1, 95.0, Standard:Standard002  +3Child car seat  +0GPS module  +1satellite radio package]
+[Regular02, 14, 5, 650.0, Economy:Economy003  +4Child car seat  +0GPS module  +0satellite radio package, Standard:Standard005  +4Child car seat  +1GPS module  +1satellite radio package]
+[Regular02, 15, 5, 450.0, Suv:SUV002  +3Child car seat  +1GPS module  +1satellite radio package]
+[Regular01, 15, 5, 1515.0, Standard:Standard006  +1Child car seat  +1GPS module  +0satellite radio package, Standard:Standard001  +3Child car seat  +1GPS module  +1satellite radio package, Luxury:Luxury001  +0Child car seat  +1GPS module  +1satellite radio package, Minivan:Mini004  +2Child car seat  +0GPS module  +0satellite radio package]
+[Regular01, 16, 4, 650.0, Luxury:Luxury002  +2Child car seat  +0GPS module  +0satellite radio package, Standard:Standard008  +1Child car seat  +1GPS module  +1satellite radio package]
+[Casual05, 18, 2, 135.0, Standard:Standard007  +1Child car seat  +0GPS module  +1satellite radio package]
+[Casual04, 18, 2, 235.0, Luxury:Luxury003  +4Child car seat  +1GPS module  +0satellite radio package]
+[Casual05, 20, 2, 125.0, Standard:Standard001  +0Child car seat  +0GPS module  +1satellite radio package]
+[Regular01, 20, 4, 695.0, Minivan:Mini003  +1Child car seat  +1GPS module  +1satellite radio package, Luxury:Luxury001  +1Child car seat  +1GPS module  +0satellite radio package]
+[Regular01, 23, 4, 250.0, Economy:Economy003  +3Child car seat  +1GPS module  +1satellite radio package]
+[Regular01, 25, 3, 200.0, Standard:Standard004  +0Child car seat  +1GPS module  +1satellite radio package]
+[Casual05, 26, 2, 125.0, Standard:Standard002  +0Child car seat  +0GPS module  +1satellite radio package]
+[Casual05, 27, 1, 65.0, Economy:Economy005  +0Child car seat  +1GPS module  +0satellite radio package]
+
+Active rentals record:
+Count: 0
+Cutomer name:   rental car type& license
+
+cars left in the store:
+Count: 24
+rental car type& license: [Economy:Economy004, Standard:Standard003, Minivan:Mini002, Economy:Economy001, Economy:Economy006, Suv:SUV001, Economy:Economy002, Minivan:Mini001, Suv:SUV003, Standard:Standard005, Suv:SUV002, Standard:Standard006, Minivan:Mini004, Luxury:Luxury002, Standard:Standard008, Standard:Standard007, Luxury:Luxury003, Standard:Standard001, Minivan:Mini003, Luxury:Luxury001, Economy:Economy003, Standard:Standard004, Standard:Standard002, Economy:Economy005]
+
+The income of the 27 day: 65.0
+
+*********************************************************************************
+At the begining of the day: 29
+Completed rentals record:
+Count: 43
+Cutomer name,rent day,lease,rental car information
+[Casual02, 1, 1, 65.0, Standard:Standard007  +0Child car seat  +0GPS module  +1satellite radio package]
+[Casual05, 1, 1, 120.0, Standard:Standard001  +4Child car seat  +1GPS module  +1satellite radio package]
+[Casual01, 1, 2, 130.0, Economy:Economy003  +1Child car seat  +1GPS module  +1satellite radio package]
+[Regular02, 1, 3, 400.0, Minivan:Mini001  +0Child car seat  +0GPS module  +1satellite radio package, Standard:Standard003  +0Child car seat  +0GPS module  +1satellite radio package]
+[Regular04, 1, 4, 325.0, Minivan:Mini003  +4Child car seat  +0GPS module  +1satellite radio package]
+[Regular04, 2, 3, 215.0, Standard:Standard006  +2Child car seat  +1GPS module  +0satellite radio package]
+[Casual01, 3, 2, 100.0, Economy:Economy006  +0Child car seat  +0GPS module  +0satellite radio package]
+[Regular01, 1, 5, 1220.0, Luxury:Luxury003  +0Child car seat  +1GPS module  +0satellite radio package, Suv:SUV001  +1Child car seat  +1GPS module  +0satellite radio package, Standard:Standard002  +3Child car seat  +0GPS module  +0satellite radio package]
+[Regular03, 1, 5, 390.0, Minivan:Mini002  +4Child car seat  +0GPS module  +0satellite radio package]
+[Regular02, 2, 5, 1060.0, Suv:SUV002  +0Child car seat  +1GPS module  +1satellite radio package, Standard:Standard005  +2Child car seat  +0GPS module  +0satellite radio package, Standard:Standard007  +0Child car seat  +1GPS module  +1satellite radio package]
+[Casual01, 6, 1, 100.0, Suv:SUV001  +0Child car seat  +1GPS module  +1satellite radio package]
+[Business02, 1, 7, 1710.0, Luxury:Luxury001  +1Child car seat  +1GPS module  +0satellite radio package, Economy:Economy002  +4Child car seat  +0GPS module  +0satellite radio package, Luxury:Luxury002  +2Child car seat  +1GPS module  +0satellite radio package]
+[Casual05, 8, 1, 95.0, Economy:Economy003  +3Child car seat  +1GPS module  +0satellite radio package]
+[Business01, 3, 7, 1285.0, Minivan:Mini004  +2Child car seat  +0GPS module  +1satellite radio package, Economy:Economy001  +3Child car seat  +1GPS module  +0satellite radio package, Economy:Economy005  +1Child car seat  +1GPS module  +0satellite radio package]
+[Regular02, 5, 5, 1060.0, Economy:Economy004  +0Child car seat  +1GPS module  +1satellite radio package, Minivan:Mini001  +0Child car seat  +0GPS module  +0satellite radio package, Suv:SUV003  +4Child car seat  +0GPS module  +0satellite radio package]
+[Regular02, 6, 4, 265.0, Standard:Standard004  +1Child car seat  +1GPS module  +0satellite radio package]
+[Casual05, 7, 3, 215.0, Standard:Standard002  +2Child car seat  +1GPS module  +0satellite radio package]
+[Casual02, 7, 3, 195.0, Standard:Standard003  +0Child car seat  +1GPS module  +0satellite radio package]
+[Casual01, 8, 2, 205.0, Luxury:Luxury001  +1Child car seat  +1GPS module  +0satellite radio package]
+[Casual04, 9, 1, 70.0, Economy:Economy002  +0Child car seat  +1GPS module  +1satellite radio package]
+[Regular02, 7, 5, 730.0, Minivan:Mini002  +2Child car seat  +0GPS module  +1satellite radio package, Minivan:Mini003  +0Child car seat  +0GPS module  +1satellite radio package]
+[Casual03, 11, 1, 90.0, Economy:Economy002  +2Child car seat  +1GPS module  +1satellite radio package]
+[Regular02, 8, 5, 335.0, Standard:Standard008  +2Child car seat  +1GPS module  +0satellite radio package]
+[Business02, 8, 7, 1605.0, Standard:Standard006  +4Child car seat  +1GPS module  +0satellite radio package, Standard:Standard007  +2Child car seat  +0GPS module  +1satellite radio package, Luxury:Luxury003  +4Child car seat  +1GPS module  +0satellite radio package]
+[Regular02, 10, 5, 2620.0, Economy:Economy001  +1Child car seat  +1GPS module  +1satellite radio package, Luxury:Luxury002  +0Child car seat  +1GPS module  +1satellite radio package, Minivan:Mini004  +4Child car seat  +1GPS module  +0satellite radio package, Luxury:Luxury001  +0Child car seat  +1GPS module  +1satellite radio package, Economy:Economy006  +1Child car seat  +1GPS module  +0satellite radio package, Suv:SUV003  +0Child car seat  +1GPS module  +1satellite radio package, Economy:Economy005  +3Child car seat  +1GPS module  +1satellite radio package]
+[Casual01, 13, 2, 135.0, Standard:Standard004  +1Child car seat  +0GPS module  +1satellite radio package]
+[Regular01, 12, 4, 535.0, Suv:SUV001  +1Child car seat  +0GPS module  +0satellite radio package, Economy:Economy002  +0Child car seat  +0GPS module  +1satellite radio package]
+[Regular01, 14, 3, 205.0, Standard:Standard002  +2Child car seat  +0GPS module  +1satellite radio package]
+[Casual04, 15, 3, 215.0, Minivan:Mini001  +0Child car seat  +0GPS module  +1satellite radio package]
+[Casual05, 16, 2, 210.0, Suv:SUV003  +3Child car seat  +1GPS module  +1satellite radio package]
+[Casual04, 17, 1, 95.0, Standard:Standard002  +3Child car seat  +0GPS module  +1satellite radio package]
+[Regular02, 14, 5, 650.0, Economy:Economy003  +4Child car seat  +0GPS module  +0satellite radio package, Standard:Standard005  +4Child car seat  +1GPS module  +1satellite radio package]
+[Regular02, 15, 5, 450.0, Suv:SUV002  +3Child car seat  +1GPS module  +1satellite radio package]
+[Regular01, 15, 5, 1515.0, Standard:Standard006  +1Child car seat  +1GPS module  +0satellite radio package, Standard:Standard001  +3Child car seat  +1GPS module  +1satellite radio package, Luxury:Luxury001  +0Child car seat  +1GPS module  +1satellite radio package, Minivan:Mini004  +2Child car seat  +0GPS module  +0satellite radio package]
+[Regular01, 16, 4, 650.0, Luxury:Luxury002  +2Child car seat  +0GPS module  +0satellite radio package, Standard:Standard008  +1Child car seat  +1GPS module  +1satellite radio package]
+[Casual05, 18, 2, 135.0, Standard:Standard007  +1Child car seat  +0GPS module  +1satellite radio package]
+[Casual04, 18, 2, 235.0, Luxury:Luxury003  +4Child car seat  +1GPS module  +0satellite radio package]
+[Casual05, 20, 2, 125.0, Standard:Standard001  +0Child car seat  +0GPS module  +1satellite radio package]
+[Regular01, 20, 4, 695.0, Minivan:Mini003  +1Child car seat  +1GPS module  +1satellite radio package, Luxury:Luxury001  +1Child car seat  +1GPS module  +0satellite radio package]
+[Regular01, 23, 4, 250.0, Economy:Economy003  +3Child car seat  +1GPS module  +1satellite radio package]
+[Regular01, 25, 3, 200.0, Standard:Standard004  +0Child car seat  +1GPS module  +1satellite radio package]
+[Casual05, 26, 2, 125.0, Standard:Standard002  +0Child car seat  +0GPS module  +1satellite radio package]
+[Casual05, 27, 1, 65.0, Economy:Economy005  +0Child car seat  +1GPS module  +0satellite radio package]
+
+Active rentals record:
+Count: 1
+Cutomer name:   rental car type& license
+[Casual05, Minivan, Mini004]
+
+cars left in the store:
+Count: 23
+rental car type& license: [Economy:Economy004, Standard:Standard003, Minivan:Mini002, Economy:Economy001, Economy:Economy006, Suv:SUV001, Economy:Economy002, Minivan:Mini001, Suv:SUV003, Standard:Standard005, Suv:SUV002, Standard:Standard006, Luxury:Luxury002, Standard:Standard008, Standard:Standard007, Luxury:Luxury003, Standard:Standard001, Minivan:Mini003, Luxury:Luxury001, Economy:Economy003, Standard:Standard004, Standard:Standard002, Economy:Economy005]
+
+The income of the 28 day: 265.0
+
+*********************************************************************************
+At the begining of the day: 30
+Completed rentals record:
+Count: 43
+Cutomer name,rent day,lease,rental car information
+[Casual02, 1, 1, 65.0, Standard:Standard007  +0Child car seat  +0GPS module  +1satellite radio package]
+[Casual05, 1, 1, 120.0, Standard:Standard001  +4Child car seat  +1GPS module  +1satellite radio package]
+[Casual01, 1, 2, 130.0, Economy:Economy003  +1Child car seat  +1GPS module  +1satellite radio package]
+[Regular02, 1, 3, 400.0, Minivan:Mini001  +0Child car seat  +0GPS module  +1satellite radio package, Standard:Standard003  +0Child car seat  +0GPS module  +1satellite radio package]
+[Regular04, 1, 4, 325.0, Minivan:Mini003  +4Child car seat  +0GPS module  +1satellite radio package]
+[Regular04, 2, 3, 215.0, Standard:Standard006  +2Child car seat  +1GPS module  +0satellite radio package]
+[Casual01, 3, 2, 100.0, Economy:Economy006  +0Child car seat  +0GPS module  +0satellite radio package]
+[Regular01, 1, 5, 1220.0, Luxury:Luxury003  +0Child car seat  +1GPS module  +0satellite radio package, Suv:SUV001  +1Child car seat  +1GPS module  +0satellite radio package, Standard:Standard002  +3Child car seat  +0GPS module  +0satellite radio package]
+[Regular03, 1, 5, 390.0, Minivan:Mini002  +4Child car seat  +0GPS module  +0satellite radio package]
+[Regular02, 2, 5, 1060.0, Suv:SUV002  +0Child car seat  +1GPS module  +1satellite radio package, Standard:Standard005  +2Child car seat  +0GPS module  +0satellite radio package, Standard:Standard007  +0Child car seat  +1GPS module  +1satellite radio package]
+[Casual01, 6, 1, 100.0, Suv:SUV001  +0Child car seat  +1GPS module  +1satellite radio package]
+[Business02, 1, 7, 1710.0, Luxury:Luxury001  +1Child car seat  +1GPS module  +0satellite radio package, Economy:Economy002  +4Child car seat  +0GPS module  +0satellite radio package, Luxury:Luxury002  +2Child car seat  +1GPS module  +0satellite radio package]
+[Casual05, 8, 1, 95.0, Economy:Economy003  +3Child car seat  +1GPS module  +0satellite radio package]
+[Business01, 3, 7, 1285.0, Minivan:Mini004  +2Child car seat  +0GPS module  +1satellite radio package, Economy:Economy001  +3Child car seat  +1GPS module  +0satellite radio package, Economy:Economy005  +1Child car seat  +1GPS module  +0satellite radio package]
+[Regular02, 5, 5, 1060.0, Economy:Economy004  +0Child car seat  +1GPS module  +1satellite radio package, Minivan:Mini001  +0Child car seat  +0GPS module  +0satellite radio package, Suv:SUV003  +4Child car seat  +0GPS module  +0satellite radio package]
+[Regular02, 6, 4, 265.0, Standard:Standard004  +1Child car seat  +1GPS module  +0satellite radio package]
+[Casual05, 7, 3, 215.0, Standard:Standard002  +2Child car seat  +1GPS module  +0satellite radio package]
+[Casual02, 7, 3, 195.0, Standard:Standard003  +0Child car seat  +1GPS module  +0satellite radio package]
+[Casual01, 8, 2, 205.0, Luxury:Luxury001  +1Child car seat  +1GPS module  +0satellite radio package]
+[Casual04, 9, 1, 70.0, Economy:Economy002  +0Child car seat  +1GPS module  +1satellite radio package]
+[Regular02, 7, 5, 730.0, Minivan:Mini002  +2Child car seat  +0GPS module  +1satellite radio package, Minivan:Mini003  +0Child car seat  +0GPS module  +1satellite radio package]
+[Casual03, 11, 1, 90.0, Economy:Economy002  +2Child car seat  +1GPS module  +1satellite radio package]
+[Regular02, 8, 5, 335.0, Standard:Standard008  +2Child car seat  +1GPS module  +0satellite radio package]
+[Business02, 8, 7, 1605.0, Standard:Standard006  +4Child car seat  +1GPS module  +0satellite radio package, Standard:Standard007  +2Child car seat  +0GPS module  +1satellite radio package, Luxury:Luxury003  +4Child car seat  +1GPS module  +0satellite radio package]
+[Regular02, 10, 5, 2620.0, Economy:Economy001  +1Child car seat  +1GPS module  +1satellite radio package, Luxury:Luxury002  +0Child car seat  +1GPS module  +1satellite radio package, Minivan:Mini004  +4Child car seat  +1GPS module  +0satellite radio package, Luxury:Luxury001  +0Child car seat  +1GPS module  +1satellite radio package, Economy:Economy006  +1Child car seat  +1GPS module  +0satellite radio package, Suv:SUV003  +0Child car seat  +1GPS module  +1satellite radio package, Economy:Economy005  +3Child car seat  +1GPS module  +1satellite radio package]
+[Casual01, 13, 2, 135.0, Standard:Standard004  +1Child car seat  +0GPS module  +1satellite radio package]
+[Regular01, 12, 4, 535.0, Suv:SUV001  +1Child car seat  +0GPS module  +0satellite radio package, Economy:Economy002  +0Child car seat  +0GPS module  +1satellite radio package]
+[Regular01, 14, 3, 205.0, Standard:Standard002  +2Child car seat  +0GPS module  +1satellite radio package]
+[Casual04, 15, 3, 215.0, Minivan:Mini001  +0Child car seat  +0GPS module  +1satellite radio package]
+[Casual05, 16, 2, 210.0, Suv:SUV003  +3Child car seat  +1GPS module  +1satellite radio package]
+[Casual04, 17, 1, 95.0, Standard:Standard002  +3Child car seat  +0GPS module  +1satellite radio package]
+[Regular02, 14, 5, 650.0, Economy:Economy003  +4Child car seat  +0GPS module  +0satellite radio package, Standard:Standard005  +4Child car seat  +1GPS module  +1satellite radio package]
+[Regular02, 15, 5, 450.0, Suv:SUV002  +3Child car seat  +1GPS module  +1satellite radio package]
+[Regular01, 15, 5, 1515.0, Standard:Standard006  +1Child car seat  +1GPS module  +0satellite radio package, Standard:Standard001  +3Child car seat  +1GPS module  +1satellite radio package, Luxury:Luxury001  +0Child car seat  +1GPS module  +1satellite radio package, Minivan:Mini004  +2Child car seat  +0GPS module  +0satellite radio package]
+[Regular01, 16, 4, 650.0, Luxury:Luxury002  +2Child car seat  +0GPS module  +0satellite radio package, Standard:Standard008  +1Child car seat  +1GPS module  +1satellite radio package]
+[Casual05, 18, 2, 135.0, Standard:Standard007  +1Child car seat  +0GPS module  +1satellite radio package]
+[Casual04, 18, 2, 235.0, Luxury:Luxury003  +4Child car seat  +1GPS module  +0satellite radio package]
+[Casual05, 20, 2, 125.0, Standard:Standard001  +0Child car seat  +0GPS module  +1satellite radio package]
+[Regular01, 20, 4, 695.0, Minivan:Mini003  +1Child car seat  +1GPS module  +1satellite radio package, Luxury:Luxury001  +1Child car seat  +1GPS module  +0satellite radio package]
+[Regular01, 23, 4, 250.0, Economy:Economy003  +3Child car seat  +1GPS module  +1satellite radio package]
+[Regular01, 25, 3, 200.0, Standard:Standard004  +0Child car seat  +1GPS module  +1satellite radio package]
+[Casual05, 26, 2, 125.0, Standard:Standard002  +0Child car seat  +0GPS module  +1satellite radio package]
+[Casual05, 27, 1, 65.0, Economy:Economy005  +0Child car seat  +1GPS module  +0satellite radio package]
+
+Active rentals record:
+Count: 2
+Cutomer name:   rental car type& license
+[Casual05, Minivan, Mini004]
+[Casual05, Luxury, Luxury003]
+
+cars left in the store:
+Count: 22
+rental car type& license: [Economy:Economy004, Standard:Standard003, Minivan:Mini002, Economy:Economy001, Economy:Economy006, Suv:SUV001, Economy:Economy002, Minivan:Mini001, Suv:SUV003, Standard:Standard005, Suv:SUV002, Standard:Standard006, Luxury:Luxury002, Standard:Standard008, Standard:Standard007, Standard:Standard001, Minivan:Mini003, Luxury:Luxury001, Economy:Economy003, Standard:Standard004, Standard:Standard002, Economy:Economy005]
+
+The income of the 29 day: 295.0
+
+*********************************************************************************
+At the begining of the day: 31
+Completed rentals record:
+Count: 44
+Cutomer name,rent day,lease,rental car information
+[Casual02, 1, 1, 65.0, Standard:Standard007  +0Child car seat  +0GPS module  +1satellite radio package]
+[Casual05, 1, 1, 120.0, Standard:Standard001  +4Child car seat  +1GPS module  +1satellite radio package]
+[Casual01, 1, 2, 130.0, Economy:Economy003  +1Child car seat  +1GPS module  +1satellite radio package]
+[Regular02, 1, 3, 400.0, Minivan:Mini001  +0Child car seat  +0GPS module  +1satellite radio package, Standard:Standard003  +0Child car seat  +0GPS module  +1satellite radio package]
+[Regular04, 1, 4, 325.0, Minivan:Mini003  +4Child car seat  +0GPS module  +1satellite radio package]
+[Regular04, 2, 3, 215.0, Standard:Standard006  +2Child car seat  +1GPS module  +0satellite radio package]
+[Casual01, 3, 2, 100.0, Economy:Economy006  +0Child car seat  +0GPS module  +0satellite radio package]
+[Regular01, 1, 5, 1220.0, Luxury:Luxury003  +0Child car seat  +1GPS module  +0satellite radio package, Suv:SUV001  +1Child car seat  +1GPS module  +0satellite radio package, Standard:Standard002  +3Child car seat  +0GPS module  +0satellite radio package]
+[Regular03, 1, 5, 390.0, Minivan:Mini002  +4Child car seat  +0GPS module  +0satellite radio package]
+[Regular02, 2, 5, 1060.0, Suv:SUV002  +0Child car seat  +1GPS module  +1satellite radio package, Standard:Standard005  +2Child car seat  +0GPS module  +0satellite radio package, Standard:Standard007  +0Child car seat  +1GPS module  +1satellite radio package]
+[Casual01, 6, 1, 100.0, Suv:SUV001  +0Child car seat  +1GPS module  +1satellite radio package]
+[Business02, 1, 7, 1710.0, Luxury:Luxury001  +1Child car seat  +1GPS module  +0satellite radio package, Economy:Economy002  +4Child car seat  +0GPS module  +0satellite radio package, Luxury:Luxury002  +2Child car seat  +1GPS module  +0satellite radio package]
+[Casual05, 8, 1, 95.0, Economy:Economy003  +3Child car seat  +1GPS module  +0satellite radio package]
+[Business01, 3, 7, 1285.0, Minivan:Mini004  +2Child car seat  +0GPS module  +1satellite radio package, Economy:Economy001  +3Child car seat  +1GPS module  +0satellite radio package, Economy:Economy005  +1Child car seat  +1GPS module  +0satellite radio package]
+[Regular02, 5, 5, 1060.0, Economy:Economy004  +0Child car seat  +1GPS module  +1satellite radio package, Minivan:Mini001  +0Child car seat  +0GPS module  +0satellite radio package, Suv:SUV003  +4Child car seat  +0GPS module  +0satellite radio package]
+[Regular02, 6, 4, 265.0, Standard:Standard004  +1Child car seat  +1GPS module  +0satellite radio package]
+[Casual05, 7, 3, 215.0, Standard:Standard002  +2Child car seat  +1GPS module  +0satellite radio package]
+[Casual02, 7, 3, 195.0, Standard:Standard003  +0Child car seat  +1GPS module  +0satellite radio package]
+[Casual01, 8, 2, 205.0, Luxury:Luxury001  +1Child car seat  +1GPS module  +0satellite radio package]
+[Casual04, 9, 1, 70.0, Economy:Economy002  +0Child car seat  +1GPS module  +1satellite radio package]
+[Regular02, 7, 5, 730.0, Minivan:Mini002  +2Child car seat  +0GPS module  +1satellite radio package, Minivan:Mini003  +0Child car seat  +0GPS module  +1satellite radio package]
+[Casual03, 11, 1, 90.0, Economy:Economy002  +2Child car seat  +1GPS module  +1satellite radio package]
+[Regular02, 8, 5, 335.0, Standard:Standard008  +2Child car seat  +1GPS module  +0satellite radio package]
+[Business02, 8, 7, 1605.0, Standard:Standard006  +4Child car seat  +1GPS module  +0satellite radio package, Standard:Standard007  +2Child car seat  +0GPS module  +1satellite radio package, Luxury:Luxury003  +4Child car seat  +1GPS module  +0satellite radio package]
+[Regular02, 10, 5, 2620.0, Economy:Economy001  +1Child car seat  +1GPS module  +1satellite radio package, Luxury:Luxury002  +0Child car seat  +1GPS module  +1satellite radio package, Minivan:Mini004  +4Child car seat  +1GPS module  +0satellite radio package, Luxury:Luxury001  +0Child car seat  +1GPS module  +1satellite radio package, Economy:Economy006  +1Child car seat  +1GPS module  +0satellite radio package, Suv:SUV003  +0Child car seat  +1GPS module  +1satellite radio package, Economy:Economy005  +3Child car seat  +1GPS module  +1satellite radio package]
+[Casual01, 13, 2, 135.0, Standard:Standard004  +1Child car seat  +0GPS module  +1satellite radio package]
+[Regular01, 12, 4, 535.0, Suv:SUV001  +1Child car seat  +0GPS module  +0satellite radio package, Economy:Economy002  +0Child car seat  +0GPS module  +1satellite radio package]
+[Regular01, 14, 3, 205.0, Standard:Standard002  +2Child car seat  +0GPS module  +1satellite radio package]
+[Casual04, 15, 3, 215.0, Minivan:Mini001  +0Child car seat  +0GPS module  +1satellite radio package]
+[Casual05, 16, 2, 210.0, Suv:SUV003  +3Child car seat  +1GPS module  +1satellite radio package]
+[Casual04, 17, 1, 95.0, Standard:Standard002  +3Child car seat  +0GPS module  +1satellite radio package]
+[Regular02, 14, 5, 650.0, Economy:Economy003  +4Child car seat  +0GPS module  +0satellite radio package, Standard:Standard005  +4Child car seat  +1GPS module  +1satellite radio package]
+[Regular02, 15, 5, 450.0, Suv:SUV002  +3Child car seat  +1GPS module  +1satellite radio package]
+[Regular01, 15, 5, 1515.0, Standard:Standard006  +1Child car seat  +1GPS module  +0satellite radio package, Standard:Standard001  +3Child car seat  +1GPS module  +1satellite radio package, Luxury:Luxury001  +0Child car seat  +1GPS module  +1satellite radio package, Minivan:Mini004  +2Child car seat  +0GPS module  +0satellite radio package]
+[Regular01, 16, 4, 650.0, Luxury:Luxury002  +2Child car seat  +0GPS module  +0satellite radio package, Standard:Standard008  +1Child car seat  +1GPS module  +1satellite radio package]
+[Casual05, 18, 2, 135.0, Standard:Standard007  +1Child car seat  +0GPS module  +1satellite radio package]
+[Casual04, 18, 2, 235.0, Luxury:Luxury003  +4Child car seat  +1GPS module  +0satellite radio package]
+[Casual05, 20, 2, 125.0, Standard:Standard001  +0Child car seat  +0GPS module  +1satellite radio package]
+[Regular01, 20, 4, 695.0, Minivan:Mini003  +1Child car seat  +1GPS module  +1satellite radio package, Luxury:Luxury001  +1Child car seat  +1GPS module  +0satellite radio package]
+[Regular01, 23, 4, 250.0, Economy:Economy003  +3Child car seat  +1GPS module  +1satellite radio package]
+[Regular01, 25, 3, 200.0, Standard:Standard004  +0Child car seat  +1GPS module  +1satellite radio package]
+[Casual05, 26, 2, 125.0, Standard:Standard002  +0Child car seat  +0GPS module  +1satellite radio package]
+[Casual05, 27, 1, 65.0, Economy:Economy005  +0Child car seat  +1GPS module  +0satellite radio package]
+[Casual05, 28, 3, 265.0, Minivan:Mini004  +4Child car seat  +1GPS module  +0satellite radio package]
+
+Active rentals record:
+Count: 1
+Cutomer name:   rental car type& license
+[Casual05, Luxury, Luxury003]
+
+cars left in the store:
+Count: 23
+rental car type& license: [Economy:Economy004, Standard:Standard003, Minivan:Mini002, Economy:Economy001, Economy:Economy006, Suv:SUV001, Economy:Economy002, Minivan:Mini001, Suv:SUV003, Standard:Standard005, Suv:SUV002, Standard:Standard006, Luxury:Luxury002, Standard:Standard008, Standard:Standard007, Standard:Standard001, Minivan:Mini003, Luxury:Luxury001, Economy:Economy003, Standard:Standard004, Standard:Standard002, Economy:Economy005, Minivan:Mini004]
+
+The income of the 30 day: 0.0
+
+*********************************************************************************
+At the begining of the day: 32
+Completed rentals record:
+Count: 45
+Cutomer name,rent day,lease,rental car information
+[Casual02, 1, 1, 65.0, Standard:Standard007  +0Child car seat  +0GPS module  +1satellite radio package]
+[Casual05, 1, 1, 120.0, Standard:Standard001  +4Child car seat  +1GPS module  +1satellite radio package]
+[Casual01, 1, 2, 130.0, Economy:Economy003  +1Child car seat  +1GPS module  +1satellite radio package]
+[Regular02, 1, 3, 400.0, Minivan:Mini001  +0Child car seat  +0GPS module  +1satellite radio package, Standard:Standard003  +0Child car seat  +0GPS module  +1satellite radio package]
+[Regular04, 1, 4, 325.0, Minivan:Mini003  +4Child car seat  +0GPS module  +1satellite radio package]
+[Regular04, 2, 3, 215.0, Standard:Standard006  +2Child car seat  +1GPS module  +0satellite radio package]
+[Casual01, 3, 2, 100.0, Economy:Economy006  +0Child car seat  +0GPS module  +0satellite radio package]
+[Regular01, 1, 5, 1220.0, Luxury:Luxury003  +0Child car seat  +1GPS module  +0satellite radio package, Suv:SUV001  +1Child car seat  +1GPS module  +0satellite radio package, Standard:Standard002  +3Child car seat  +0GPS module  +0satellite radio package]
+[Regular03, 1, 5, 390.0, Minivan:Mini002  +4Child car seat  +0GPS module  +0satellite radio package]
+[Regular02, 2, 5, 1060.0, Suv:SUV002  +0Child car seat  +1GPS module  +1satellite radio package, Standard:Standard005  +2Child car seat  +0GPS module  +0satellite radio package, Standard:Standard007  +0Child car seat  +1GPS module  +1satellite radio package]
+[Casual01, 6, 1, 100.0, Suv:SUV001  +0Child car seat  +1GPS module  +1satellite radio package]
+[Business02, 1, 7, 1710.0, Luxury:Luxury001  +1Child car seat  +1GPS module  +0satellite radio package, Economy:Economy002  +4Child car seat  +0GPS module  +0satellite radio package, Luxury:Luxury002  +2Child car seat  +1GPS module  +0satellite radio package]
+[Casual05, 8, 1, 95.0, Economy:Economy003  +3Child car seat  +1GPS module  +0satellite radio package]
+[Business01, 3, 7, 1285.0, Minivan:Mini004  +2Child car seat  +0GPS module  +1satellite radio package, Economy:Economy001  +3Child car seat  +1GPS module  +0satellite radio package, Economy:Economy005  +1Child car seat  +1GPS module  +0satellite radio package]
+[Regular02, 5, 5, 1060.0, Economy:Economy004  +0Child car seat  +1GPS module  +1satellite radio package, Minivan:Mini001  +0Child car seat  +0GPS module  +0satellite radio package, Suv:SUV003  +4Child car seat  +0GPS module  +0satellite radio package]
+[Regular02, 6, 4, 265.0, Standard:Standard004  +1Child car seat  +1GPS module  +0satellite radio package]
+[Casual05, 7, 3, 215.0, Standard:Standard002  +2Child car seat  +1GPS module  +0satellite radio package]
+[Casual02, 7, 3, 195.0, Standard:Standard003  +0Child car seat  +1GPS module  +0satellite radio package]
+[Casual01, 8, 2, 205.0, Luxury:Luxury001  +1Child car seat  +1GPS module  +0satellite radio package]
+[Casual04, 9, 1, 70.0, Economy:Economy002  +0Child car seat  +1GPS module  +1satellite radio package]
+[Regular02, 7, 5, 730.0, Minivan:Mini002  +2Child car seat  +0GPS module  +1satellite radio package, Minivan:Mini003  +0Child car seat  +0GPS module  +1satellite radio package]
+[Casual03, 11, 1, 90.0, Economy:Economy002  +2Child car seat  +1GPS module  +1satellite radio package]
+[Regular02, 8, 5, 335.0, Standard:Standard008  +2Child car seat  +1GPS module  +0satellite radio package]
+[Business02, 8, 7, 1605.0, Standard:Standard006  +4Child car seat  +1GPS module  +0satellite radio package, Standard:Standard007  +2Child car seat  +0GPS module  +1satellite radio package, Luxury:Luxury003  +4Child car seat  +1GPS module  +0satellite radio package]
+[Regular02, 10, 5, 2620.0, Economy:Economy001  +1Child car seat  +1GPS module  +1satellite radio package, Luxury:Luxury002  +0Child car seat  +1GPS module  +1satellite radio package, Minivan:Mini004  +4Child car seat  +1GPS module  +0satellite radio package, Luxury:Luxury001  +0Child car seat  +1GPS module  +1satellite radio package, Economy:Economy006  +1Child car seat  +1GPS module  +0satellite radio package, Suv:SUV003  +0Child car seat  +1GPS module  +1satellite radio package, Economy:Economy005  +3Child car seat  +1GPS module  +1satellite radio package]
+[Casual01, 13, 2, 135.0, Standard:Standard004  +1Child car seat  +0GPS module  +1satellite radio package]
+[Regular01, 12, 4, 535.0, Suv:SUV001  +1Child car seat  +0GPS module  +0satellite radio package, Economy:Economy002  +0Child car seat  +0GPS module  +1satellite radio package]
+[Regular01, 14, 3, 205.0, Standard:Standard002  +2Child car seat  +0GPS module  +1satellite radio package]
+[Casual04, 15, 3, 215.0, Minivan:Mini001  +0Child car seat  +0GPS module  +1satellite radio package]
+[Casual05, 16, 2, 210.0, Suv:SUV003  +3Child car seat  +1GPS module  +1satellite radio package]
+[Casual04, 17, 1, 95.0, Standard:Standard002  +3Child car seat  +0GPS module  +1satellite radio package]
+[Regular02, 14, 5, 650.0, Economy:Economy003  +4Child car seat  +0GPS module  +0satellite radio package, Standard:Standard005  +4Child car seat  +1GPS module  +1satellite radio package]
+[Regular02, 15, 5, 450.0, Suv:SUV002  +3Child car seat  +1GPS module  +1satellite radio package]
+[Regular01, 15, 5, 1515.0, Standard:Standard006  +1Child car seat  +1GPS module  +0satellite radio package, Standard:Standard001  +3Child car seat  +1GPS module  +1satellite radio package, Luxury:Luxury001  +0Child car seat  +1GPS module  +1satellite radio package, Minivan:Mini004  +2Child car seat  +0GPS module  +0satellite radio package]
+[Regular01, 16, 4, 650.0, Luxury:Luxury002  +2Child car seat  +0GPS module  +0satellite radio package, Standard:Standard008  +1Child car seat  +1GPS module  +1satellite radio package]
+[Casual05, 18, 2, 135.0, Standard:Standard007  +1Child car seat  +0GPS module  +1satellite radio package]
+[Casual04, 18, 2, 235.0, Luxury:Luxury003  +4Child car seat  +1GPS module  +0satellite radio package]
+[Casual05, 20, 2, 125.0, Standard:Standard001  +0Child car seat  +0GPS module  +1satellite radio package]
+[Regular01, 20, 4, 695.0, Minivan:Mini003  +1Child car seat  +1GPS module  +1satellite radio package, Luxury:Luxury001  +1Child car seat  +1GPS module  +0satellite radio package]
+[Regular01, 23, 4, 250.0, Economy:Economy003  +3Child car seat  +1GPS module  +1satellite radio package]
+[Regular01, 25, 3, 200.0, Standard:Standard004  +0Child car seat  +1GPS module  +1satellite radio package]
+[Casual05, 26, 2, 125.0, Standard:Standard002  +0Child car seat  +0GPS module  +1satellite radio package]
+[Casual05, 27, 1, 65.0, Economy:Economy005  +0Child car seat  +1GPS module  +0satellite radio package]
+[Casual05, 28, 3, 265.0, Minivan:Mini004  +4Child car seat  +1GPS module  +0satellite radio package]
+[Casual05, 29, 3, 295.0, Luxury:Luxury003  +2Child car seat  +0GPS module  +1satellite radio package]
+
+Active rentals record:
+Count: 0
+Cutomer name:   rental car type& license
+
+cars left in the store:
+Count: 24
+rental car type& license: [Economy:Economy004, Standard:Standard003, Minivan:Mini002, Economy:Economy001, Economy:Economy006, Suv:SUV001, Economy:Economy002, Minivan:Mini001, Suv:SUV003, Standard:Standard005, Suv:SUV002, Standard:Standard006, Luxury:Luxury002, Standard:Standard008, Standard:Standard007, Standard:Standard001, Minivan:Mini003, Luxury:Luxury001, Economy:Economy003, Standard:Standard004, Standard:Standard002, Economy:Economy005, Minivan:Mini004, Luxury:Luxury003]
+
+The income of the 31 day: 0.0
+
+*********************************************************************************
+At the begining of the day: 33
+Completed rentals record:
+Count: 45
+Cutomer name,rent day,lease,rental car information
+[Casual02, 1, 1, 65.0, Standard:Standard007  +0Child car seat  +0GPS module  +1satellite radio package]
+[Casual05, 1, 1, 120.0, Standard:Standard001  +4Child car seat  +1GPS module  +1satellite radio package]
+[Casual01, 1, 2, 130.0, Economy:Economy003  +1Child car seat  +1GPS module  +1satellite radio package]
+[Regular02, 1, 3, 400.0, Minivan:Mini001  +0Child car seat  +0GPS module  +1satellite radio package, Standard:Standard003  +0Child car seat  +0GPS module  +1satellite radio package]
+[Regular04, 1, 4, 325.0, Minivan:Mini003  +4Child car seat  +0GPS module  +1satellite radio package]
+[Regular04, 2, 3, 215.0, Standard:Standard006  +2Child car seat  +1GPS module  +0satellite radio package]
+[Casual01, 3, 2, 100.0, Economy:Economy006  +0Child car seat  +0GPS module  +0satellite radio package]
+[Regular01, 1, 5, 1220.0, Luxury:Luxury003  +0Child car seat  +1GPS module  +0satellite radio package, Suv:SUV001  +1Child car seat  +1GPS module  +0satellite radio package, Standard:Standard002  +3Child car seat  +0GPS module  +0satellite radio package]
+[Regular03, 1, 5, 390.0, Minivan:Mini002  +4Child car seat  +0GPS module  +0satellite radio package]
+[Regular02, 2, 5, 1060.0, Suv:SUV002  +0Child car seat  +1GPS module  +1satellite radio package, Standard:Standard005  +2Child car seat  +0GPS module  +0satellite radio package, Standard:Standard007  +0Child car seat  +1GPS module  +1satellite radio package]
+[Casual01, 6, 1, 100.0, Suv:SUV001  +0Child car seat  +1GPS module  +1satellite radio package]
+[Business02, 1, 7, 1710.0, Luxury:Luxury001  +1Child car seat  +1GPS module  +0satellite radio package, Economy:Economy002  +4Child car seat  +0GPS module  +0satellite radio package, Luxury:Luxury002  +2Child car seat  +1GPS module  +0satellite radio package]
+[Casual05, 8, 1, 95.0, Economy:Economy003  +3Child car seat  +1GPS module  +0satellite radio package]
+[Business01, 3, 7, 1285.0, Minivan:Mini004  +2Child car seat  +0GPS module  +1satellite radio package, Economy:Economy001  +3Child car seat  +1GPS module  +0satellite radio package, Economy:Economy005  +1Child car seat  +1GPS module  +0satellite radio package]
+[Regular02, 5, 5, 1060.0, Economy:Economy004  +0Child car seat  +1GPS module  +1satellite radio package, Minivan:Mini001  +0Child car seat  +0GPS module  +0satellite radio package, Suv:SUV003  +4Child car seat  +0GPS module  +0satellite radio package]
+[Regular02, 6, 4, 265.0, Standard:Standard004  +1Child car seat  +1GPS module  +0satellite radio package]
+[Casual05, 7, 3, 215.0, Standard:Standard002  +2Child car seat  +1GPS module  +0satellite radio package]
+[Casual02, 7, 3, 195.0, Standard:Standard003  +0Child car seat  +1GPS module  +0satellite radio package]
+[Casual01, 8, 2, 205.0, Luxury:Luxury001  +1Child car seat  +1GPS module  +0satellite radio package]
+[Casual04, 9, 1, 70.0, Economy:Economy002  +0Child car seat  +1GPS module  +1satellite radio package]
+[Regular02, 7, 5, 730.0, Minivan:Mini002  +2Child car seat  +0GPS module  +1satellite radio package, Minivan:Mini003  +0Child car seat  +0GPS module  +1satellite radio package]
+[Casual03, 11, 1, 90.0, Economy:Economy002  +2Child car seat  +1GPS module  +1satellite radio package]
+[Regular02, 8, 5, 335.0, Standard:Standard008  +2Child car seat  +1GPS module  +0satellite radio package]
+[Business02, 8, 7, 1605.0, Standard:Standard006  +4Child car seat  +1GPS module  +0satellite radio package, Standard:Standard007  +2Child car seat  +0GPS module  +1satellite radio package, Luxury:Luxury003  +4Child car seat  +1GPS module  +0satellite radio package]
+[Regular02, 10, 5, 2620.0, Economy:Economy001  +1Child car seat  +1GPS module  +1satellite radio package, Luxury:Luxury002  +0Child car seat  +1GPS module  +1satellite radio package, Minivan:Mini004  +4Child car seat  +1GPS module  +0satellite radio package, Luxury:Luxury001  +0Child car seat  +1GPS module  +1satellite radio package, Economy:Economy006  +1Child car seat  +1GPS module  +0satellite radio package, Suv:SUV003  +0Child car seat  +1GPS module  +1satellite radio package, Economy:Economy005  +3Child car seat  +1GPS module  +1satellite radio package]
+[Casual01, 13, 2, 135.0, Standard:Standard004  +1Child car seat  +0GPS module  +1satellite radio package]
+[Regular01, 12, 4, 535.0, Suv:SUV001  +1Child car seat  +0GPS module  +0satellite radio package, Economy:Economy002  +0Child car seat  +0GPS module  +1satellite radio package]
+[Regular01, 14, 3, 205.0, Standard:Standard002  +2Child car seat  +0GPS module  +1satellite radio package]
+[Casual04, 15, 3, 215.0, Minivan:Mini001  +0Child car seat  +0GPS module  +1satellite radio package]
+[Casual05, 16, 2, 210.0, Suv:SUV003  +3Child car seat  +1GPS module  +1satellite radio package]
+[Casual04, 17, 1, 95.0, Standard:Standard002  +3Child car seat  +0GPS module  +1satellite radio package]
+[Regular02, 14, 5, 650.0, Economy:Economy003  +4Child car seat  +0GPS module  +0satellite radio package, Standard:Standard005  +4Child car seat  +1GPS module  +1satellite radio package]
+[Regular02, 15, 5, 450.0, Suv:SUV002  +3Child car seat  +1GPS module  +1satellite radio package]
+[Regular01, 15, 5, 1515.0, Standard:Standard006  +1Child car seat  +1GPS module  +0satellite radio package, Standard:Standard001  +3Child car seat  +1GPS module  +1satellite radio package, Luxury:Luxury001  +0Child car seat  +1GPS module  +1satellite radio package, Minivan:Mini004  +2Child car seat  +0GPS module  +0satellite radio package]
+[Regular01, 16, 4, 650.0, Luxury:Luxury002  +2Child car seat  +0GPS module  +0satellite radio package, Standard:Standard008  +1Child car seat  +1GPS module  +1satellite radio package]
+[Casual05, 18, 2, 135.0, Standard:Standard007  +1Child car seat  +0GPS module  +1satellite radio package]
+[Casual04, 18, 2, 235.0, Luxury:Luxury003  +4Child car seat  +1GPS module  +0satellite radio package]
+[Casual05, 20, 2, 125.0, Standard:Standard001  +0Child car seat  +0GPS module  +1satellite radio package]
+[Regular01, 20, 4, 695.0, Minivan:Mini003  +1Child car seat  +1GPS module  +1satellite radio package, Luxury:Luxury001  +1Child car seat  +1GPS module  +0satellite radio package]
+[Regular01, 23, 4, 250.0, Economy:Economy003  +3Child car seat  +1GPS module  +1satellite radio package]
+[Regular01, 25, 3, 200.0, Standard:Standard004  +0Child car seat  +1GPS module  +1satellite radio package]
+[Casual05, 26, 2, 125.0, Standard:Standard002  +0Child car seat  +0GPS module  +1satellite radio package]
+[Casual05, 27, 1, 65.0, Economy:Economy005  +0Child car seat  +1GPS module  +0satellite radio package]
+[Casual05, 28, 3, 265.0, Minivan:Mini004  +4Child car seat  +1GPS module  +0satellite radio package]
+[Casual05, 29, 3, 295.0, Luxury:Luxury003  +2Child car seat  +0GPS module  +1satellite radio package]
+
+Active rentals record:
+Count: 0
+Cutomer name:   rental car type& license
+
+cars left in the store:
+Count: 24
+rental car type& license: [Economy:Economy004, Standard:Standard003, Minivan:Mini002, Economy:Economy001, Economy:Economy006, Suv:SUV001, Economy:Economy002, Minivan:Mini001, Suv:SUV003, Standard:Standard005, Suv:SUV002, Standard:Standard006, Luxury:Luxury002, Standard:Standard008, Standard:Standard007, Standard:Standard001, Minivan:Mini003, Luxury:Luxury001, Economy:Economy003, Standard:Standard004, Standard:Standard002, Economy:Economy005, Minivan:Mini004, Luxury:Luxury003]
+
+The income of the 32 day: 0.0
+
+*********************************************************************************
+At the begining of the day: 34
+Completed rentals record:
+Count: 46
+Cutomer name,rent day,lease,rental car information
+[Casual02, 1, 1, 65.0, Standard:Standard007  +0Child car seat  +0GPS module  +1satellite radio package]
+[Casual05, 1, 1, 120.0, Standard:Standard001  +4Child car seat  +1GPS module  +1satellite radio package]
+[Casual01, 1, 2, 130.0, Economy:Economy003  +1Child car seat  +1GPS module  +1satellite radio package]
+[Regular02, 1, 3, 400.0, Minivan:Mini001  +0Child car seat  +0GPS module  +1satellite radio package, Standard:Standard003  +0Child car seat  +0GPS module  +1satellite radio package]
+[Regular04, 1, 4, 325.0, Minivan:Mini003  +4Child car seat  +0GPS module  +1satellite radio package]
+[Regular04, 2, 3, 215.0, Standard:Standard006  +2Child car seat  +1GPS module  +0satellite radio package]
+[Casual01, 3, 2, 100.0, Economy:Economy006  +0Child car seat  +0GPS module  +0satellite radio package]
+[Regular01, 1, 5, 1220.0, Luxury:Luxury003  +0Child car seat  +1GPS module  +0satellite radio package, Suv:SUV001  +1Child car seat  +1GPS module  +0satellite radio package, Standard:Standard002  +3Child car seat  +0GPS module  +0satellite radio package]
+[Regular03, 1, 5, 390.0, Minivan:Mini002  +4Child car seat  +0GPS module  +0satellite radio package]
+[Regular02, 2, 5, 1060.0, Suv:SUV002  +0Child car seat  +1GPS module  +1satellite radio package, Standard:Standard005  +2Child car seat  +0GPS module  +0satellite radio package, Standard:Standard007  +0Child car seat  +1GPS module  +1satellite radio package]
+[Casual01, 6, 1, 100.0, Suv:SUV001  +0Child car seat  +1GPS module  +1satellite radio package]
+[Business02, 1, 7, 1710.0, Luxury:Luxury001  +1Child car seat  +1GPS module  +0satellite radio package, Economy:Economy002  +4Child car seat  +0GPS module  +0satellite radio package, Luxury:Luxury002  +2Child car seat  +1GPS module  +0satellite radio package]
+[Casual05, 8, 1, 95.0, Economy:Economy003  +3Child car seat  +1GPS module  +0satellite radio package]
+[Business01, 3, 7, 1285.0, Minivan:Mini004  +2Child car seat  +0GPS module  +1satellite radio package, Economy:Economy001  +3Child car seat  +1GPS module  +0satellite radio package, Economy:Economy005  +1Child car seat  +1GPS module  +0satellite radio package]
+[Regular02, 5, 5, 1060.0, Economy:Economy004  +0Child car seat  +1GPS module  +1satellite radio package, Minivan:Mini001  +0Child car seat  +0GPS module  +0satellite radio package, Suv:SUV003  +4Child car seat  +0GPS module  +0satellite radio package]
+[Regular02, 6, 4, 265.0, Standard:Standard004  +1Child car seat  +1GPS module  +0satellite radio package]
+[Casual05, 7, 3, 215.0, Standard:Standard002  +2Child car seat  +1GPS module  +0satellite radio package]
+[Casual02, 7, 3, 195.0, Standard:Standard003  +0Child car seat  +1GPS module  +0satellite radio package]
+[Casual01, 8, 2, 205.0, Luxury:Luxury001  +1Child car seat  +1GPS module  +0satellite radio package]
+[Casual04, 9, 1, 70.0, Economy:Economy002  +0Child car seat  +1GPS module  +1satellite radio package]
+[Regular02, 7, 5, 730.0, Minivan:Mini002  +2Child car seat  +0GPS module  +1satellite radio package, Minivan:Mini003  +0Child car seat  +0GPS module  +1satellite radio package]
+[Casual03, 11, 1, 90.0, Economy:Economy002  +2Child car seat  +1GPS module  +1satellite radio package]
+[Regular02, 8, 5, 335.0, Standard:Standard008  +2Child car seat  +1GPS module  +0satellite radio package]
+[Business02, 8, 7, 1605.0, Standard:Standard006  +4Child car seat  +1GPS module  +0satellite radio package, Standard:Standard007  +2Child car seat  +0GPS module  +1satellite radio package, Luxury:Luxury003  +4Child car seat  +1GPS module  +0satellite radio package]
+[Regular02, 10, 5, 2620.0, Economy:Economy001  +1Child car seat  +1GPS module  +1satellite radio package, Luxury:Luxury002  +0Child car seat  +1GPS module  +1satellite radio package, Minivan:Mini004  +4Child car seat  +1GPS module  +0satellite radio package, Luxury:Luxury001  +0Child car seat  +1GPS module  +1satellite radio package, Economy:Economy006  +1Child car seat  +1GPS module  +0satellite radio package, Suv:SUV003  +0Child car seat  +1GPS module  +1satellite radio package, Economy:Economy005  +3Child car seat  +1GPS module  +1satellite radio package]
+[Casual01, 13, 2, 135.0, Standard:Standard004  +1Child car seat  +0GPS module  +1satellite radio package]
+[Regular01, 12, 4, 535.0, Suv:SUV001  +1Child car seat  +0GPS module  +0satellite radio package, Economy:Economy002  +0Child car seat  +0GPS module  +1satellite radio package]
+[Regular01, 14, 3, 205.0, Standard:Standard002  +2Child car seat  +0GPS module  +1satellite radio package]
+[Casual04, 15, 3, 215.0, Minivan:Mini001  +0Child car seat  +0GPS module  +1satellite radio package]
+[Casual05, 16, 2, 210.0, Suv:SUV003  +3Child car seat  +1GPS module  +1satellite radio package]
+[Casual04, 17, 1, 95.0, Standard:Standard002  +3Child car seat  +0GPS module  +1satellite radio package]
+[Regular02, 14, 5, 650.0, Economy:Economy003  +4Child car seat  +0GPS module  +0satellite radio package, Standard:Standard005  +4Child car seat  +1GPS module  +1satellite radio package]
+[Regular02, 15, 5, 450.0, Suv:SUV002  +3Child car seat  +1GPS module  +1satellite radio package]
+[Regular01, 15, 5, 1515.0, Standard:Standard006  +1Child car seat  +1GPS module  +0satellite radio package, Standard:Standard001  +3Child car seat  +1GPS module  +1satellite radio package, Luxury:Luxury001  +0Child car seat  +1GPS module  +1satellite radio package, Minivan:Mini004  +2Child car seat  +0GPS module  +0satellite radio package]
+[Regular01, 16, 4, 650.0, Luxury:Luxury002  +2Child car seat  +0GPS module  +0satellite radio package, Standard:Standard008  +1Child car seat  +1GPS module  +1satellite radio package]
+[Casual05, 18, 2, 135.0, Standard:Standard007  +1Child car seat  +0GPS module  +1satellite radio package]
+[Casual04, 18, 2, 235.0, Luxury:Luxury003  +4Child car seat  +1GPS module  +0satellite radio package]
+[Casual05, 20, 2, 125.0, Standard:Standard001  +0Child car seat  +0GPS module  +1satellite radio package]
+[Regular01, 20, 4, 695.0, Minivan:Mini003  +1Child car seat  +1GPS module  +1satellite radio package, Luxury:Luxury001  +1Child car seat  +1GPS module  +0satellite radio package]
+[Regular01, 23, 4, 250.0, Economy:Economy003  +3Child car seat  +1GPS module  +1satellite radio package]
+[Regular01, 25, 3, 200.0, Standard:Standard004  +0Child car seat  +1GPS module  +1satellite radio package]
+[Casual05, 26, 2, 125.0, Standard:Standard002  +0Child car seat  +0GPS module  +1satellite radio package]
+[Casual05, 27, 1, 65.0, Economy:Economy005  +0Child car seat  +1GPS module  +0satellite radio package]
+[Casual05, 28, 3, 265.0, Minivan:Mini004  +4Child car seat  +1GPS module  +0satellite radio package]
+[Casual05, 29, 3, 295.0, Luxury:Luxury003  +2Child car seat  +0GPS module  +1satellite radio package]
+[Casual05, 33, 1, 105.0, Minivan:Mini003  +2Child car seat  +1GPS module  +0satellite radio package]
+
+Active rentals record:
+Count: 0
+Cutomer name:   rental car type& license
+
+cars left in the store:
+Count: 24
+rental car type& license: [Economy:Economy004, Standard:Standard003, Minivan:Mini002, Economy:Economy001, Economy:Economy006, Suv:SUV001, Economy:Economy002, Minivan:Mini001, Suv:SUV003, Standard:Standard005, Suv:SUV002, Standard:Standard006, Luxury:Luxury002, Standard:Standard008, Standard:Standard007, Standard:Standard001, Luxury:Luxury001, Economy:Economy003, Standard:Standard004, Standard:Standard002, Economy:Economy005, Minivan:Mini004, Luxury:Luxury003, Minivan:Mini003]
+
+The income of the 33 day: 105.0
+
+*********************************************************************************
+At the begining of the day: 35
+Completed rentals record:
+Count: 46
+Cutomer name,rent day,lease,rental car information
+[Casual02, 1, 1, 65.0, Standard:Standard007  +0Child car seat  +0GPS module  +1satellite radio package]
+[Casual05, 1, 1, 120.0, Standard:Standard001  +4Child car seat  +1GPS module  +1satellite radio package]
+[Casual01, 1, 2, 130.0, Economy:Economy003  +1Child car seat  +1GPS module  +1satellite radio package]
+[Regular02, 1, 3, 400.0, Minivan:Mini001  +0Child car seat  +0GPS module  +1satellite radio package, Standard:Standard003  +0Child car seat  +0GPS module  +1satellite radio package]
+[Regular04, 1, 4, 325.0, Minivan:Mini003  +4Child car seat  +0GPS module  +1satellite radio package]
+[Regular04, 2, 3, 215.0, Standard:Standard006  +2Child car seat  +1GPS module  +0satellite radio package]
+[Casual01, 3, 2, 100.0, Economy:Economy006  +0Child car seat  +0GPS module  +0satellite radio package]
+[Regular01, 1, 5, 1220.0, Luxury:Luxury003  +0Child car seat  +1GPS module  +0satellite radio package, Suv:SUV001  +1Child car seat  +1GPS module  +0satellite radio package, Standard:Standard002  +3Child car seat  +0GPS module  +0satellite radio package]
+[Regular03, 1, 5, 390.0, Minivan:Mini002  +4Child car seat  +0GPS module  +0satellite radio package]
+[Regular02, 2, 5, 1060.0, Suv:SUV002  +0Child car seat  +1GPS module  +1satellite radio package, Standard:Standard005  +2Child car seat  +0GPS module  +0satellite radio package, Standard:Standard007  +0Child car seat  +1GPS module  +1satellite radio package]
+[Casual01, 6, 1, 100.0, Suv:SUV001  +0Child car seat  +1GPS module  +1satellite radio package]
+[Business02, 1, 7, 1710.0, Luxury:Luxury001  +1Child car seat  +1GPS module  +0satellite radio package, Economy:Economy002  +4Child car seat  +0GPS module  +0satellite radio package, Luxury:Luxury002  +2Child car seat  +1GPS module  +0satellite radio package]
+[Casual05, 8, 1, 95.0, Economy:Economy003  +3Child car seat  +1GPS module  +0satellite radio package]
+[Business01, 3, 7, 1285.0, Minivan:Mini004  +2Child car seat  +0GPS module  +1satellite radio package, Economy:Economy001  +3Child car seat  +1GPS module  +0satellite radio package, Economy:Economy005  +1Child car seat  +1GPS module  +0satellite radio package]
+[Regular02, 5, 5, 1060.0, Economy:Economy004  +0Child car seat  +1GPS module  +1satellite radio package, Minivan:Mini001  +0Child car seat  +0GPS module  +0satellite radio package, Suv:SUV003  +4Child car seat  +0GPS module  +0satellite radio package]
+[Regular02, 6, 4, 265.0, Standard:Standard004  +1Child car seat  +1GPS module  +0satellite radio package]
+[Casual05, 7, 3, 215.0, Standard:Standard002  +2Child car seat  +1GPS module  +0satellite radio package]
+[Casual02, 7, 3, 195.0, Standard:Standard003  +0Child car seat  +1GPS module  +0satellite radio package]
+[Casual01, 8, 2, 205.0, Luxury:Luxury001  +1Child car seat  +1GPS module  +0satellite radio package]
+[Casual04, 9, 1, 70.0, Economy:Economy002  +0Child car seat  +1GPS module  +1satellite radio package]
+[Regular02, 7, 5, 730.0, Minivan:Mini002  +2Child car seat  +0GPS module  +1satellite radio package, Minivan:Mini003  +0Child car seat  +0GPS module  +1satellite radio package]
+[Casual03, 11, 1, 90.0, Economy:Economy002  +2Child car seat  +1GPS module  +1satellite radio package]
+[Regular02, 8, 5, 335.0, Standard:Standard008  +2Child car seat  +1GPS module  +0satellite radio package]
+[Business02, 8, 7, 1605.0, Standard:Standard006  +4Child car seat  +1GPS module  +0satellite radio package, Standard:Standard007  +2Child car seat  +0GPS module  +1satellite radio package, Luxury:Luxury003  +4Child car seat  +1GPS module  +0satellite radio package]
+[Regular02, 10, 5, 2620.0, Economy:Economy001  +1Child car seat  +1GPS module  +1satellite radio package, Luxury:Luxury002  +0Child car seat  +1GPS module  +1satellite radio package, Minivan:Mini004  +4Child car seat  +1GPS module  +0satellite radio package, Luxury:Luxury001  +0Child car seat  +1GPS module  +1satellite radio package, Economy:Economy006  +1Child car seat  +1GPS module  +0satellite radio package, Suv:SUV003  +0Child car seat  +1GPS module  +1satellite radio package, Economy:Economy005  +3Child car seat  +1GPS module  +1satellite radio package]
+[Casual01, 13, 2, 135.0, Standard:Standard004  +1Child car seat  +0GPS module  +1satellite radio package]
+[Regular01, 12, 4, 535.0, Suv:SUV001  +1Child car seat  +0GPS module  +0satellite radio package, Economy:Economy002  +0Child car seat  +0GPS module  +1satellite radio package]
+[Regular01, 14, 3, 205.0, Standard:Standard002  +2Child car seat  +0GPS module  +1satellite radio package]
+[Casual04, 15, 3, 215.0, Minivan:Mini001  +0Child car seat  +0GPS module  +1satellite radio package]
+[Casual05, 16, 2, 210.0, Suv:SUV003  +3Child car seat  +1GPS module  +1satellite radio package]
+[Casual04, 17, 1, 95.0, Standard:Standard002  +3Child car seat  +0GPS module  +1satellite radio package]
+[Regular02, 14, 5, 650.0, Economy:Economy003  +4Child car seat  +0GPS module  +0satellite radio package, Standard:Standard005  +4Child car seat  +1GPS module  +1satellite radio package]
+[Regular02, 15, 5, 450.0, Suv:SUV002  +3Child car seat  +1GPS module  +1satellite radio package]
+[Regular01, 15, 5, 1515.0, Standard:Standard006  +1Child car seat  +1GPS module  +0satellite radio package, Standard:Standard001  +3Child car seat  +1GPS module  +1satellite radio package, Luxury:Luxury001  +0Child car seat  +1GPS module  +1satellite radio package, Minivan:Mini004  +2Child car seat  +0GPS module  +0satellite radio package]
+[Regular01, 16, 4, 650.0, Luxury:Luxury002  +2Child car seat  +0GPS module  +0satellite radio package, Standard:Standard008  +1Child car seat  +1GPS module  +1satellite radio package]
+[Casual05, 18, 2, 135.0, Standard:Standard007  +1Child car seat  +0GPS module  +1satellite radio package]
+[Casual04, 18, 2, 235.0, Luxury:Luxury003  +4Child car seat  +1GPS module  +0satellite radio package]
+[Casual05, 20, 2, 125.0, Standard:Standard001  +0Child car seat  +0GPS module  +1satellite radio package]
+[Regular01, 20, 4, 695.0, Minivan:Mini003  +1Child car seat  +1GPS module  +1satellite radio package, Luxury:Luxury001  +1Child car seat  +1GPS module  +0satellite radio package]
+[Regular01, 23, 4, 250.0, Economy:Economy003  +3Child car seat  +1GPS module  +1satellite radio package]
+[Regular01, 25, 3, 200.0, Standard:Standard004  +0Child car seat  +1GPS module  +1satellite radio package]
+[Casual05, 26, 2, 125.0, Standard:Standard002  +0Child car seat  +0GPS module  +1satellite radio package]
+[Casual05, 27, 1, 65.0, Economy:Economy005  +0Child car seat  +1GPS module  +0satellite radio package]
+[Casual05, 28, 3, 265.0, Minivan:Mini004  +4Child car seat  +1GPS module  +0satellite radio package]
+[Casual05, 29, 3, 295.0, Luxury:Luxury003  +2Child car seat  +0GPS module  +1satellite radio package]
+[Casual05, 33, 1, 105.0, Minivan:Mini003  +2Child car seat  +1GPS module  +0satellite radio package]
+
+Active rentals record:
+Count: 1
+Cutomer name:   rental car type& license
+[Casual05, Minivan, Mini002]
+
+cars left in the store:
+Count: 23
+rental car type& license: [Economy:Economy004, Standard:Standard003, Economy:Economy001, Economy:Economy006, Suv:SUV001, Economy:Economy002, Minivan:Mini001, Suv:SUV003, Standard:Standard005, Suv:SUV002, Standard:Standard006, Luxury:Luxury002, Standard:Standard008, Standard:Standard007, Standard:Standard001, Luxury:Luxury001, Economy:Economy003, Standard:Standard004, Standard:Standard002, Economy:Economy005, Minivan:Mini004, Luxury:Luxury003, Minivan:Mini003]
+
+The income of the 34 day: 155.0
+
+**************************************************************************
+The total completed rentals is 46
+The completed rentals by type: Business 3
+The completed rentals by type: Regular 20
+The completed rentals by type: Casual 23
+The total income is: 21915.0
+
+Process finished with exit code 0
