@@ -9,6 +9,7 @@ IntelliJ IDEA Community Edition 2019.3.1
 ## File
 1.output file :printout.txt
 2.PDF file: UML Diagram
+To simplify the diagram, we omit some details attributes such as some lists.
 
 ## Description of program design
 We has 3 parts: cars,customers and store.
