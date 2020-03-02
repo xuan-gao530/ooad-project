@@ -16,10 +16,10 @@ We has 3 parts: cars,customers and store.
 * We use **Observer Pattern** to output the information.
 
 1. cars (options)
-type | number | price
+|type | number | price|
 |-:|-:|-:| 
-Economy | 6 | 50
-Standard| 8 | 60
-Luxury  | 3 | 90
-Minivan | 4 | 70
-SUV     | 3 | 80
+|Economy | 6 | 50|
+|Standard| 8 | 60|
+|Luxury  | 3 | 90|
+|Minivan | 4 | 70|
+|SUV     | 3 | 80|
