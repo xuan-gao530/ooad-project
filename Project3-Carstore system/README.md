@@ -36,6 +36,7 @@ We set the number of options randomly. And we calculate the cost with options.
 |Business | 3 | 3 | 7|
 |Regular  | 4 |1-3|3-5|
 |Casual   | 5 | 1 |1-3|
+
 For each type of customer, we all set the limit for their rental cars and nights in the class and then randomly set the value.
 
 3.store
