@@ -143,7 +143,7 @@ public class carstore implements Subject{
                 System.out.println("There is no car to rent");
             }
             List<Integer> cidlist = new ArrayList<>(Arrays.asList(20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20));
-            while (customernum != 0 && carlist.size() >=0 ) {
+            while (customernum != 0 && carlist.size() >0 ) {
                 customernum = customernum - 1;
                 int cid = (int) (activecustomer.size() * Math.random());
                 while(cidlist.contains(cid)){
