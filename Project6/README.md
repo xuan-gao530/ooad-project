@@ -45,3 +45,6 @@ Ps: In accounts table, we don't save the information of unregister.
 - Open the  IntelliJ IDEA and edit the tomcat configuration
 - Run the program and open the webpage :http://localhost:8080/sunny/
     - Login username and userpassword information is in accounts.sql.
+    
+### Reference
+https://www3.ntu.edu.sg/home/ehchua/programming/index.html   IM2073 Web Programming
